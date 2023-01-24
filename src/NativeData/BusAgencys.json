@@ -1,0 +1,142 @@
+[
+    {
+      "AgencyCode": "2",
+      "AgencyName": "רכבת ישראל"
+    },
+    {
+      "AgencyCode": "3",
+      "AgencyName": "אגד"
+    },
+    {
+      "AgencyCode": "4",
+      "AgencyName": "אגד תעבורה"
+    },
+    {
+      "AgencyCode": "5",
+      "AgencyName": "דן"
+    },
+    {
+      "AgencyCode": "6",
+      "AgencyName": "ש.א.מ"
+    },
+    {
+      "AgencyCode": "7",
+      "AgencyName": "נסיעות ותיירות"
+    },
+    {
+      "AgencyCode": "8",
+      "AgencyName": "גי.בי.טורס"
+    },
+    {
+      "AgencyCode": "10",
+      "AgencyName": "מועצה אזורית אילות"
+    },
+    {
+      "AgencyCode": "14",
+      "AgencyName": "נתיב אקספרס"
+    },
+    {
+      "AgencyCode": "15",
+      "AgencyName": "מטרופולין"
+    },
+    {
+      "AgencyCode": "16",
+      "AgencyName": "סופרבוס"
+    },
+    {
+      "AgencyCode": "18",
+      "AgencyName": "קווים"
+    },
+    {
+      "AgencyCode": "20",
+      "AgencyName": "כרמלית"
+    },
+    {
+      "AgencyCode": "21",
+      "AgencyName": "כפיר"
+    },
+    {
+      "AgencyCode": "23",
+      "AgencyName": "גלים"
+    },
+    {
+      "AgencyCode": "24",
+      "AgencyName": "מועצה אזורית גולן"
+    },
+    {
+      "AgencyCode": "25",
+      "AgencyName": "אלקטרה אפיקים"
+    },
+    {
+      "AgencyCode": "31",
+      "AgencyName": "דן בדרום"
+    },
+    {
+      "AgencyCode": "32",
+      "AgencyName": "דן באר שבע"
+    },
+    {
+      "AgencyCode": "33",
+      "AgencyName": "כבל אקספרס"
+    },
+    {
+      "AgencyCode": "34",
+      "AgencyName": "תנופה"
+    },
+    {
+      "AgencyCode": "35",
+      "AgencyName": "בית שמש אקספרס"
+    },
+    {
+      "AgencyCode": "37",
+      "AgencyName": "אקסטרה"
+    },
+    {
+      "AgencyCode": "38",
+      "AgencyName": "אקסטרה ירושלים"
+    },
+    {
+      "AgencyCode": "42",
+      "AgencyName": "ירושלים-רמאללה איחוד"
+    },
+    {
+      "AgencyCode": "44",
+      "AgencyName": "ירושלים-אבו-תור-ענאתא איחוד"
+    },
+    {
+      "AgencyCode": "45",
+      "AgencyName": "ירושלים-אלווסט איחוד"
+    },
+    {
+      "AgencyCode": "47",
+      "AgencyName": "ירושלים-הר הזיתים"
+    },
+    {
+      "AgencyCode": "49",
+      "AgencyName": "ירושלים - עיסאוויה מחנה שעפאט איחוד"
+    },
+    {
+      "AgencyCode": "50",
+      "AgencyName": "ירושלים-דרום איחוד"
+    },
+    {
+      "AgencyCode": "51",
+      "AgencyName": "ירושלים-צור באהר איחוד"
+    },
+    {
+      "AgencyCode": "91",
+      "AgencyName": "מוניות מטרו קו"
+    },
+    {
+      "AgencyCode": "93",
+      "AgencyName": "מוניות מאיה יצחק שדה"
+    },
+    {
+      "AgencyCode": "97",
+      "AgencyName": "אודליה מוניות בעמ"
+    },
+    {
+      "AgencyCode": "98",
+      "AgencyName": "מוניות רב קווית 4-5"
+    }
+  ]

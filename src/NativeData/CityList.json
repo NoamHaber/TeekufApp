@@ -1,0 +1,9263 @@
+[
+  {
+    "CityCode": 407,
+    "CityName": "א.ת.אלון תבור-מסעף",
+    "key": 1
+  },
+  {
+    "CityCode": 9921,
+    "CityName": "א.ת.בר-לב",
+    "key": 2
+  },
+  {
+    "CityCode": 472,
+    "CityName": "אבו גוש",
+    "key": 3
+  },
+  {
+    "CityCode": 1358,
+    "CityName": "אבו כף אום בטין ",
+    "key": 4
+  },
+  {
+    "CityCode": 473,
+    "CityName": "אבו סנאן",
+    "key": 5
+  },
+  {
+    "CityCode": 931,
+    "CityName": "אבו-בלאל",
+    "key": 6
+  },
+  {
+    "CityCode": 935,
+    "CityName": "אבו-סריחאן",
+    "key": 9
+  },
+  {
+    "CityCode": 958,
+    "CityName": "אבו-עבדון",
+    "key": 10
+  },
+  {
+    "CityCode": 1042,
+    "CityName": "אבו-עמאר",
+    "key": 11
+  },
+  {
+    "CityCode": 932,
+    "CityName": "אבו-עמרה",
+    "key": 12
+  },
+  {
+    "CityCode": 968,
+    "CityName": "אבו-קרינאת",
+    "key": 13
+  },
+  {
+    "CityCode": 966,
+    "CityName": "אבו-רביעה",
+    "key": 14
+  },
+  {
+    "CityCode": 961,
+    "CityName": "אבו-רקיק",
+    "key": 15
+  },
+  {
+    "CityCode": 1275,
+    "CityName": "אבטליון",
+    "key": 16
+  },
+  {
+    "CityCode": 679,
+    "CityName": "אביאל",
+    "key": 17
+  },
+  {
+    "CityCode": 1115,
+    "CityName": "אביבים",
+    "key": 18
+  },
+  {
+    "CityCode": 819,
+    "CityName": "אביגדור",
+    "key": 19
+  },
+  {
+    "CityCode": 320,
+    "CityName": "אביגדור - מסעף",
+    "key": 20
+  },
+  {
+    "CityCode": 175,
+    "CityName": "אביחיל",
+    "key": 21
+  },
+  {
+    "CityCode": 2052,
+    "CityName": "אביטל",
+    "key": 22
+  },
+  {
+    "CityCode": 1070,
+    "CityName": "אביעזר",
+    "key": 23
+  },
+  {
+    "CityCode": 1220,
+    "CityName": "אבירים",
+    "key": 24
+  },
+  {
+    "CityCode": 182,
+    "CityName": "אבן יהודה",
+    "key": 25
+  },
+  {
+    "CityCode": 369,
+    "CityName": "אבן יצחק",
+    "key": 26
+  },
+  {
+    "CityCode": 1081,
+    "CityName": "אבן מנחם",
+    "key": 27
+  },
+  {
+    "CityCode": 783,
+    "CityName": "אבן ספיר",
+    "key": 28
+  },
+  {
+    "CityCode": 400,
+    "CityName": "אבן שמואל",
+    "key": 29
+  },
+  {
+    "CityCode": 4011,
+    "CityName": "אבני איתן",
+    "key": 35
+  },
+  {
+    "CityCode": 3793,
+    "CityName": "אבני חפץ",
+    "key": 36
+  },
+  {
+    "CityCode": 3786,
+    "CityName": "אבנת",
+    "key": 39
+  },
+  {
+    "CityCode": 9917,
+    "CityName": "אבשלום",
+    "key": 40
+  },
+  {
+    "CityCode": 474,
+    "CityName": "אבת'ן",
+    "key": 41
+  },
+  {
+    "CityCode": 3759,
+    "CityName": "אדורה",
+    "key": 42
+  },
+  {
+    "CityCode": 113,
+    "CityName": "אדירים",
+    "key": 43
+  },
+  {
+    "CityCode": 1110,
+    "CityName": "אדירים-צומת",
+    "key": 44
+  },
+  {
+    "CityCode": 3763,
+    "CityName": "אדם",
+    "key": 45
+  },
+  {
+    "CityCode": 1123,
+    "CityName": "אדרת",
+    "key": 46
+  },
+  {
+    "CityCode": 8062,
+    "CityName": "אוגדת איוש",
+    "key": 48
+  },
+  {
+    "CityCode": 8019,
+    "CityName": "אוגמר 80",
+    "key": 49
+  },
+  {
+    "CityCode": 446,
+    "CityName": "אודים",
+    "key": 50
+  },
+  {
+    "CityCode": 4010,
+    "CityName": "אודם",
+    "key": 51
+  },
+  {
+    "CityCode": 1046,
+    "CityName": "אוהד",
+    "key": 52
+  },
+  {
+    "CityCode": 1120,
+    "CityName": "אוהלו",
+    "key": 53
+  },
+  {
+    "CityCode": 476,
+    "CityName": "אום אל גאנם",
+    "key": 54
+  },
+  {
+    "CityCode": 2710,
+    "CityName": "אום אל פאחם",
+    "key": 56
+  },
+  {
+    "CityCode": 1813,
+    "CityName": "אום דר",
+    "key": 58
+  },
+  {
+    "CityCode": 3008,
+    "CityName": "אום-א-טלע",
+    "key": 59
+  },
+  {
+    "CityCode": 2024,
+    "CityName": "אום-אל-קוטוף",
+    "key": 63
+  },
+  {
+    "CityCode": 3012,
+    "CityName": "אום-עסלה",
+    "key": 64
+  },
+  {
+    "CityCode": 1108,
+    "CityName": "אומן",
+    "key": 65
+  },
+  {
+    "CityCode": 680,
+    "CityName": "אומץ",
+    "key": 66
+  },
+  {
+    "CityCode": 8600,
+    "CityName": "אוניברסיטת בר אילן",
+    "key": 67
+  },
+  {
+    "CityCode": 31,
+    "CityName": "אופקים",
+    "key": 68
+  },
+  {
+    "CityCode": 1294,
+    "CityName": "אור הגנוז",
+    "key": 69
+  },
+  {
+    "CityCode": 67,
+    "CityName": "אור הנר",
+    "key": 70
+  },
+  {
+    "CityCode": 2400,
+    "CityName": "אור יהודה",
+    "key": 71
+  },
+  {
+    "CityCode": 1098,
+    "CityName": "אור עציון",
+    "key": 72
+  },
+  {
+    "CityCode": 1020,
+    "CityName": "אור עקיבא",
+    "key": 73
+  },
+  {
+    "CityCode": 428,
+    "CityName": "אור-הנר-מסעף",
+    "key": 76
+  },
+  {
+    "CityCode": 780,
+    "CityName": "אורה",
+    "key": 80
+  },
+  {
+    "CityCode": 6013,
+    "CityName": "אורון",
+    "key": 81
+  },
+  {
+    "CityCode": 2012,
+    "CityName": "אורות",
+    "key": 82
+  },
+  {
+    "CityCode": 4013,
+    "CityName": "אורטל",
+    "key": 83
+  },
+  {
+    "CityCode": 403,
+    "CityName": "אורים",
+    "key": 84
+  },
+  {
+    "CityCode": 882,
+    "CityName": "אורנים",
+    "key": 85
+  },
+  {
+    "CityCode": 3760,
+    "CityName": "אורנית",
+    "key": 86
+  },
+  {
+    "CityCode": 278,
+    "CityName": "אושה",
+    "key": 87
+  },
+  {
+    "CityCode": 1256,
+    "CityName": "אושרת",
+    "key": 88
+  },
+  {
+    "CityCode": 572,
+    "CityName": "אושרת-מסעף",
+    "key": 89
+  },
+  {
+    "CityCode": 565,
+    "CityName": "אזור",
+    "key": 90
+  },
+  {
+    "CityCode": 1794,
+    "CityName": "אזור תעסוקה מיתרים",
+    "key": 91
+  },
+  {
+    "CityCode": 1157,
+    "CityName": "אחוה",
+    "key": 95
+  },
+  {
+    "CityCode": 7066,
+    "CityName": "אחוה-צומת",
+    "key": 96
+  },
+  {
+    "CityCode": 821,
+    "CityName": "אחוזם",
+    "key": 98
+  },
+  {
+    "CityCode": 1330,
+    "CityName": "אחוזת ברק",
+    "key": 100
+  },
+  {
+    "CityCode": 785,
+    "CityName": "אחיהוד",
+    "key": 102
+  },
+  {
+    "CityCode": 850,
+    "CityName": "אחיטוב",
+    "key": 103
+  },
+  {
+    "CityCode": 804,
+    "CityName": "אחיסמך",
+    "key": 104
+  },
+  {
+    "CityCode": 797,
+    "CityName": "אחיעזר",
+    "key": 105
+  },
+  {
+    "CityCode": 798,
+    "CityName": "אחיעזר-מסעף",
+    "key": 106
+  },
+  {
+    "CityCode": 965,
+    "CityName": "אטרש",
+    "key": 107
+  },
+  {
+    "CityCode": 652,
+    "CityName": "איבטין",
+    "key": 108
+  },
+  {
+    "CityCode": 9957,
+    "CityName": "איבי נחל",
+    "key": 109
+  },
+  {
+    "CityCode": 2104,
+    "CityName": "איבים",
+    "key": 111
+  },
+  {
+    "CityCode": 1068,
+    "CityName": "אידמית",
+    "key": 112
+  },
+  {
+    "CityCode": 716,
+    "CityName": "אייל",
+    "key": 113
+  },
+  {
+    "CityCode": 77,
+    "CityName": "איילת השחר",
+    "key": 114
+  },
+  {
+    "CityCode": 478,
+    "CityName": "איכסל",
+    "key": 116
+  },
+  {
+    "CityCode": 294,
+    "CityName": "אילון",
+    "key": 117
+  },
+  {
+    "CityCode": 1126,
+    "CityName": "אילות",
+    "key": 118
+  },
+  {
+    "CityCode": 9939,
+    "CityName": "אילנות-מוסד",
+    "key": 119
+  },
+  {
+    "CityCode": 49,
+    "CityName": "אילניה/סג'רה",
+    "key": 120
+  },
+  {
+    "CityCode": 2600,
+    "CityName": "אילת",
+    "key": 121
+  },
+  {
+    "CityCode": 1336,
+    "CityName": "אירוס",
+    "key": 123
+  },
+  {
+    "CityCode": 3762,
+    "CityName": "איתמר",
+    "key": 124
+  },
+  {
+    "CityCode": 37,
+    "CityName": "איתן",
+    "key": 125
+  },
+  {
+    "CityCode": 886,
+    "CityName": "איתנים",
+    "key": 127
+  },
+  {
+    "CityCode": 2107,
+    "CityName": "אכזיב",
+    "key": 128
+  },
+  {
+    "CityCode": 1316,
+    "CityName": "אל עריאן",
+    "key": 129
+  },
+  {
+    "CityCode": 3048,
+    "CityName": "אל-בידא",
+    "key": 130
+  },
+  {
+    "CityCode": 645,
+    "CityName": "אל-משירפה",
+    "key": 131
+  },
+  {
+    "CityCode": 7092,
+    "CityName": "אל-משש",
+    "key": 132
+  },
+  {
+    "CityCode": 9026,
+    "CityName": "אל-סייד",
+    "key": 133
+  },
+  {
+    "CityCode": 7091,
+    "CityName": "אל-עזזמה",
+    "key": 134
+  },
+  {
+    "CityCode": 9008,
+    "CityName": "אל-עסם",
+    "key": 135
+  },
+  {
+    "CityCode": 9971,
+    "CityName": "אלדד",
+    "key": 136
+  },
+  {
+    "CityCode": 1145,
+    "CityName": "אלומה",
+    "key": 137
+  },
+  {
+    "CityCode": 766,
+    "CityName": "אלומה-צומת",
+    "key": 138
+  },
+  {
+    "CityCode": 330,
+    "CityName": "אלומות",
+    "key": 139
+  },
+  {
+    "CityCode": 9936,
+    "CityName": "אלון",
+    "key": 140
+  },
+  {
+    "CityCode": 1182,
+    "CityName": "אלון הגליל",
+    "key": 141
+  },
+  {
+    "CityCode": 3579,
+    "CityName": "אלון מורה",
+    "key": 142
+  },
+  {
+    "CityCode": 3604,
+    "CityName": "אלון שבות",
+    "key": 143
+  },
+  {
+    "CityCode": 429,
+    "CityName": "אלוני אבא",
+    "key": 147
+  },
+  {
+    "CityCode": 4017,
+    "CityName": "אלוני הבשן",
+    "key": 148
+  },
+  {
+    "CityCode": 868,
+    "CityName": "אלוני יצחק",
+    "key": 149
+  },
+  {
+    "CityCode": 285,
+    "CityName": "אלונים",
+    "key": 153
+  },
+  {
+    "CityCode": 1402,
+    "CityName": "אלי-עד",
+    "key": 154
+  },
+  {
+    "CityCode": 4002,
+    "CityName": "אלי-על",
+    "key": 155
+  },
+  {
+    "CityCode": 1365,
+    "CityName": "אליאב",
+    "key": 156
+  },
+  {
+    "CityCode": 41,
+    "CityName": "אליכין",
+    "key": 157
+  },
+  {
+    "CityCode": 1248,
+    "CityName": "אליפז",
+    "key": 159
+  },
+  {
+    "CityCode": 730,
+    "CityName": "אליפלט",
+    "key": 160
+  },
+  {
+    "CityCode": 682,
+    "CityName": "אליקים",
+    "key": 161
+  },
+  {
+    "CityCode": 204,
+    "CityName": "אלישיב",
+    "key": 162
+  },
+  {
+    "CityCode": 841,
+    "CityName": "אלישמע",
+    "key": 163
+  },
+  {
+    "CityCode": 1125,
+    "CityName": "אלמגור",
+    "key": 164
+  },
+  {
+    "CityCode": 3556,
+    "CityName": "אלמוג",
+    "key": 165
+  },
+  {
+    "CityCode": 1309,
+    "CityName": "אלעד",
+    "key": 166
+  },
+  {
+    "CityCode": 1339,
+    "CityName": "אלעזי",
+    "key": 167
+  },
+  {
+    "CityCode": 3618,
+    "CityName": "אלעזר",
+    "key": 168
+  },
+  {
+    "CityCode": 3750,
+    "CityName": "אלפי מנשה",
+    "key": 169
+  },
+  {
+    "CityCode": 603,
+    "CityName": "אלקוש",
+    "key": 171
+  },
+  {
+    "CityCode": 3560,
+    "CityName": "אלקנה",
+    "key": 172
+  },
+  {
+    "CityCode": 2117,
+    "CityName": "אלרואי",
+    "key": 173
+  },
+  {
+    "CityCode": 4003,
+    "CityName": "אלרום",
+    "key": 174
+  },
+  {
+    "CityCode": 772,
+    "CityName": "אמונים",
+    "key": 175
+  },
+  {
+    "CityCode": 1064,
+    "CityName": "אמירים",
+    "key": 176
+  },
+  {
+    "CityCode": 1253,
+    "CityName": "אמנון",
+    "key": 178
+  },
+  {
+    "CityCode": 23,
+    "CityName": "אמציה",
+    "key": 180
+  },
+  {
+    "CityCode": 3015,
+    "CityName": "אמריש",
+    "key": 181
+  },
+  {
+    "CityCode": 4012,
+    "CityName": "אניעם",
+    "key": 182
+  },
+  {
+    "CityCode": 960,
+    "CityName": "אסד",
+    "key": 183
+  },
+  {
+    "CityCode": 6021,
+    "CityName": "אסמאעיל",
+    "key": 184
+  },
+  {
+    "CityCode": 8134,
+    "CityName": "אסף הרופא",
+    "key": 185
+  },
+  {
+    "CityCode": 529,
+    "CityName": "אעבלין",
+    "key": 186
+  },
+  {
+    "CityCode": 963,
+    "CityName": "אעצם",
+    "key": 187
+  },
+  {
+    "CityCode": 959,
+    "CityName": "אפיניש",
+    "key": 188
+  },
+  {
+    "CityCode": 4301,
+    "CityName": "אפיק",
+    "key": 189
+  },
+  {
+    "CityCode": 176,
+    "CityName": "אפיקים",
+    "key": 190
+  },
+  {
+    "CityCode": 2032,
+    "CityName": "אפעל-ב.אבות",
+    "key": 191
+  },
+  {
+    "CityCode": 1048,
+    "CityName": "אפעל-מר.סמינריוני",
+    "key": 192
+  },
+  {
+    "CityCode": 313,
+    "CityName": "אפק",
+    "key": 193
+  },
+  {
+    "CityCode": 3650,
+    "CityName": "אפרת",
+    "key": 194
+  },
+  {
+    "CityCode": 9893,
+    "CityName": "אצטדיון טרנר",
+    "key": 196
+  },
+  {
+    "CityCode": 701,
+    "CityName": "ארבל",
+    "key": 197
+  },
+  {
+    "CityCode": 3598,
+    "CityName": "ארגמן",
+    "key": 198
+  },
+  {
+    "CityCode": 714,
+    "CityName": "ארז",
+    "key": 199
+  },
+  {
+    "CityCode": 2122,
+    "CityName": "ארזה",
+    "key": 200
+  },
+  {
+    "CityCode": 3570,
+    "CityName": "אריאל",
+    "key": 201
+  },
+  {
+    "CityCode": 1324,
+    "CityName": "ארסוף",
+    "key": 202
+  },
+  {
+    "CityCode": 232,
+    "CityName": "ארסוף-מסעף",
+    "key": 203
+  },
+  {
+    "CityCode": 71,
+    "CityName": "אשבול",
+    "key": 204
+  },
+  {
+    "CityCode": 1276,
+    "CityName": "אשבל",
+    "key": 205
+  },
+  {
+    "CityCode": 70,
+    "CityName": "אשדוד",
+    "key": 206
+  },
+  {
+    "CityCode": 199,
+    "CityName": "אשדות יעקב/איחוד",
+    "key": 207
+  },
+  {
+    "CityCode": 188,
+    "CityName": "אשדות יעקב/מאוחד",
+    "key": 208
+  },
+  {
+    "CityCode": 1188,
+    "CityName": "אשחר",
+    "key": 211
+  },
+  {
+    "CityCode": 1933,
+    "CityName": "אשכול",
+    "key": 212
+  },
+  {
+    "CityCode": 3722,
+    "CityName": "אשכולות",
+    "key": 213
+  },
+  {
+    "CityCode": 2452,
+    "CityName": "אשכולות(חווה)",
+    "key": 214
+  },
+  {
+    "CityCode": 2021,
+    "CityName": "אשל הנשיא",
+    "key": 215
+  },
+  {
+    "CityCode": 1152,
+    "CityName": "אשלים",
+    "key": 217
+  },
+  {
+    "CityCode": 7100,
+    "CityName": "אשקלון",
+    "key": 218
+  },
+  {
+    "CityCode": 740,
+    "CityName": "אשתאול",
+    "key": 221
+  },
+  {
+    "CityCode": 38,
+    "CityName": "אתר ספיר",
+    "key": 222
+  },
+  {
+    "CityCode": 9974,
+    "CityName": "אתר-חגית",
+    "key": 223
+  },
+  {
+    "CityCode": 317,
+    "CityName": "ב.אורן",
+    "key": 224
+  },
+  {
+    "CityCode": 562,
+    "CityName": "ב.אלעזרי",
+    "key": 225
+  },
+  {
+    "CityCode": 95,
+    "CityName": "ב.אלפא",
+    "key": 226
+  },
+  {
+    "CityCode": 3652,
+    "CityName": "ב.אריה",
+    "key": 227
+  },
+  {
+    "CityCode": 1076,
+    "CityName": "ב.ברל",
+    "key": 228
+  },
+  {
+    "CityCode": 480,
+    "CityName": "ב.ג'אן",
+    "key": 229
+  },
+  {
+    "CityCode": 7018,
+    "CityName": "ב.גבריאל",
+    "key": 230
+  },
+  {
+    "CityCode": 619,
+    "CityName": "ב.גוברין",
+    "key": 231
+  },
+  {
+    "CityCode": 479,
+    "CityName": "ב.גמאל",
+    "key": 232
+  },
+  {
+    "CityCode": 571,
+    "CityName": "ב.גמליאל",
+    "key": 233
+  },
+  {
+    "CityCode": 466,
+    "CityName": "ב.דגן",
+    "key": 234
+  },
+  {
+    "CityCode": 723,
+    "CityName": "ב.הגדי",
+    "key": 235
+  },
+  {
+    "CityCode": 1196,
+    "CityName": "ב.היערן(מ.יתיר)",
+    "key": 236
+  },
+  {
+    "CityCode": 373,
+    "CityName": "ב.הלוי",
+    "key": 237
+  },
+  {
+    "CityCode": 322,
+    "CityName": "ב.הלל",
+    "key": 238
+  },
+  {
+    "CityCode": 3645,
+    "CityName": "ב.הערבה",
+    "key": 240
+  },
+  {
+    "CityCode": 242,
+    "CityName": "ב.השטה",
+    "key": 241
+  },
+  {
+    "CityCode": 353,
+    "CityName": "ב.זיד",
+    "key": 243
+  },
+  {
+    "CityCode": 710,
+    "CityName": "ב.זית",
+    "key": 244
+  },
+  {
+    "CityCode": 975,
+    "CityName": "ב.זרזיר",
+    "key": 245
+  },
+  {
+    "CityCode": 3764,
+    "CityName": "ב.חגי",
+    "key": 246
+  },
+  {
+    "CityCode": 2033,
+    "CityName": "ב.חלקיה",
+    "key": 247
+  },
+  {
+    "CityCode": 159,
+    "CityName": "ב.חנן",
+    "key": 248
+  },
+  {
+    "CityCode": 800,
+    "CityName": "ב.חנניה",
+    "key": 249
+  },
+  {
+    "CityCode": 877,
+    "CityName": "ב.חרות",
+    "key": 250
+  },
+  {
+    "CityCode": 1050,
+    "CityName": "ב.חשמונאי",
+    "key": 251
+  },
+  {
+    "CityCode": 288,
+    "CityName": "ב.יהושע",
+    "key": 252
+  },
+  {
+    "CityCode": 265,
+    "CityName": "ב.יוסף",
+    "key": 253
+  },
+  {
+    "CityCode": 200,
+    "CityName": "ב.ינאי",
+    "key": 254
+  },
+  {
+    "CityCode": 326,
+    "CityName": "ב.יצחק",
+    "key": 255
+  },
+  {
+    "CityCode": 3745,
+    "CityName": "ב.יתיר",
+    "key": 256
+  },
+  {
+    "CityCode": 430,
+    "CityName": "ב.לחם(הגלילית)",
+    "key": 257
+  },
+  {
+    "CityCode": 751,
+    "CityName": "ב.מאיר",
+    "key": 258
+  },
+  {
+    "CityCode": 3071,
+    "CityName": "ב.מחסיר",
+    "key": 259
+  },
+  {
+    "CityCode": 3072,
+    "CityName": "ב.מרסס",
+    "key": 260
+  },
+  {
+    "CityCode": 782,
+    "CityName": "ב.נבאללה",
+    "key": 261
+  },
+  {
+    "CityCode": 784,
+    "CityName": "ב.נחמיה",
+    "key": 262
+  },
+  {
+    "CityCode": 672,
+    "CityName": "ב.נקופה",
+    "key": 263
+  },
+  {
+    "CityCode": 202,
+    "CityName": "ב.עובד",
+    "key": 264
+  },
+  {
+    "CityCode": 301,
+    "CityName": "ב.עוזיאל",
+    "key": 265
+  },
+  {
+    "CityCode": 756,
+    "CityName": "ב.עזרא",
+    "key": 266
+  },
+  {
+    "CityCode": 3079,
+    "CityName": "ב.עמרא",
+    "key": 267
+  },
+  {
+    "CityCode": 604,
+    "CityName": "ב.עריף",
+    "key": 268
+  },
+  {
+    "CityCode": 9916,
+    "CityName": "ב.פלט",
+    "key": 269
+  },
+  {
+    "CityCode": 212,
+    "CityName": "ב.צבי(סיטרין)",
+    "key": 270
+  },
+  {
+    "CityCode": 3083,
+    "CityName": "ב.קאד-צפון",
+    "key": 271
+  },
+  {
+    "CityCode": 598,
+    "CityName": "ב.קמה",
+    "key": 272
+  },
+  {
+    "CityCode": 365,
+    "CityName": "ב.קשת",
+    "key": 273
+  },
+  {
+    "CityCode": 1162,
+    "CityName": "ב.רימון",
+    "key": 274
+  },
+  {
+    "CityCode": 747,
+    "CityName": "ב.שיקמה",
+    "key": 276
+  },
+  {
+    "CityCode": 248,
+    "CityName": "ב.שערים",
+    "key": 277
+  },
+  {
+    "CityCode": 8070,
+    "CityName": "באח.גבעתי",
+    "key": 279
+  },
+  {
+    "CityCode": 8111,
+    "CityName": "באליש",
+    "key": 280
+  },
+  {
+    "CityCode": 8078,
+    "CityName": "באפ.אליקים",
+    "key": 282
+  },
+  {
+    "CityCode": 2126,
+    "CityName": "באקה-אל-חטב",
+    "key": 287
+  },
+  {
+    "CityCode": 21,
+    "CityName": "באר אורה",
+    "key": 288
+  },
+  {
+    "CityCode": 1376,
+    "CityName": "באר גנים",
+    "key": 289
+  },
+  {
+    "CityCode": 155,
+    "CityName": "באר טוביה",
+    "key": 290
+  },
+  {
+    "CityCode": 2530,
+    "CityName": "באר יעקב",
+    "key": 291
+  },
+  {
+    "CityCode": 9995,
+    "CityName": "באר מילכה",
+    "key": 292
+  },
+  {
+    "CityCode": 9000,
+    "CityName": "באר שבע",
+    "key": 293
+  },
+  {
+    "CityCode": 450,
+    "CityName": "בארות יצחק",
+    "key": 298
+  },
+  {
+    "CityCode": 697,
+    "CityName": "בארותיים",
+    "key": 300
+  },
+  {
+    "CityCode": 399,
+    "CityName": "בארי",
+    "key": 301
+  },
+  {
+    "CityCode": 8112,
+    "CityName": "בהד 1",
+    "key": 302
+  },
+  {
+    "CityCode": 8068,
+    "CityName": "בהד 15",
+    "key": 303
+  },
+  {
+    "CityCode": 8031,
+    "CityName": "בהד 3",
+    "key": 304
+  },
+  {
+    "CityCode": 2390,
+    "CityName": "בהד 8",
+    "key": 306
+  },
+  {
+    "CityCode": 944,
+    "CityName": "בוסמת טבעון",
+    "key": 307
+  },
+  {
+    "CityCode": 559,
+    "CityName": "בוסתן הגליל",
+    "key": 308
+  },
+  {
+    "CityCode": 482,
+    "CityName": "בועיינה",
+    "key": 310
+  },
+  {
+    "CityCode": 4001,
+    "CityName": "בוקעתא",
+    "key": 312
+  },
+  {
+    "CityCode": 698,
+    "CityName": "בורגתה",
+    "key": 313
+  },
+  {
+    "CityCode": 2002,
+    "CityName": "בורגתה-מסעף",
+    "key": 314
+  },
+  {
+    "CityCode": 3047,
+    "CityName": "בזאריה",
+    "key": 315
+  },
+  {
+    "CityCode": 8027,
+    "CityName": "בחא 28",
+    "key": 316
+  },
+  {
+    "CityCode": 2043,
+    "CityName": "בחן",
+    "key": 317
+  },
+  {
+    "CityCode": 762,
+    "CityName": "בטחה",
+    "key": 318
+  },
+  {
+    "CityCode": 8064,
+    "CityName": "בטר עציון",
+    "key": 319
+  },
+  {
+    "CityCode": 9997,
+    "CityName": "בי\"ח אסף הרופא",
+    "key": 320
+  },
+  {
+    "CityCode": 934,
+    "CityName": "ביאדה",
+    "key": 321
+  },
+  {
+    "CityCode": 5101,
+    "CityName": "ביוכי",
+    "key": 322
+  },
+  {
+    "CityCode": 469,
+    "CityName": "בילו סנטר",
+    "key": 325
+  },
+  {
+    "CityCode": 7001,
+    "CityName": "ביס.הר-וגיא",
+    "key": 326
+  },
+  {
+    "CityCode": 7084,
+    "CityName": "ביס.מבואות-החרמון",
+    "key": 327
+  },
+  {
+    "CityCode": 9985,
+    "CityName": "ביס.מבואות-חרמון",
+    "key": 328
+  },
+  {
+    "CityCode": 9018,
+    "CityName": "ביס.מעלה-הבשור",
+    "key": 329
+  },
+  {
+    "CityCode": 8020,
+    "CityName": "ביסלח 17",
+    "key": 330
+  },
+  {
+    "CityCode": 8103,
+    "CityName": "ביסלח 314",
+    "key": 331
+  },
+  {
+    "CityCode": 8075,
+    "CityName": "ביסלש",
+    "key": 332
+  },
+  {
+    "CityCode": 1177,
+    "CityName": "ביסנם",
+    "key": 333
+  },
+  {
+    "CityCode": 483,
+    "CityName": "ביענה",
+    "key": 335
+  },
+  {
+    "CityCode": 490,
+    "CityName": "ביענה-מסעף",
+    "key": 336
+  },
+  {
+    "CityCode": 234,
+    "CityName": "ביצרון",
+    "key": 337
+  },
+  {
+    "CityCode": 647,
+    "CityName": "ביר א-סיכה",
+    "key": 338
+  },
+  {
+    "CityCode": 1348,
+    "CityName": "ביר הדאג'",
+    "key": 339
+  },
+  {
+    "CityCode": 998,
+    "CityName": "ביר-אל-מכסור",
+    "key": 340
+  },
+  {
+    "CityCode": 3049,
+    "CityName": "ביר-ג'אלא",
+    "key": 341
+  },
+  {
+    "CityCode": 3052,
+    "CityName": "בירה",
+    "key": 342
+  },
+  {
+    "CityCode": 368,
+    "CityName": "ביריה",
+    "key": 343
+  },
+  {
+    "CityCode": 9010,
+    "CityName": "בירנית",
+    "key": 344
+  },
+  {
+    "CityCode": 9004,
+    "CityName": "בירנית-הגדר-הטובה",
+    "key": 345
+  },
+  {
+    "CityCode": 3574,
+    "CityName": "בית אל",
+    "key": 347
+  },
+  {
+    "CityCode": 143,
+    "CityName": "בית זרע",
+    "key": 369
+  },
+  {
+    "CityCode": 3575,
+    "CityName": "בית חורון",
+    "key": 371
+  },
+  {
+    "CityCode": 9040,
+    "CityName": "בית ירח",
+    "key": 381
+  },
+  {
+    "CityCode": 3200,
+    "CityName": "בית לחם",
+    "key": 383
+  },
+  {
+    "CityCode": 7062,
+    "CityName": "בית מעצר קישון",
+    "key": 388
+  },
+  {
+    "CityCode": 16,
+    "CityName": "בית ניר",
+    "key": 392
+  },
+  {
+    "CityCode": 1860,
+    "CityName": "בית עלמין תל רגב",
+    "key": 397
+  },
+  {
+    "CityCode": 9200,
+    "CityName": "בית שאן",
+    "key": 408
+  },
+  {
+    "CityCode": 2610,
+    "CityName": "בית שמש",
+    "key": 410
+  },
+  {
+    "CityCode": 252,
+    "CityName": "ביתן אהרון",
+    "key": 413
+  },
+  {
+    "CityCode": 3780,
+    "CityName": "ביתר עילית",
+    "key": 416
+  },
+  {
+    "CityCode": 1135,
+    "CityName": "בכורה",
+    "key": 420
+  },
+  {
+    "CityCode": 94,
+    "CityName": "בלפוריה",
+    "key": 421
+  },
+  {
+    "CityCode": 760,
+    "CityName": "בן זכאי",
+    "key": 422
+  },
+  {
+    "CityCode": 712,
+    "CityName": "בן עמי",
+    "key": 423
+  },
+  {
+    "CityCode": 1084,
+    "CityName": "בן שמן (כפר הנוער)",
+    "key": 424
+  },
+  {
+    "CityCode": 2013,
+    "CityName": "בן שמן (מושב)",
+    "key": 425
+  },
+  {
+    "CityCode": 6100,
+    "CityName": "בני ברק",
+    "key": 430
+  },
+  {
+    "CityCode": 1368,
+    "CityName": "בני דקלים",
+    "key": 431
+  },
+  {
+    "CityCode": 592,
+    "CityName": "בני דרום",
+    "key": 432
+  },
+  {
+    "CityCode": 386,
+    "CityName": "בני דרור",
+    "key": 433
+  },
+  {
+    "CityCode": 4015,
+    "CityName": "בני יהודה",
+    "key": 434
+  },
+  {
+    "CityCode": 4021,
+    "CityName": "בני יהודה-מסעף",
+    "key": 435
+  },
+  {
+    "CityCode": 1363,
+    "CityName": "בני נצרים",
+    "key": 436
+  },
+  {
+    "CityCode": 448,
+    "CityName": "בני עטרות",
+    "key": 437
+  },
+  {
+    "CityCode": 7057,
+    "CityName": "בני עטרות-צומת",
+    "key": 438
+  },
+  {
+    "CityCode": 1066,
+    "CityName": "בני עיש",
+    "key": 439
+  },
+  {
+    "CityCode": 418,
+    "CityName": "בני ציון",
+    "key": 440
+  },
+  {
+    "CityCode": 588,
+    "CityName": "בני ראם",
+    "key": 441
+  },
+  {
+    "CityCode": 1937,
+    "CityName": "בני שמעון",
+    "key": 442
+  },
+  {
+    "CityCode": 7135,
+    "CityName": "בניאס",
+    "key": 452
+  },
+  {
+    "CityCode": 685,
+    "CityName": "בניה",
+    "key": 453
+  },
+  {
+    "CityCode": 9800,
+    "CityName": "בנימינה",
+    "key": 454
+  },
+  {
+    "CityCode": 1326,
+    "CityName": "בסמ\"ה ",
+    "key": 455
+  },
+  {
+    "CityCode": 2142,
+    "CityName": "בעל חצור",
+    "key": 458
+  },
+  {
+    "CityCode": 389,
+    "CityName": "בצרה",
+    "key": 462
+  },
+  {
+    "CityCode": 589,
+    "CityName": "בצת",
+    "key": 464
+  },
+  {
+    "CityCode": 6000,
+    "CityName": "בקה אל גרביה",
+    "key": 465
+  },
+  {
+    "CityCode": 864,
+    "CityName": "בקוע",
+    "key": 467
+  },
+  {
+    "CityCode": 3612,
+    "CityName": "בקעות",
+    "key": 468
+  },
+  {
+    "CityCode": 823,
+    "CityName": "בר גיורא",
+    "key": 470
+  },
+  {
+    "CityCode": 825,
+    "CityName": "בר גיורא-צומת",
+    "key": 471
+  },
+  {
+    "CityCode": 1191,
+    "CityName": "בר יוחאי",
+    "key": 472
+  },
+  {
+    "CityCode": 3097,
+    "CityName": "ברוכין",
+    "key": 476
+  },
+  {
+    "CityCode": 2372,
+    "CityName": "ברורים",
+    "key": 479
+  },
+  {
+    "CityCode": 2060,
+    "CityName": "ברוש",
+    "key": 480
+  },
+  {
+    "CityCode": 3757,
+    "CityName": "ברוש (בבקעה)",
+    "key": 481
+  },
+  {
+    "CityCode": 3098,
+    "CityName": "ברטעה",
+    "key": 482
+  },
+  {
+    "CityCode": 2133,
+    "CityName": "בריכת-רם",
+    "key": 483
+  },
+  {
+    "CityCode": 3710,
+    "CityName": "ברכה",
+    "key": 484
+  },
+  {
+    "CityCode": 746,
+    "CityName": "ברכיה",
+    "key": 485
+  },
+  {
+    "CityCode": 1896,
+    "CityName": "ברנר",
+    "key": 486
+  },
+  {
+    "CityCode": 667,
+    "CityName": "ברעם",
+    "key": 487
+  },
+  {
+    "CityCode": 141,
+    "CityName": "ברק",
+    "key": 488
+  },
+  {
+    "CityCode": 617,
+    "CityName": "ברקאי",
+    "key": 490
+  },
+  {
+    "CityCode": 7024,
+    "CityName": "ברקאי-צומת",
+    "key": 491
+  },
+  {
+    "CityCode": 3099,
+    "CityName": "ברקה",
+    "key": 492
+  },
+  {
+    "CityCode": 3654,
+    "CityName": "ברקן",
+    "key": 493
+  },
+  {
+    "CityCode": 2038,
+    "CityName": "ברקת",
+    "key": 494
+  },
+  {
+    "CityCode": 1323,
+    "CityName": "בת הדר",
+    "key": 495
+  },
+  {
+    "CityCode": 1361,
+    "CityName": "בת חן",
+    "key": 496
+  },
+  {
+    "CityCode": 7077,
+    "CityName": "בת חן-צומת",
+    "key": 497
+  },
+  {
+    "CityCode": 1319,
+    "CityName": "בת חפר",
+    "key": 498
+  },
+  {
+    "CityCode": 6200,
+    "CityName": "בת ים",
+    "key": 499
+  },
+  {
+    "CityCode": 3794,
+    "CityName": "בת עין",
+    "key": 500
+  },
+  {
+    "CityCode": 33,
+    "CityName": "בת שלמה",
+    "key": 501
+  },
+  {
+    "CityCode": 1401,
+    "CityName": "בת-חצור",
+    "key": 505
+  },
+  {
+    "CityCode": 3103,
+    "CityName": "בתיר",
+    "key": 509
+  },
+  {
+    "CityCode": 3133,
+    "CityName": "ג'ארושיה",
+    "key": 510
+  },
+  {
+    "CityCode": 1292,
+    "CityName": "ג'דידה",
+    "key": 511
+  },
+  {
+    "CityCode": 485,
+    "CityName": "ג'וליס",
+    "key": 512
+  },
+  {
+    "CityCode": 3140,
+    "CityName": "ג'ורת-א-שמעה",
+    "key": 513
+  },
+  {
+    "CityCode": 628,
+    "CityName": "ג'ת",
+    "key": 514
+  },
+  {
+    "CityCode": 872,
+    "CityName": "גאולי תימן",
+    "key": 515
+  },
+  {
+    "CityCode": 7064,
+    "CityName": "גאולי תימן-מסעף",
+    "key": 516
+  },
+  {
+    "CityCode": 1131,
+    "CityName": "גאולי-תימן/שכ",
+    "key": 518
+  },
+  {
+    "CityCode": 379,
+    "CityName": "גאולים",
+    "key": 519
+  },
+  {
+    "CityCode": 295,
+    "CityName": "גאון הירדן",
+    "key": 520
+  },
+  {
+    "CityCode": 853,
+    "CityName": "גאליה",
+    "key": 521
+  },
+  {
+    "CityCode": 1293,
+    "CityName": "גב.אבני",
+    "key": 522
+  },
+  {
+    "CityCode": 585,
+    "CityName": "גב.אבני-צומת",
+    "key": 523
+  },
+  {
+    "CityCode": 1288,
+    "CityName": "גב.אלה",
+    "key": 524
+  },
+  {
+    "CityCode": 9027,
+    "CityName": "גב.אסף",
+    "key": 525
+  },
+  {
+    "CityCode": 147,
+    "CityName": "גב.ברנר",
+    "key": 526
+  },
+  {
+    "CityCode": 9934,
+    "CityName": "גב.המיסדים",
+    "key": 527
+  },
+  {
+    "CityCode": 870,
+    "CityName": "גב.השלושה",
+    "key": 528
+  },
+  {
+    "CityCode": 848,
+    "CityName": "גב.וושינגטון (ב.רבן)",
+    "key": 529
+  },
+  {
+    "CityCode": 3730,
+    "CityName": "גב.זאב",
+    "key": 530
+  },
+  {
+    "CityCode": 2376,
+    "CityName": "גב.חביבה",
+    "key": 531
+  },
+  {
+    "CityCode": 9931,
+    "CityName": "גב.חבלנים",
+    "key": 532
+  },
+  {
+    "CityCode": 207,
+    "CityName": "גב.חן",
+    "key": 533
+  },
+  {
+    "CityCode": 787,
+    "CityName": "גב.יערים",
+    "key": 535
+  },
+  {
+    "CityCode": 919,
+    "CityName": "גב.ישעיהו",
+    "key": 536
+  },
+  {
+    "CityCode": 802,
+    "CityName": "גב.כח",
+    "key": 537
+  },
+  {
+    "CityCode": 360,
+    "CityName": "גב.נילי",
+    "key": 538
+  },
+  {
+    "CityCode": 50,
+    "CityName": "גב.עדה",
+    "key": 539
+  },
+  {
+    "CityCode": 703,
+    "CityName": "גב.עוז",
+    "key": 540
+  },
+  {
+    "CityCode": 566,
+    "CityName": "גב.שמש",
+    "key": 541
+  },
+  {
+    "CityCode": 455,
+    "CityName": "גב.שמשית",
+    "key": 542
+  },
+  {
+    "CityCode": 677,
+    "CityName": "גב.שמשית-צומת",
+    "key": 543
+  },
+  {
+    "CityCode": 1077,
+    "CityName": "גב.שפירא",
+    "key": 544
+  },
+  {
+    "CityCode": 352,
+    "CityName": "גבולות",
+    "key": 546
+  },
+  {
+    "CityCode": 424,
+    "CityName": "גבים",
+    "key": 547
+  },
+  {
+    "CityCode": 86,
+    "CityName": "גבע",
+    "key": 548
+  },
+  {
+    "CityCode": 683,
+    "CityName": "גבע כרמל",
+    "key": 550
+  },
+  {
+    "CityCode": 2014,
+    "CityName": "גבעולים",
+    "key": 553
+  },
+  {
+    "CityCode": 865,
+    "CityName": "גבעולים-צומת",
+    "key": 554
+  },
+  {
+    "CityCode": 3644,
+    "CityName": "גבעון החדשה",
+    "key": 555
+  },
+  {
+    "CityCode": 3498,
+    "CityName": "גבעות",
+    "key": 557
+  },
+  {
+    "CityCode": 1344,
+    "CityName": "גבעות בר",
+    "key": 558
+  },
+  {
+    "CityCode": 9996,
+    "CityName": "גבעות בר",
+    "key": 559
+  },
+  {
+    "CityCode": 6500,
+    "CityName": "גבעת אולגה-צומת",
+    "key": 562
+  },
+  {
+    "CityCode": 2018,
+    "CityName": "גבעת חיים(אחוד)",
+    "key": 574
+  },
+  {
+    "CityCode": 173,
+    "CityName": "גבעת חיים(מאוחד)",
+    "key": 575
+  },
+  {
+    "CityCode": 681,
+    "CityName": "גבעת שמואל",
+    "key": 584
+  },
+  {
+    "CityCode": 793,
+    "CityName": "גבעתי",
+    "key": 591
+  },
+  {
+    "CityCode": 6300,
+    "CityName": "גבעתיים",
+    "key": 592
+  },
+  {
+    "CityCode": 342,
+    "CityName": "גברעם",
+    "key": 593
+  },
+  {
+    "CityCode": 584,
+    "CityName": "גברעם-צומת",
+    "key": 594
+  },
+  {
+    "CityCode": 133,
+    "CityName": "גבת",
+    "key": 595
+  },
+  {
+    "CityCode": 196,
+    "CityName": "גבתון",
+    "key": 596
+  },
+  {
+    "CityCode": 35,
+    "CityName": "גדות",
+    "key": 597
+  },
+  {
+    "CityCode": 484,
+    "CityName": "גדידה",
+    "key": 598
+  },
+  {
+    "CityCode": 145,
+    "CityName": "גדיש",
+    "key": 599
+  },
+  {
+    "CityCode": 442,
+    "CityName": "גדעונה",
+    "key": 601
+  },
+  {
+    "CityCode": 2550,
+    "CityName": "גדרה",
+    "key": 602
+  },
+  {
+    "CityCode": 6022,
+    "CityName": "גוברין",
+    "key": 603
+  },
+  {
+    "CityCode": 315,
+    "CityName": "גוליס (מחנה)",
+    "key": 605
+  },
+  {
+    "CityCode": 852,
+    "CityName": "גונן",
+    "key": 606
+  },
+  {
+    "CityCode": 270,
+    "CityName": "גוערה",
+    "key": 607
+  },
+  {
+    "CityCode": 755,
+    "CityName": "גורן",
+    "key": 608
+  },
+  {
+    "CityCode": 487,
+    "CityName": "גוש חלב",
+    "key": 609
+  },
+  {
+    "CityCode": 457,
+    "CityName": "גזית",
+    "key": 611
+  },
+  {
+    "CityCode": 370,
+    "CityName": "גזר",
+    "key": 612
+  },
+  {
+    "CityCode": 1891,
+    "CityName": "גזר",
+    "key": 613
+  },
+  {
+    "CityCode": 706,
+    "CityName": "גיאה",
+    "key": 614
+  },
+  {
+    "CityCode": 1043,
+    "CityName": "גיזו",
+    "key": 617
+  },
+  {
+    "CityCode": 796,
+    "CityName": "גיזו-מסעף",
+    "key": 618
+  },
+  {
+    "CityCode": 1204,
+    "CityName": "גילון",
+    "key": 619
+  },
+  {
+    "CityCode": 1221,
+    "CityName": "גילון-מסעף",
+    "key": 620
+  },
+  {
+    "CityCode": 736,
+    "CityName": "גילת",
+    "key": 621
+  },
+  {
+    "CityCode": 262,
+    "CityName": "גינוסר",
+    "key": 622
+  },
+  {
+    "CityCode": 549,
+    "CityName": "גינות הדר",
+    "key": 623
+  },
+  {
+    "CityCode": 3640,
+    "CityName": "גינות שומרון",
+    "key": 624
+  },
+  {
+    "CityCode": 863,
+    "CityName": "גינתון",
+    "key": 625
+  },
+  {
+    "CityCode": 1206,
+    "CityName": "גיתה",
+    "key": 626
+  },
+  {
+    "CityCode": 3613,
+    "CityName": "גיתית",
+    "key": 627
+  },
+  {
+    "CityCode": 393,
+    "CityName": "גלאון",
+    "key": 628
+  },
+  {
+    "CityCode": 627,
+    "CityName": "גלגוליה",
+    "key": 629
+  },
+  {
+    "CityCode": 3606,
+    "CityName": "גלגל",
+    "key": 630
+  },
+  {
+    "CityCode": 346,
+    "CityName": "גליל ים",
+    "key": 631
+  },
+  {
+    "CityCode": 6001,
+    "CityName": "גלילות",
+    "key": 633
+  },
+  {
+    "CityCode": 745,
+    "CityName": "גמזו",
+    "key": 635
+  },
+  {
+    "CityCode": 7036,
+    "CityName": "גמזו-צומת",
+    "key": 636
+  },
+  {
+    "CityCode": 4008,
+    "CityName": "גמלא",
+    "key": 637
+  },
+  {
+    "CityCode": 1072,
+    "CityName": "גן הדרום",
+    "key": 638
+  },
+  {
+    "CityCode": 225,
+    "CityName": "גן השומרון",
+    "key": 639
+  },
+  {
+    "CityCode": 7072,
+    "CityName": "גן השלושה (הסחנה)",
+    "key": 640
+  },
+  {
+    "CityCode": 239,
+    "CityName": "גן חיים",
+    "key": 641
+  },
+  {
+    "CityCode": 734,
+    "CityName": "גן יאשיה",
+    "key": 642
+  },
+  {
+    "CityCode": 166,
+    "CityName": "גן יבנה",
+    "key": 643
+  },
+  {
+    "CityCode": 1274,
+    "CityName": "גן נר",
+    "key": 644
+  },
+  {
+    "CityCode": 311,
+    "CityName": "גן שורק",
+    "key": 645
+  },
+  {
+    "CityCode": 144,
+    "CityName": "גן שלמה",
+    "key": 646
+  },
+  {
+    "CityCode": 72,
+    "CityName": "גן שמואל",
+    "key": 647
+  },
+  {
+    "CityCode": 976,
+    "CityName": "גנאביב",
+    "key": 658
+  },
+  {
+    "CityCode": 836,
+    "CityName": "גנות",
+    "key": 660
+  },
+  {
+    "CityCode": 1103,
+    "CityName": "גני הדר",
+    "key": 663
+  },
+  {
+    "CityCode": 5424,
+    "CityName": "גני טל",
+    "key": 664
+  },
+  {
+    "CityCode": 781,
+    "CityName": "גני יהודה",
+    "key": 665
+  },
+  {
+    "CityCode": 862,
+    "CityName": "גני יוחנן",
+    "key": 666
+  },
+  {
+    "CityCode": 3823,
+    "CityName": "גני מודיעין",
+    "key": 667
+  },
+  {
+    "CityCode": 218,
+    "CityName": "גני עם",
+    "key": 668
+  },
+  {
+    "CityCode": 9700,
+    "CityName": "גני עם-צומת",
+    "key": 669
+  },
+  {
+    "CityCode": 229,
+    "CityName": "גני תקוה",
+    "key": 670
+  },
+  {
+    "CityCode": 158,
+    "CityName": "גני-הדר-מסעף",
+    "key": 673
+  },
+  {
+    "CityCode": 92,
+    "CityName": "גניגר",
+    "key": 679
+  },
+  {
+    "CityCode": 541,
+    "CityName": "גסר-א-זרקא",
+    "key": 681
+  },
+  {
+    "CityCode": 842,
+    "CityName": "געש",
+    "key": 683
+  },
+  {
+    "CityCode": 463,
+    "CityName": "געתון",
+    "key": 684
+  },
+  {
+    "CityCode": 39,
+    "CityName": "גפן",
+    "key": 685
+  },
+  {
+    "CityCode": 1129,
+    "CityName": "גרופית",
+    "key": 686
+  },
+  {
+    "CityCode": 1219,
+    "CityName": "גרנות הגליל",
+    "key": 687
+  },
+  {
+    "CityCode": 4022,
+    "CityName": "גשור",
+    "key": 689
+  },
+  {
+    "CityCode": 305,
+    "CityName": "גשר",
+    "key": 690
+  },
+  {
+    "CityCode": 9906,
+    "CityName": "גשר אלנבי",
+    "key": 691
+  },
+  {
+    "CityCode": 574,
+    "CityName": "גשר הזיו",
+    "key": 692
+  },
+  {
+    "CityCode": 488,
+    "CityName": "גת בגליל",
+    "key": 695
+  },
+  {
+    "CityCode": 128,
+    "CityName": "גת רמון",
+    "key": 696
+  },
+  {
+    "CityCode": 340,
+    "CityName": "גת-קיבוץ",
+    "key": 697
+  },
+  {
+    "CityCode": 494,
+    "CityName": "דאלית-אל-כרמל",
+    "key": 699
+  },
+  {
+    "CityCode": 146,
+    "CityName": "דבורה",
+    "key": 700
+  },
+  {
+    "CityCode": 489,
+    "CityName": "דבוריה",
+    "key": 702
+  },
+  {
+    "CityCode": 2150,
+    "CityName": "דבוריה-צומת",
+    "key": 703
+  },
+  {
+    "CityCode": 849,
+    "CityName": "דביר",
+    "key": 704
+  },
+  {
+    "CityCode": 62,
+    "CityName": "דגניה א",
+    "key": 707
+  },
+  {
+    "CityCode": 79,
+    "CityName": "דגניה ב",
+    "key": 708
+  },
+  {
+    "CityCode": 3182,
+    "CityName": "דהר-חלת-אל-גימעה",
+    "key": 711
+  },
+  {
+    "CityCode": 1067,
+    "CityName": "דובב",
+    "key": 712
+  },
+  {
+    "CityCode": 3747,
+    "CityName": "דולב",
+    "key": 714
+  },
+  {
+    "CityCode": 738,
+    "CityName": "דור",
+    "key": 715
+  },
+  {
+    "CityCode": 336,
+    "CityName": "דורות",
+    "key": 716
+  },
+  {
+    "CityCode": 475,
+    "CityName": "דחי",
+    "key": 718
+  },
+  {
+    "CityCode": 3210,
+    "CityName": "דחית-בריד",
+    "key": 719
+  },
+  {
+    "CityCode": 3188,
+    "CityName": "דיוכ",
+    "key": 720
+  },
+  {
+    "CityCode": 2200,
+    "CityName": "דימונה",
+    "key": 721
+  },
+  {
+    "CityCode": 9927,
+    "CityName": "דיספומדיק",
+    "key": 722
+  },
+  {
+    "CityCode": 492,
+    "CityName": "דיר חנא",
+    "key": 724
+  },
+  {
+    "CityCode": 493,
+    "CityName": "דיר ראפאת",
+    "key": 725
+  },
+  {
+    "CityCode": 3190,
+    "CityName": "דיר-א-שמס",
+    "key": 726
+  },
+  {
+    "CityCode": 3192,
+    "CityName": "דיר-אבו-משעל",
+    "key": 727
+  },
+  {
+    "CityCode": 3199,
+    "CityName": "דיר-בלוט",
+    "key": 729
+  },
+  {
+    "CityCode": 3205,
+    "CityName": "דיר-נזאם",
+    "key": 731
+  },
+  {
+    "CityCode": 3209,
+    "CityName": "דיר-שרף",
+    "key": 732
+  },
+  {
+    "CityCode": 2063,
+    "CityName": "דישון",
+    "key": 733
+  },
+  {
+    "CityCode": 300,
+    "CityName": "דליה",
+    "key": 734
+  },
+  {
+    "CityCode": 431,
+    "CityName": "דלתון",
+    "key": 736
+  },
+  {
+    "CityCode": 1317,
+    "CityName": "דמיידה",
+    "key": 737
+  },
+  {
+    "CityCode": 303,
+    "CityName": "דן",
+    "key": 738
+  },
+  {
+    "CityCode": 302,
+    "CityName": "דפנה",
+    "key": 739
+  },
+  {
+    "CityCode": 1241,
+    "CityName": "דקל",
+    "key": 740
+  },
+  {
+    "CityCode": 1349,
+    "CityName": "דריג'את",
+    "key": 741
+  },
+  {
+    "CityCode": 702,
+    "CityName": "האון",
+    "key": 742
+  },
+  {
+    "CityCode": 675,
+    "CityName": "הבונים",
+    "key": 743
+  },
+  {
+    "CityCode": 356,
+    "CityName": "הגושרים",
+    "key": 744
+  },
+  {
+    "CityCode": 1829,
+    "CityName": "הגלבוע",
+    "key": 745
+  },
+  {
+    "CityCode": 186,
+    "CityName": "הדסה נעורים",
+    "key": 746
+  },
+  {
+    "CityCode": 2384,
+    "CityName": "הדסים",
+    "key": 747
+  },
+  {
+    "CityCode": 195,
+    "CityName": "הדסים-צומת",
+    "key": 748
+  },
+  {
+    "CityCode": 191,
+    "CityName": "הדר עם",
+    "key": 749
+  },
+  {
+    "CityCode": 1169,
+    "CityName": "הואשלה",
+    "key": 751
+  },
+  {
+    "CityCode": 726,
+    "CityName": "הודיה",
+    "key": 754
+  },
+  {
+    "CityCode": 699,
+    "CityName": "הודיה-מסעף",
+    "key": 755
+  },
+  {
+    "CityCode": 956,
+    "CityName": "הוזייל",
+    "key": 757
+  },
+  {
+    "CityCode": 1186,
+    "CityName": "הושעיה",
+    "key": 758
+  },
+  {
+    "CityCode": 250,
+    "CityName": "הזורע",
+    "key": 759
+  },
+  {
+    "CityCode": 307,
+    "CityName": "הזורעים",
+    "key": 760
+  },
+  {
+    "CityCode": 9001,
+    "CityName": "החולה-שמורה",
+    "key": 761
+  },
+  {
+    "CityCode": 434,
+    "CityName": "החותרים",
+    "key": 762
+  },
+  {
+    "CityCode": 684,
+    "CityName": "היוגב",
+    "key": 763
+  },
+  {
+    "CityCode": 1208,
+    "CityName": "הילה",
+    "key": 764
+  },
+  {
+    "CityCode": 377,
+    "CityName": "המעפיל",
+    "key": 765
+  },
+  {
+    "CityCode": 423,
+    "CityName": "העוגן",
+    "key": 767
+  },
+  {
+    "CityCode": 1952,
+    "CityName": "הערבה התיכונה",
+    "key": 768
+  },
+  {
+    "CityCode": 3769,
+    "CityName": "הר אדר",
+    "key": 769
+  },
+  {
+    "CityCode": 3603,
+    "CityName": "הר גילה",
+    "key": 771
+  },
+  {
+    "CityCode": 9929,
+    "CityName": "הר חירן",
+    "key": 772
+  },
+  {
+    "CityCode": 1272,
+    "CityName": "הר חלוץ",
+    "key": 773
+  },
+  {
+    "CityCode": 9932,
+    "CityName": "הר חריף",
+    "key": 774
+  },
+  {
+    "CityCode": 9972,
+    "CityName": "הר מנוח",
+    "key": 775
+  },
+  {
+    "CityCode": 9925,
+    "CityName": "הר עוזיה",
+    "key": 776
+  },
+  {
+    "CityCode": 1261,
+    "CityName": "הר עמשא",
+    "key": 777
+  },
+  {
+    "CityCode": 2462,
+    "CityName": "הר-חזון",
+    "key": 782
+  },
+  {
+    "CityCode": 464,
+    "CityName": "הראל",
+    "key": 786
+  },
+  {
+    "CityCode": 1249,
+    "CityName": "הרדוף",
+    "key": 787
+  },
+  {
+    "CityCode": 1199,
+    "CityName": "הרדוף-צומת",
+    "key": 788
+  },
+  {
+    "CityCode": 6400,
+    "CityName": "הרצליה",
+    "key": 789
+  },
+  {
+    "CityCode": 1203,
+    "CityName": "הררית",
+    "key": 790
+  },
+  {
+    "CityCode": 729,
+    "CityName": "השירות המטאורולוגי",
+    "key": 791
+  },
+  {
+    "CityCode": 3241,
+    "CityName": "ואדי-אל-ועד",
+    "key": 792
+  },
+  {
+    "CityCode": 3242,
+    "CityName": "ואדי-אל-עראיס",
+    "key": 793
+  },
+  {
+    "CityCode": 993,
+    "CityName": "ואדי-חמאם",
+    "key": 794
+  },
+  {
+    "CityCode": 1252,
+    "CityName": "ורד הגליל",
+    "key": 797
+  },
+  {
+    "CityCode": 3639,
+    "CityName": "ורד יריחו",
+    "key": 798
+  },
+  {
+    "CityCode": 1133,
+    "CityName": "ורדון",
+    "key": 800
+  },
+  {
+    "CityCode": 2030,
+    "CityName": "ורדון-מסעף",
+    "key": 801
+  },
+  {
+    "CityCode": 815,
+    "CityName": "זבדיאל",
+    "key": 802
+  },
+  {
+    "CityCode": 999,
+    "CityName": "זבידאת",
+    "key": 803
+  },
+  {
+    "CityCode": 5604,
+    "CityName": "זואידה",
+    "key": 804
+  },
+  {
+    "CityCode": 44,
+    "CityName": "זוהר",
+    "key": 805
+  },
+  {
+    "CityCode": 3271,
+    "CityName": "זיף",
+    "key": 806
+  },
+  {
+    "CityCode": 3268,
+    "CityName": "זיתא",
+    "key": 808
+  },
+  {
+    "CityCode": 788,
+    "CityName": "זיתן",
+    "key": 809
+  },
+  {
+    "CityCode": 9300,
+    "CityName": "זכרון יעקב",
+    "key": 810
+  },
+  {
+    "CityCode": 799,
+    "CityName": "זכריה",
+    "key": 812
+  },
+  {
+    "CityCode": 640,
+    "CityName": "זלפה",
+    "key": 813
+  },
+  {
+    "CityCode": 653,
+    "CityName": "זמר",
+    "key": 814
+  },
+  {
+    "CityCode": 1290,
+    "CityName": "זמר",
+    "key": 815
+  },
+  {
+    "CityCode": 1065,
+    "CityName": "זמרת",
+    "key": 816
+  },
+  {
+    "CityCode": 816,
+    "CityName": "זנוח",
+    "key": 817
+  },
+  {
+    "CityCode": 2064,
+    "CityName": "זרועה",
+    "key": 818
+  },
+  {
+    "CityCode": 818,
+    "CityName": "זרחיה",
+    "key": 820
+  },
+  {
+    "CityCode": 692,
+    "CityName": "זרחיה-מסעף",
+    "key": 821
+  },
+  {
+    "CityCode": 1130,
+    "CityName": "זרעית (כ.רוזנולד)",
+    "key": 822
+  },
+  {
+    "CityCode": 3293,
+    "CityName": "חארשה",
+    "key": 823
+  },
+  {
+    "CityCode": 3294,
+    "CityName": "חבילה",
+    "key": 824
+  },
+  {
+    "CityCode": 1945,
+    "CityName": "חבל אילות",
+    "key": 825
+  },
+  {
+    "CityCode": 235,
+    "CityName": "חבצלת השרון",
+    "key": 826
+  },
+  {
+    "CityCode": 3400,
+    "CityName": "חברון",
+    "key": 830
+  },
+  {
+    "CityCode": 977,
+    "CityName": "חג'אג'רה",
+    "key": 831
+  },
+  {
+    "CityCode": 717,
+    "CityName": "חגור",
+    "key": 832
+  },
+  {
+    "CityCode": 3297,
+    "CityName": "חגילה",
+    "key": 833
+  },
+  {
+    "CityCode": 205,
+    "CityName": "חגלה",
+    "key": 834
+  },
+  {
+    "CityCode": 948,
+    "CityName": "חגראת(דהרה)",
+    "key": 835
+  },
+  {
+    "CityCode": 4026,
+    "CityName": "חד נס",
+    "key": 836
+  },
+  {
+    "CityCode": 618,
+    "CityName": "חדיד",
+    "key": 838
+  },
+  {
+    "CityCode": 986,
+    "CityName": "חואלד",
+    "key": 840
+  },
+  {
+    "CityCode": 990,
+    "CityName": "חואלד-צומת",
+    "key": 841
+  },
+  {
+    "CityCode": 3303,
+    "CityName": "חוות-מוסא-אל-עלמי",
+    "key": 844
+  },
+  {
+    "CityCode": 1087,
+    "CityName": "חוות-שלם",
+    "key": 845
+  },
+  {
+    "CityCode": 160,
+    "CityName": "חולדה",
+    "key": 846
+  },
+  {
+    "CityCode": 6600,
+    "CityName": "חולון",
+    "key": 847
+  },
+  {
+    "CityCode": 1239,
+    "CityName": "חולית",
+    "key": 848
+  },
+  {
+    "CityCode": 253,
+    "CityName": "חולתה",
+    "key": 849
+  },
+  {
+    "CityCode": 29,
+    "CityName": "חולתה-צומת",
+    "key": 850
+  },
+  {
+    "CityCode": 662,
+    "CityName": "חוסן",
+    "key": 851
+  },
+  {
+    "CityCode": 1322,
+    "CityName": "חוסנייה",
+    "key": 852
+  },
+  {
+    "CityCode": 7093,
+    "CityName": "חוף גולן",
+    "key": 854
+  },
+  {
+    "CityCode": 273,
+    "CityName": "חוף גופרה",
+    "key": 855
+  },
+  {
+    "CityCode": 1878,
+    "CityName": "חוף השרון",
+    "key": 857
+  },
+  {
+    "CityCode": 7017,
+    "CityName": "חוף חלוקים",
+    "key": 858
+  },
+  {
+    "CityCode": 3610,
+    "CityName": "חוף-מינרל",
+    "key": 862
+  },
+  {
+    "CityCode": 9984,
+    "CityName": "חוף-מינרל",
+    "key": 863
+  },
+  {
+    "CityCode": 115,
+    "CityName": "חופית",
+    "key": 864
+  },
+  {
+    "CityCode": 9949,
+    "CityName": "חוצות-המפרץ",
+    "key": 865
+  },
+  {
+    "CityCode": 374,
+    "CityName": "חוקוק",
+    "key": 866
+  },
+  {
+    "CityCode": 6020,
+    "CityName": "חורה",
+    "key": 867
+  },
+  {
+    "CityCode": 496,
+    "CityName": "חורפיש",
+    "key": 868
+  },
+  {
+    "CityCode": 3788,
+    "CityName": "חורש ירון",
+    "key": 869
+  },
+  {
+    "CityCode": 355,
+    "CityName": "חורשים",
+    "key": 870
+  },
+  {
+    "CityCode": 9006,
+    "CityName": "חורשת-טל",
+    "key": 872
+  },
+  {
+    "CityCode": 1047,
+    "CityName": "חזון",
+    "key": 873
+  },
+  {
+    "CityCode": 3304,
+    "CityName": "חזמא",
+    "key": 876
+  },
+  {
+    "CityCode": 806,
+    "CityName": "חטיבה 406",
+    "key": 877
+  },
+  {
+    "CityCode": 7081,
+    "CityName": "חטמר בנימין",
+    "key": 878
+  },
+  {
+    "CityCode": 8011,
+    "CityName": "חטמר מנשה",
+    "key": 880
+  },
+  {
+    "CityCode": 219,
+    "CityName": "חיבת ציון",
+    "key": 886
+  },
+  {
+    "CityCode": 988,
+    "CityName": "חילף",
+    "key": 888
+  },
+  {
+    "CityCode": 3643,
+    "CityName": "חיננית",
+    "key": 889
+  },
+  {
+    "CityCode": 4005,
+    "CityName": "חיספין",
+    "key": 890
+  },
+  {
+    "CityCode": 4000,
+    "CityName": "חיפה",
+    "key": 891
+  },
+  {
+    "CityCode": 3573,
+    "CityName": "חלמיש",
+    "key": 893
+  },
+  {
+    "CityCode": 820,
+    "CityName": "חלץ",
+    "key": 895
+  },
+  {
+    "CityCode": 8045,
+    "CityName": "חמאם אל-מליח",
+    "key": 896
+  },
+  {
+    "CityCode": 801,
+    "CityName": "חמד",
+    "key": 897
+  },
+  {
+    "CityCode": 343,
+    "CityName": "חמדיה",
+    "key": 898
+  },
+  {
+    "CityCode": 3646,
+    "CityName": "חמדת",
+    "key": 899
+  },
+  {
+    "CityCode": 293,
+    "CityName": "חמי יואב",
+    "key": 900
+  },
+  {
+    "CityCode": 3609,
+    "CityName": "חמרה",
+    "key": 902
+  },
+  {
+    "CityCode": 7087,
+    "CityName": "חמת גדר",
+    "key": 903
+  },
+  {
+    "CityCode": 807,
+    "CityName": "חניאל",
+    "key": 905
+  },
+  {
+    "CityCode": 7103,
+    "CityName": "חניון יהודיה",
+    "key": 906
+  },
+  {
+    "CityCode": 9946,
+    "CityName": "חניון-ג'למה",
+    "key": 907
+  },
+  {
+    "CityCode": 280,
+    "CityName": "חניתה",
+    "key": 908
+  },
+  {
+    "CityCode": 9063,
+    "CityName": "חניתה הגדר הטובה",
+    "key": 909
+  },
+  {
+    "CityCode": 1257,
+    "CityName": "חנתון",
+    "key": 910
+  },
+  {
+    "CityCode": 3307,
+    "CityName": "חסכה",
+    "key": 911
+  },
+  {
+    "CityCode": 363,
+    "CityName": "חפץ חיים",
+    "key": 913
+  },
+  {
+    "CityCode": 90,
+    "CityName": "חפצי-בה",
+    "key": 915
+  },
+  {
+    "CityCode": 700,
+    "CityName": "חצב",
+    "key": 917
+  },
+  {
+    "CityCode": 13,
+    "CityName": "חצבה",
+    "key": 918
+  },
+  {
+    "CityCode": 406,
+    "CityName": "חצור (קיבוץ)",
+    "key": 919
+  },
+  {
+    "CityCode": 2034,
+    "CityName": "חצור הגלילית",
+    "key": 920
+  },
+  {
+    "CityCode": 595,
+    "CityName": "חצרות יסף-מסעף",
+    "key": 923
+  },
+  {
+    "CityCode": 397,
+    "CityName": "חצרים (קיבוץ)",
+    "key": 924
+  },
+  {
+    "CityCode": 422,
+    "CityName": "חרב לאת",
+    "key": 926
+  },
+  {
+    "CityCode": 3325,
+    "CityName": "חרבת אל כום",
+    "key": 928
+  },
+  {
+    "CityCode": 2159,
+    "CityName": "חרבת עין זיתים",
+    "key": 929
+  },
+  {
+    "CityCode": 2158,
+    "CityName": "חרבת עליקה",
+    "key": 930
+  },
+  {
+    "CityCode": 3308,
+    "CityName": "חרבת-א-דיר",
+    "key": 931
+  },
+  {
+    "CityCode": 3377,
+    "CityName": "חרבת-א-טבקה",
+    "key": 932
+  },
+  {
+    "CityCode": 3334,
+    "CityName": "חרבת-א-לוזה",
+    "key": 933
+  },
+  {
+    "CityCode": 3310,
+    "CityName": "חרבת-א-נגאר",
+    "key": 934
+  },
+  {
+    "CityCode": 3312,
+    "CityName": "חרבת-א-צרי",
+    "key": 935
+  },
+  {
+    "CityCode": 3313,
+    "CityName": "חרבת-א-שיח-אחמד",
+    "key": 936
+  },
+  {
+    "CityCode": 3315,
+    "CityName": "חרבת-אבו-חמיש",
+    "key": 937
+  },
+  {
+    "CityCode": 3316,
+    "CityName": "חרבת-אבו-נגאם",
+    "key": 938
+  },
+  {
+    "CityCode": 3317,
+    "CityName": "חרבת-אבו-סלמא",
+    "key": 939
+  },
+  {
+    "CityCode": 3339,
+    "CityName": "חרבת-אום-א-נמל",
+    "key": 940
+  },
+  {
+    "CityCode": 3378,
+    "CityName": "חרבת-אל-אקרע",
+    "key": 941
+  },
+  {
+    "CityCode": 3322,
+    "CityName": "חרבת-אל-חדב",
+    "key": 942
+  },
+  {
+    "CityCode": 3323,
+    "CityName": "חרבת-אל-חפירה",
+    "key": 943
+  },
+  {
+    "CityCode": 3324,
+    "CityName": "חרבת-אל-חרזאן",
+    "key": 944
+  },
+  {
+    "CityCode": 3326,
+    "CityName": "חרבת-אל-מג'ור",
+    "key": 945
+  },
+  {
+    "CityCode": 3328,
+    "CityName": "חרבת-אל-מדור",
+    "key": 946
+  },
+  {
+    "CityCode": 3329,
+    "CityName": "חרבת-אל-מטלה",
+    "key": 947
+  },
+  {
+    "CityCode": 3327,
+    "CityName": "חרבת-אל-מנגוזה",
+    "key": 948
+  },
+  {
+    "CityCode": 3330,
+    "CityName": "חרבת-אל-מנשיה",
+    "key": 949
+  },
+  {
+    "CityCode": 3332,
+    "CityName": "חרבת-אל-מרגם",
+    "key": 950
+  },
+  {
+    "CityCode": 3335,
+    "CityName": "חרבת-אל-עלקה",
+    "key": 951
+  },
+  {
+    "CityCode": 3338,
+    "CityName": "חרבת-אל-קצור",
+    "key": 952
+  },
+  {
+    "CityCode": 3341,
+    "CityName": "חרבת-בית-ענון",
+    "key": 953
+  },
+  {
+    "CityCode": 3342,
+    "CityName": "חרבת-בית-תעמיר",
+    "key": 954
+  },
+  {
+    "CityCode": 3343,
+    "CityName": "חרבת-בריזעה",
+    "key": 955
+  },
+  {
+    "CityCode": 3344,
+    "CityName": "חרבת-ברקין",
+    "key": 956
+  },
+  {
+    "CityCode": 3345,
+    "CityName": "חרבת-גאדור",
+    "key": 957
+  },
+  {
+    "CityCode": 3347,
+    "CityName": "חרבת-גהזם",
+    "key": 958
+  },
+  {
+    "CityCode": 3348,
+    "CityName": "חרבת-גראד",
+    "key": 959
+  },
+  {
+    "CityCode": 3349,
+    "CityName": "חרבת-דאיר",
+    "key": 960
+  },
+  {
+    "CityCode": 3351,
+    "CityName": "חרבת-ואדי-א-צבע",
+    "key": 961
+  },
+  {
+    "CityCode": 3352,
+    "CityName": "חרבת-ודח",
+    "key": 962
+  },
+  {
+    "CityCode": 3353,
+    "CityName": "חרבת-זיתא",
+    "key": 963
+  },
+  {
+    "CityCode": 3354,
+    "CityName": "חרבת-חדיר",
+    "key": 964
+  },
+  {
+    "CityCode": 3355,
+    "CityName": "חרבת-טויל",
+    "key": 965
+  },
+  {
+    "CityCode": 3356,
+    "CityName": "חרבת-כזון",
+    "key": 966
+  },
+  {
+    "CityCode": 3357,
+    "CityName": "חרבת-כנעאן",
+    "key": 967
+  },
+  {
+    "CityCode": 3360,
+    "CityName": "חרבת-מעין",
+    "key": 968
+  },
+  {
+    "CityCode": 3359,
+    "CityName": "חרבת-מרק",
+    "key": 969
+  },
+  {
+    "CityCode": 3361,
+    "CityName": "חרבת-נבי-צאלח",
+    "key": 970
+  },
+  {
+    "CityCode": 3362,
+    "CityName": "חרבת-סמיא",
+    "key": 971
+  },
+  {
+    "CityCode": 3363,
+    "CityName": "חרבת-עבא",
+    "key": 972
+  },
+  {
+    "CityCode": 3364,
+    "CityName": "חרבת-עוד",
+    "key": 973
+  },
+  {
+    "CityCode": 3366,
+    "CityName": "חרבת-פקיקס",
+    "key": 974
+  },
+  {
+    "CityCode": 3371,
+    "CityName": "חרבת-ראס-עטיה",
+    "key": 975
+  },
+  {
+    "CityCode": 3372,
+    "CityName": "חרבת-רקעה",
+    "key": 976
+  },
+  {
+    "CityCode": 3373,
+    "CityName": "חרבת-שויכה",
+    "key": 977
+  },
+  {
+    "CityCode": 1024,
+    "CityName": "חרוצים",
+    "key": 978
+  },
+  {
+    "CityCode": 162,
+    "CityName": "חרות",
+    "key": 980
+  },
+  {
+    "CityCode": 1247,
+    "CityName": "חריש",
+    "key": 981
+  },
+  {
+    "CityCode": 7061,
+    "CityName": "חרמון",
+    "key": 982
+  },
+  {
+    "CityCode": 3717,
+    "CityName": "חרמש",
+    "key": 983
+  },
+  {
+    "CityCode": 1209,
+    "CityName": "חרשים",
+    "key": 984
+  },
+  {
+    "CityCode": 3770,
+    "CityName": "חשמונאים",
+    "key": 985
+  },
+  {
+    "CityCode": 9005,
+    "CityName": "טאבה",
+    "key": 986
+  },
+  {
+    "CityCode": 2405,
+    "CityName": "טבחה",
+    "key": 987
+  },
+  {
+    "CityCode": 7068,
+    "CityName": "טבחה-צומת",
+    "key": 988
+  },
+  {
+    "CityCode": 6700,
+    "CityName": "טבריה",
+    "key": 989
+  },
+  {
+    "CityCode": 3411,
+    "CityName": "טואני",
+    "key": 990
+  },
+  {
+    "CityCode": 962,
+    "CityName": "טובה",
+    "key": 991
+  },
+  {
+    "CityCode": 498,
+    "CityName": "טורען",
+    "key": 992
+  },
+  {
+    "CityCode": 2730,
+    "CityName": "טייבה",
+    "key": 993
+  },
+  {
+    "CityCode": 497,
+    "CityName": "טייבה (עמק יזרעאל)",
+    "key": 994
+  },
+  {
+    "CityCode": 2720,
+    "CityName": "טירה",
+    "key": 996
+  },
+  {
+    "CityCode": 2100,
+    "CityName": "טירת הכרמל",
+    "key": 997
+  },
+  {
+    "CityCode": 663,
+    "CityName": "טירת יהודה",
+    "key": 998
+  },
+  {
+    "CityCode": 268,
+    "CityName": "טירת צבי",
+    "key": 1000
+  },
+  {
+    "CityCode": 383,
+    "CityName": "טירת צבי-צומת",
+    "key": 1001
+  },
+  {
+    "CityCode": 9023,
+    "CityName": "טל אור",
+    "key": 1005
+  },
+  {
+    "CityCode": 1181,
+    "CityName": "טל אל",
+    "key": 1006
+  },
+  {
+    "CityCode": 9022,
+    "CityName": "טל מנשה",
+    "key": 1007
+  },
+  {
+    "CityCode": 462,
+    "CityName": "טל שחר",
+    "key": 1008
+  },
+  {
+    "CityCode": 1137,
+    "CityName": "טלזסטון",
+    "key": 1015
+  },
+  {
+    "CityCode": 8900,
+    "CityName": "טמרה",
+    "key": 1018
+  },
+  {
+    "CityCode": 547,
+    "CityName": "טמרה (עמק יזרעאל)",
+    "key": 1019
+  },
+  {
+    "CityCode": 3743,
+    "CityName": "טנא",
+    "key": 1021
+  },
+  {
+    "CityCode": 1214,
+    "CityName": "טפחות",
+    "key": 1022
+  },
+  {
+    "CityCode": 3419,
+    "CityName": "טראמה",
+    "key": 1023
+  },
+  {
+    "CityCode": 500,
+    "CityName": "יאנוח",
+    "key": 1025
+  },
+  {
+    "CityCode": 1232,
+    "CityName": "יבול",
+    "key": 1026
+  },
+  {
+    "CityCode": 1217,
+    "CityName": "יבור",
+    "key": 1027
+  },
+  {
+    "CityCode": 46,
+    "CityName": "יבנאל",
+    "key": 1028
+  },
+  {
+    "CityCode": 2660,
+    "CityName": "יבנה",
+    "key": 1029
+  },
+  {
+    "CityCode": 334,
+    "CityName": "יבנה (קבוצת יבנה)",
+    "key": 1030
+  },
+  {
+    "CityCode": 96,
+    "CityName": "יגור",
+    "key": 1032
+  },
+  {
+    "CityCode": 577,
+    "CityName": "יד בנימין",
+    "key": 1034
+  },
+  {
+    "CityCode": 1134,
+    "CityName": "יד השמונה",
+    "key": 1035
+  },
+  {
+    "CityCode": 758,
+    "CityName": "יד חנה",
+    "key": 1036
+  },
+  {
+    "CityCode": 358,
+    "CityName": "יד מרדכי",
+    "key": 1037
+  },
+  {
+    "CityCode": 775,
+    "CityName": "יד נתן",
+    "key": 1038
+  },
+  {
+    "CityCode": 64,
+    "CityName": "יד רמבם",
+    "key": 1039
+  },
+  {
+    "CityCode": 1144,
+    "CityName": "ידידה",
+    "key": 1046
+  },
+  {
+    "CityCode": 233,
+    "CityName": "ידידיה",
+    "key": 1047
+  },
+  {
+    "CityCode": 9400,
+    "CityName": "יהוד",
+    "key": 1048
+  },
+  {
+    "CityCode": 1158,
+    "CityName": "יהל",
+    "key": 1049
+  },
+  {
+    "CityCode": 1226,
+    "CityName": "יובלים",
+    "key": 1050
+  },
+  {
+    "CityCode": 1112,
+    "CityName": "יודפת",
+    "key": 1051
+  },
+  {
+    "CityCode": 866,
+    "CityName": "יוטבתה",
+    "key": 1052
+  },
+  {
+    "CityCode": 4007,
+    "CityName": "יונתן",
+    "key": 1053
+  },
+  {
+    "CityCode": 240,
+    "CityName": "יוקנעם",
+    "key": 1054
+  },
+  {
+    "CityCode": 803,
+    "CityName": "יושיביה",
+    "key": 1055
+  },
+  {
+    "CityCode": 452,
+    "CityName": "יזרעאל",
+    "key": 1056
+  },
+  {
+    "CityCode": 5,
+    "CityName": "יזרעם",
+    "key": 1057
+  },
+  {
+    "CityCode": 409,
+    "CityName": "יחיעם",
+    "key": 1058
+  },
+  {
+    "CityCode": 3607,
+    "CityName": "ייטב-קיבוץ",
+    "key": 1060
+  },
+  {
+    "CityCode": 811,
+    "CityName": "יכיני",
+    "key": 1061
+  },
+  {
+    "CityCode": 7019,
+    "CityName": "ים המלח",
+    "key": 1062
+  },
+  {
+    "CityCode": 769,
+    "CityName": "ימין אורד-מסעף",
+    "key": 1065
+  },
+  {
+    "CityCode": 753,
+    "CityName": "ינוב",
+    "key": 1066
+  },
+  {
+    "CityCode": 2011,
+    "CityName": "ינון",
+    "key": 1068
+  },
+  {
+    "CityCode": 440,
+    "CityName": "יסודות",
+    "key": 1072
+  },
+  {
+    "CityCode": 575,
+    "CityName": "יסעור",
+    "key": 1073
+  },
+  {
+    "CityCode": 3447,
+    "CityName": "יעבד",
+    "key": 1074
+  },
+  {
+    "CityCode": 1138,
+    "CityName": "יעד",
+    "key": 1075
+  },
+  {
+    "CityCode": 1117,
+    "CityName": "יעל",
+    "key": 1076
+  },
+  {
+    "CityCode": 1044,
+    "CityName": "יעף",
+    "key": 1077
+  },
+  {
+    "CityCode": 795,
+    "CityName": "יערה",
+    "key": 1078
+  },
+  {
+    "CityCode": 7090,
+    "CityName": "יערות-הכרמל",
+    "key": 1079
+  },
+  {
+    "CityCode": 499,
+    "CityName": "יפיע",
+    "key": 1080
+  },
+  {
+    "CityCode": 3566,
+    "CityName": "יפית",
+    "key": 1081
+  },
+  {
+    "CityCode": 134,
+    "CityName": "יפעת",
+    "key": 1082
+  },
+  {
+    "CityCode": 453,
+    "CityName": "יפתח",
+    "key": 1083
+  },
+  {
+    "CityCode": 3749,
+    "CityName": "יצהר",
+    "key": 1084
+  },
+  {
+    "CityCode": 759,
+    "CityName": "יציץ",
+    "key": 1085
+  },
+  {
+    "CityCode": 417,
+    "CityName": "יקום",
+    "key": 1086
+  },
+  {
+    "CityCode": 3647,
+    "CityName": "יקיר",
+    "key": 1087
+  },
+  {
+    "CityCode": 241,
+    "CityName": "יקנעם מושבה",
+    "key": 1088
+  },
+  {
+    "CityCode": 623,
+    "CityName": "יראון",
+    "key": 1091
+  },
+  {
+    "CityCode": 2026,
+    "CityName": "ירדנה",
+    "key": 1092
+  },
+  {
+    "CityCode": 831,
+    "CityName": "ירוחם",
+    "key": 1093
+  },
+  {
+    "CityCode": 3000,
+    "CityName": "ירושלים",
+    "key": 1094
+  },
+  {
+    "CityCode": 718,
+    "CityName": "ירחיב",
+    "key": 1095
+  },
+  {
+    "CityCode": 502,
+    "CityName": "ירכא",
+    "key": 1096
+  },
+  {
+    "CityCode": 183,
+    "CityName": "ירקונה",
+    "key": 1097
+  },
+  {
+    "CityCode": 1327,
+    "CityName": "ישוב חדש",
+    "key": 1098
+  },
+  {
+    "CityCode": 916,
+    "CityName": "ישע",
+    "key": 1099
+  },
+  {
+    "CityCode": 805,
+    "CityName": "ישעי",
+    "key": 1100
+  },
+  {
+    "CityCode": 828,
+    "CityName": "ישרש",
+    "key": 1101
+  },
+  {
+    "CityCode": 1227,
+    "CityName": "יתד",
+    "key": 1102
+  },
+  {
+    "CityCode": 857,
+    "CityName": "כפר אביב",
+    "key": 1104
+  },
+  {
+    "CityCode": 3638,
+    "CityName": "כפר אדומים",
+    "key": 1105
+  },
+  {
+    "CityCode": 364,
+    "CityName": "כפר אוריה",
+    "key": 1106
+  },
+  {
+    "CityCode": 3796,
+    "CityName": "כפר אורנים",
+    "key": 1107
+  },
+  {
+    "CityCode": 180,
+    "CityName": "כ.אז\"ר",
+    "key": 1108
+  },
+  {
+    "CityCode": 690,
+    "CityName": "כפר אחים",
+    "key": 1109
+  },
+  {
+    "CityCode": 220,
+    "CityName": "כפר ביאליק",
+    "key": 1112
+  },
+  {
+    "CityCode": 177,
+    "CityName": "כפר בילו",
+    "key": 1113
+  },
+  {
+    "CityCode": 357,
+    "CityName": "כפר בלום",
+    "key": 1114
+  },
+  {
+    "CityCode": 2010,
+    "CityName": "כפר בן-נון",
+    "key": 1115
+  },
+  {
+    "CityCode": 633,
+    "CityName": "כפר ברא",
+    "key": 1116
+  },
+  {
+    "CityCode": 132,
+    "CityName": "כפר ברוך",
+    "key": 1117
+  },
+  {
+    "CityCode": 106,
+    "CityName": "כפר גדעון",
+    "key": 1118
+  },
+  {
+    "CityCode": 427,
+    "CityName": "כפר גלים",
+    "key": 1119
+  },
+  {
+    "CityCode": 310,
+    "CityName": "כפר גליקסון",
+    "key": 1120
+  },
+  {
+    "CityCode": 76,
+    "CityName": "כפר גלעדי",
+    "key": 1121
+  },
+  {
+    "CityCode": 707,
+    "CityName": "כפר דניאל",
+    "key": 1122
+  },
+  {
+    "CityCode": 192,
+    "CityName": "כ.החורש",
+    "key": 1125
+  },
+  {
+    "CityCode": 2650,
+    "CityName": "הכפר הירוק",
+    "key": 1126
+  },
+  {
+    "CityCode": 582,
+    "CityName": "כ.הנגיד",
+    "key": 1127
+  },
+  {
+    "CityCode": 890,
+    "CityName": "כ.הנוער-הדתי",
+    "key": 1128
+  },
+  {
+    "CityCode": 443,
+    "CityName": "כ.הנשיא",
+    "key": 1129
+  },
+  {
+    "CityCode": 187,
+    "CityName": "כ.הס",
+    "key": 1130
+  },
+  {
+    "CityCode": 217,
+    "CityName": "כ.הרואה",
+    "key": 1131
+  },
+  {
+    "CityCode": 888,
+    "CityName": "כ.הריף",
+    "key": 1133
+  },
+  {
+    "CityCode": 190,
+    "CityName": "כ.ויתקין",
+    "key": 1134
+  },
+  {
+    "CityCode": 1263,
+    "CityName": "כ.ורדים",
+    "key": 1136
+  },
+  {
+    "CityCode": 786,
+    "CityName": "כ.זיתים",
+    "key": 1137
+  },
+  {
+    "CityCode": 696,
+    "CityName": "כפר חבד",
+    "key": 1138
+  },
+  {
+    "CityCode": 255,
+    "CityName": "כ.חיטים",
+    "key": 1139
+  },
+  {
+    "CityCode": 193,
+    "CityName": "כ.חיים",
+    "key": 1140
+  },
+  {
+    "CityCode": 2811,
+    "CityName": "כ.חנניה",
+    "key": 1141
+  },
+  {
+    "CityCode": 112,
+    "CityName": "כפר חסידים",
+    "key": 1142
+  },
+  {
+    "CityCode": 889,
+    "CityName": "כפר חסידים ב'",
+    "key": 1143
+  },
+  {
+    "CityCode": 4004,
+    "CityName": "כ.חרוב",
+    "key": 1144
+  },
+  {
+    "CityCode": 673,
+    "CityName": "כ.טרומן",
+    "key": 1145
+  },
+  {
+    "CityCode": 507,
+    "CityName": "יאסיף",
+    "key": 1146
+  },
+  {
+    "CityCode": 140,
+    "CityName": "כ.יהושע",
+    "key": 1147
+  },
+  {
+    "CityCode": 2009,
+    "CityName": "כ.יובל",
+    "key": 1148
+  },
+  {
+    "CityCode": 85,
+    "CityName": "כ.יחזקאל",
+    "key": 1150
+  },
+  {
+    "CityCode": 170,
+    "CityName": "כפר יעבץ",
+    "key": 1151
+  },
+  {
+    "CityCode": 508,
+    "CityName": "כפר כמא",
+    "key": 1152
+  },
+  {
+    "CityCode": 509,
+    "CityName": "כפר כנא",
+    "key": 1153
+  },
+  {
+    "CityCode": 387,
+    "CityName": "כ.מונש",
+    "key": 1154
+  },
+  {
+    "CityCode": 1095,
+    "CityName": "כפר מימון",
+    "key": 1155
+  },
+  {
+    "CityCode": 512,
+    "CityName": "כ.מיסר",
+    "key": 1157
+  },
+  {
+    "CityCode": 98,
+    "CityName": "כפר מלל",
+    "key": 1158
+  },
+  {
+    "CityCode": 510,
+    "CityName": "כפר מנדא",
+    "key": 1159
+  },
+  {
+    "CityCode": 274,
+    "CityName": "כפר מנחם",
+    "key": 1160
+  },
+  {
+    "CityCode": 297,
+    "CityName": "כפר מסריק",
+    "key": 1161
+  },
+  {
+    "CityCode": 230,
+    "CityName": "כפר מעש",
+    "key": 1162
+  },
+  {
+    "CityCode": 764,
+    "CityName": "כ.מרדכי",
+    "key": 1163
+  },
+  {
+    "CityCode": 316,
+    "CityName": "כפר נטר",
+    "key": 1165
+  },
+  {
+    "CityCode": 345,
+    "CityName": "כ.סאלד",
+    "key": 1166
+  },
+  {
+    "CityCode": 513,
+    "CityName": "סומיע",
+    "key": 1167
+  },
+  {
+    "CityCode": 107,
+    "CityName": "כ.סילבר",
+    "key": 1168
+  },
+  {
+    "CityCode": 249,
+    "CityName": "כ.סירקין",
+    "key": 1169
+  },
+  {
+    "CityCode": 845,
+    "CityName": "כפר עזה",
+    "key": 1170
+  },
+  {
+    "CityCode": 3487,
+    "CityName": "כ.עזיז",
+    "key": 1171
+  },
+  {
+    "CityCode": 3488,
+    "CityName": "כפר עציון",
+    "key": 1172
+  },
+  {
+    "CityCode": 189,
+    "CityName": "כפר פינס",
+    "key": 1173
+  },
+  {
+    "CityCode": 634,
+    "CityName": "כפר קאסם",
+    "key": 1174
+  },
+  {
+    "CityCode": 388,
+    "CityName": "כ.קיש",
+    "key": 1175
+  },
+  {
+    "CityCode": 654,
+    "CityName": "כפר קרע",
+    "key": 1176
+  },
+  {
+    "CityCode": 579,
+    "CityName": "ראש-הנקרה",
+    "key": 1177
+  },
+  {
+    "CityCode": 1166,
+    "CityName": "כפר רות",
+    "key": 1178
+  },
+  {
+    "CityCode": 605,
+    "CityName": "כפר שמאי",
+    "key": 1179
+  },
+  {
+    "CityCode": 743,
+    "CityName": "כפר שמואל",
+    "key": 1180
+  },
+  {
+    "CityCode": 267,
+    "CityName": "כפר שמריהו",
+    "key": 1181
+  },
+  {
+    "CityCode": 47,
+    "CityName": "כפר תבור",
+    "key": 1182
+  },
+  {
+    "CityCode": 3572,
+    "CityName": "כפר תפוח",
+    "key": 1183
+  },
+  {
+    "CityCode": 504,
+    "CityName": "כאבול",
+    "key": 1184
+  },
+  {
+    "CityCode": 505,
+    "CityName": "כאוכב אבו אל-היג'א",
+    "key": 1185
+  },
+  {
+    "CityCode": 576,
+    "CityName": "כברי",
+    "key": 1187
+  },
+  {
+    "CityCode": 371,
+    "CityName": "כדורי",
+    "key": 1188
+  },
+  {
+    "CityCode": 3564,
+    "CityName": "כוכב השחר",
+    "key": 1189
+  },
+  {
+    "CityCode": 1224,
+    "CityName": "כוכב יאיר",
+    "key": 1190
+  },
+  {
+    "CityCode": 3779,
+    "CityName": "כוכב יעקב",
+    "key": 1191
+  },
+  {
+    "CityCode": 824,
+    "CityName": "כוכב מיכאל",
+    "key": 1192
+  },
+  {
+    "CityCode": 1210,
+    "CityName": "כחל",
+    "key": 1198
+  },
+  {
+    "CityCode": 7094,
+    "CityName": "כינר",
+    "key": 1199
+  },
+  {
+    "CityCode": 4702,
+    "CityName": "כינר-מסעף",
+    "key": 1200
+  },
+  {
+    "CityCode": 840,
+    "CityName": "כיסופים",
+    "key": 1201
+  },
+  {
+    "CityCode": 859,
+    "CityName": "כיסלון",
+    "key": 1202
+  },
+  {
+    "CityCode": 506,
+    "CityName": "כיסרא",
+    "key": 1203
+  },
+  {
+    "CityCode": 1153,
+    "CityName": "כישור",
+    "key": 1204
+  },
+  {
+    "CityCode": 154,
+    "CityName": "כלא אופק",
+    "key": 1205
+  },
+  {
+    "CityCode": 7039,
+    "CityName": "כלא אשמורת",
+    "key": 1206
+  },
+  {
+    "CityCode": 53,
+    "CityName": "כלא כרמל",
+    "key": 1208
+  },
+  {
+    "CityCode": 586,
+    "CityName": "כלא מגידו",
+    "key": 1209
+  },
+  {
+    "CityCode": 6025,
+    "CityName": "כלא נפחא",
+    "key": 1210
+  },
+  {
+    "CityCode": 7049,
+    "CityName": "כלא-שאטה",
+    "key": 1213
+  },
+  {
+    "CityCode": 1183,
+    "CityName": "כליל",
+    "key": 1214
+  },
+  {
+    "CityCode": 1229,
+    "CityName": "כלנית",
+    "key": 1215
+  },
+  {
+    "CityCode": 1291,
+    "CityName": "כמהין",
+    "key": 1216
+  },
+  {
+    "CityCode": 1201,
+    "CityName": "כמון",
+    "key": 1217
+  },
+  {
+    "CityCode": 2006,
+    "CityName": "כנות",
+    "key": 1218
+  },
+  {
+    "CityCode": 4028,
+    "CityName": "כנף",
+    "key": 1219
+  },
+  {
+    "CityCode": 63,
+    "CityName": "כנרת(מושבה)",
+    "key": 1220
+  },
+  {
+    "CityCode": 57,
+    "CityName": "כנרת(קבוצה)",
+    "key": 1221
+  },
+  {
+    "CityCode": 1059,
+    "CityName": "כסייפה",
+    "key": 1223
+  },
+  {
+    "CityCode": 978,
+    "CityName": "כעביה",
+    "key": 1226
+  },
+  {
+    "CityCode": 2420,
+    "CityName": "כפר בפטיסטים",
+    "key": 1238
+  },
+  {
+    "CityCode": 5405,
+    "CityName": "כפר דרום",
+    "key": 1246
+  },
+  {
+    "CityCode": 254,
+    "CityName": "כפר המכבי",
+    "key": 1252
+  },
+  {
+    "CityCode": 1325,
+    "CityName": "כפר זוהרים",
+    "key": 1263
+  },
+  {
+    "CityCode": 6900,
+    "CityName": "כפר סבא",
+    "key": 1294
+  },
+  {
+    "CityCode": 3489,
+    "CityName": "כפר עקב",
+    "key": 1301
+  },
+  {
+    "CityCode": 1285,
+    "CityName": "כרכום",
+    "key": 1318
+  },
+  {
+    "CityCode": 664,
+    "CityName": "כרם בן זמרה",
+    "key": 1320
+  },
+  {
+    "CityCode": 88,
+    "CityName": "כרם בן שמן",
+    "key": 1321
+  },
+  {
+    "CityCode": 810,
+    "CityName": "כרם מהרל-צומת",
+    "key": 1322
+  },
+  {
+    "CityCode": 1085,
+    "CityName": "כרם שלום",
+    "key": 1323
+  },
+  {
+    "CityCode": 1094,
+    "CityName": "כרם-יבנה(ישיבה)",
+    "key": 1325
+  },
+  {
+    "CityCode": 580,
+    "CityName": "כרם-מהרל",
+    "key": 1326
+  },
+  {
+    "CityCode": 1264,
+    "CityName": "כרמי יוסף",
+    "key": 1328
+  },
+  {
+    "CityCode": 3766,
+    "CityName": "כרמי צור",
+    "key": 1329
+  },
+  {
+    "CityCode": 1374,
+    "CityName": "כרמי קטיף",
+    "key": 1330
+  },
+  {
+    "CityCode": 1139,
+    "CityName": "כרמיאל",
+    "key": 1333
+  },
+  {
+    "CityCode": 768,
+    "CityName": "כרמיה",
+    "key": 1334
+  },
+  {
+    "CityCode": 1198,
+    "CityName": "כרמים",
+    "key": 1336
+  },
+  {
+    "CityCode": 9803,
+    "CityName": "כרמית",
+    "key": 1337
+  },
+  {
+    "CityCode": 3656,
+    "CityName": "כרמל",
+    "key": 1338
+  },
+  {
+    "CityCode": 9895,
+    "CityName": "לב הפארק רעננה",
+    "key": 1339
+  },
+  {
+    "CityCode": 1207,
+    "CityName": "לבון",
+    "key": 1340
+  },
+  {
+    "CityCode": 3521,
+    "CityName": "לבן",
+    "key": 1342
+  },
+  {
+    "CityCode": 2023,
+    "CityName": "להב",
+    "key": 1343
+  },
+  {
+    "CityCode": 380,
+    "CityName": "להבות הבשן",
+    "key": 1344
+  },
+  {
+    "CityCode": 715,
+    "CityName": "להבות חביבה",
+    "key": 1345
+  },
+  {
+    "CityCode": 1271,
+    "CityName": "להבים",
+    "key": 1348
+  },
+  {
+    "CityCode": 7000,
+    "CityName": "לוד",
+    "key": 1349
+  },
+  {
+    "CityCode": 52,
+    "CityName": "לוזית",
+    "key": 1350
+  },
+  {
+    "CityCode": 1171,
+    "CityName": "לוטם",
+    "key": 1354
+  },
+  {
+    "CityCode": 1255,
+    "CityName": "לוטן",
+    "key": 1355
+  },
+  {
+    "CityCode": 1052,
+    "CityName": "לוטן-צומת",
+    "key": 1356
+  },
+  {
+    "CityCode": 7009,
+    "CityName": "לטרון-צומת חטיבה שבע",
+    "key": 1359
+  },
+  {
+    "CityCode": 1114,
+    "CityName": "לי און",
+    "key": 1360
+  },
+  {
+    "CityCode": 1230,
+    "CityName": "ליבנים",
+    "key": 1362
+  },
+  {
+    "CityCode": 674,
+    "CityName": "לימן",
+    "key": 1363
+  },
+  {
+    "CityCode": 24,
+    "CityName": "לכיש",
+    "key": 1364
+  },
+  {
+    "CityCode": 1918,
+    "CityName": "לכיש",
+    "key": 1365
+  },
+  {
+    "CityCode": 1310,
+    "CityName": "לפיד",
+    "key": 1366
+  },
+  {
+    "CityCode": 1173,
+    "CityName": "לפידות",
+    "key": 1367
+  },
+  {
+    "CityCode": 1060,
+    "CityName": "לקיה",
+    "key": 1368
+  },
+  {
+    "CityCode": 9002,
+    "CityName": "לשם",
+    "key": 1369
+  },
+  {
+    "CityCode": 9959,
+    "CityName": "מ.א.דרום-השרון",
+    "key": 1371
+  },
+  {
+    "CityCode": 1815,
+    "CityName": "מ.א.לב-השרון",
+    "key": 1372
+  },
+  {
+    "CityCode": 7148,
+    "CityName": "מ.ביר עסלוג",
+    "key": 1373
+  },
+  {
+    "CityCode": 9013,
+    "CityName": "מ.חברת-חשמל(בר.חובב",
+    "key": 1374
+  },
+  {
+    "CityCode": 8166,
+    "CityName": "מ.מח יתיר",
+    "key": 1375
+  },
+  {
+    "CityCode": 8161,
+    "CityName": "מ.מח.איתי",
+    "key": 1376
+  },
+  {
+    "CityCode": 3605,
+    "CityName": "מא.בקעת הירדן",
+    "key": 1377
+  },
+  {
+    "CityCode": 1897,
+    "CityName": "מא.גדרות",
+    "key": 1379
+  },
+  {
+    "CityCode": 82,
+    "CityName": "מא.גלבוע",
+    "key": 1382
+  },
+  {
+    "CityCode": 1903,
+    "CityName": "מא.גן-רוה",
+    "key": 1383
+  },
+  {
+    "CityCode": 156,
+    "CityName": "מא.גן-רוה-מסעף",
+    "key": 1384
+  },
+  {
+    "CityCode": 1176,
+    "CityName": "מא.הערבה התיכונה",
+    "key": 1386
+  },
+  {
+    "CityCode": 3748,
+    "CityName": "מא.הר חברון",
+    "key": 1387
+  },
+  {
+    "CityCode": 426,
+    "CityName": "מא.חוף כרמל-מסעף",
+    "key": 1392
+  },
+  {
+    "CityCode": 1913,
+    "CityName": "מא.יואב",
+    "key": 1393
+  },
+  {
+    "CityCode": 7053,
+    "CityName": "מא.יואב-צומת",
+    "key": 1394
+  },
+  {
+    "CityCode": 309,
+    "CityName": "מא.לכיש",
+    "key": 1396
+  },
+  {
+    "CityCode": 7101,
+    "CityName": "מא.מבואות החרמון",
+    "key": 1397
+  },
+  {
+    "CityCode": 282,
+    "CityName": "מא.מטה אשר",
+    "key": 1398
+  },
+  {
+    "CityCode": 3659,
+    "CityName": "מא.מטה בנימין",
+    "key": 1399
+  },
+  {
+    "CityCode": 809,
+    "CityName": "מא.מטה יהודה",
+    "key": 1400
+  },
+  {
+    "CityCode": 1801,
+    "CityName": "מא.מטה-יהודה",
+    "key": 1401
+  },
+  {
+    "CityCode": 1930,
+    "CityName": "מא.מרחבים",
+    "key": 1404
+  },
+  {
+    "CityCode": 1842,
+    "CityName": "מא.משגב",
+    "key": 1405
+  },
+  {
+    "CityCode": 7070,
+    "CityName": "מא.משגב",
+    "key": 1406
+  },
+  {
+    "CityCode": 897,
+    "CityName": "מא.עמק חפר",
+    "key": 1408
+  },
+  {
+    "CityCode": 1833,
+    "CityName": "מא.עמק-יזרעאל",
+    "key": 1410
+  },
+  {
+    "CityCode": 1031,
+    "CityName": "מא.שער-הנגב",
+    "key": 1412
+  },
+  {
+    "CityCode": 1057,
+    "CityName": "מא.תמר",
+    "key": 1414
+  },
+  {
+    "CityCode": 2055,
+    "CityName": "מאור",
+    "key": 1415
+  },
+  {
+    "CityCode": 102,
+    "CityName": "מאיר שפיה",
+    "key": 1416
+  },
+  {
+    "CityCode": 503,
+    "CityName": "מאקורה",
+    "key": 1417
+  },
+  {
+    "CityCode": 771,
+    "CityName": "מבוא בית\"ר",
+    "key": 1418
+  },
+  {
+    "CityCode": 3569,
+    "CityName": "מבוא דותן",
+    "key": 1420
+  },
+  {
+    "CityCode": 3709,
+    "CityName": "מבוא חורון",
+    "key": 1421
+  },
+  {
+    "CityCode": 4204,
+    "CityName": "מבוא חמה",
+    "key": 1422
+  },
+  {
+    "CityCode": 1141,
+    "CityName": "מבוא מודיעים",
+    "key": 1423
+  },
+  {
+    "CityCode": 8069,
+    "CityName": "מבוא שילה",
+    "key": 1424
+  },
+  {
+    "CityCode": 9937,
+    "CityName": "מבוא שלה",
+    "key": 1425
+  },
+  {
+    "CityCode": 3825,
+    "CityName": "מבואות יריחו",
+    "key": 1431
+  },
+  {
+    "CityCode": 1080,
+    "CityName": "מבועים",
+    "key": 1432
+  },
+  {
+    "CityCode": 829,
+    "CityName": "מבטחים",
+    "key": 1433
+  },
+  {
+    "CityCode": 7196,
+    "CityName": "מבצר נמרוד",
+    "key": 1434
+  },
+  {
+    "CityCode": 573,
+    "CityName": "מבקיעים",
+    "key": 1435
+  },
+  {
+    "CityCode": 1015,
+    "CityName": "מבשרת ציון",
+    "key": 1436
+  },
+  {
+    "CityCode": 516,
+    "CityName": "מג'ד אל כרום",
+    "key": 1438
+  },
+  {
+    "CityCode": 481,
+    "CityName": "מגאר",
+    "key": 1440
+  },
+  {
+    "CityCode": 689,
+    "CityName": "מגדים",
+    "key": 1442
+  },
+  {
+    "CityCode": 65,
+    "CityName": "מגדל",
+    "key": 1443
+  },
+  {
+    "CityCode": 874,
+    "CityName": "מגדל העמק",
+    "key": 1444
+  },
+  {
+    "CityCode": 3561,
+    "CityName": "מגדל עוז",
+    "key": 1445
+  },
+  {
+    "CityCode": 4201,
+    "CityName": "מגדל שאמס",
+    "key": 1446
+  },
+  {
+    "CityCode": 9973,
+    "CityName": "מגדל תפן",
+    "key": 1448
+  },
+  {
+    "CityCode": 3751,
+    "CityName": "מגדלים",
+    "key": 1452
+  },
+  {
+    "CityCode": 1837,
+    "CityName": "מגידו",
+    "key": 1454
+  },
+  {
+    "CityCode": 375,
+    "CityName": "מגל",
+    "key": 1455
+  },
+  {
+    "CityCode": 695,
+    "CityName": "מגן",
+    "key": 1456
+  },
+  {
+    "CityCode": 1155,
+    "CityName": "מגן שאול",
+    "key": 1457
+  },
+  {
+    "CityCode": 722,
+    "CityName": "מגשימים",
+    "key": 1459
+  },
+  {
+    "CityCode": 2029,
+    "CityName": "מדרך עוז",
+    "key": 1460
+  },
+  {
+    "CityCode": 1140,
+    "CityName": "מדרשת בן גוריון",
+    "key": 1462
+  },
+  {
+    "CityCode": 1200,
+    "CityName": "מודיעין",
+    "key": 1465
+  },
+  {
+    "CityCode": 3797,
+    "CityName": "מודיעין עילית",
+    "key": 1466
+  },
+  {
+    "CityCode": 269,
+    "CityName": "מולדת",
+    "key": 1469
+  },
+  {
+    "CityCode": 642,
+    "CityName": "מוסמוס",
+    "key": 1470
+  },
+  {
+    "CityCode": 1948,
+    "CityName": "מועצה אזורית רמת הנגב",
+    "key": 1482
+  },
+  {
+    "CityCode": 208,
+    "CityName": "מוצא(עילית)",
+    "key": 1484
+  },
+  {
+    "CityCode": 40,
+    "CityName": "מוצא(תחתית)",
+    "key": 1485
+  },
+  {
+    "CityCode": 1163,
+    "CityName": "מורן",
+    "key": 1487
+  },
+  {
+    "CityCode": 1178,
+    "CityName": "מורשת",
+    "key": 1488
+  },
+  {
+    "CityCode": 606,
+    "CityName": "מזור",
+    "key": 1490
+  },
+  {
+    "CityCode": 616,
+    "CityName": "מזור-מסעף",
+    "key": 1491
+  },
+  {
+    "CityCode": 8028,
+    "CityName": "מזי",
+    "key": 1492
+  },
+  {
+    "CityCode": 28,
+    "CityName": "מזכרת בתיה",
+    "key": 1493
+  },
+  {
+    "CityCode": 104,
+    "CityName": "מזרע",
+    "key": 1495
+  },
+  {
+    "CityCode": 517,
+    "CityName": "מזרעה",
+    "key": 1496
+  },
+  {
+    "CityCode": 4006,
+    "CityName": "מח. גשור",
+    "key": 1497
+  },
+  {
+    "CityCode": 8095,
+    "CityName": "מח.137",
+    "key": 1498
+  },
+  {
+    "CityCode": 8016,
+    "CityName": "מח.1390",
+    "key": 1499
+  },
+  {
+    "CityCode": 8163,
+    "CityName": "מח.144",
+    "key": 1500
+  },
+  {
+    "CityCode": 8155,
+    "CityName": "מח.302",
+    "key": 1501
+  },
+  {
+    "CityCode": 8015,
+    "CityName": "מח.928",
+    "key": 1502
+  },
+  {
+    "CityCode": 8023,
+    "CityName": "מח.אדוריים",
+    "key": 1503
+  },
+  {
+    "CityCode": 8026,
+    "CityName": "מח.אדם",
+    "key": 1504
+  },
+  {
+    "CityCode": 8046,
+    "CityName": "מח.אום דרג",
+    "key": 1505
+  },
+  {
+    "CityCode": 8088,
+    "CityName": "מח.אורים",
+    "key": 1506
+  },
+  {
+    "CityCode": 8076,
+    "CityName": "מח.אמיתי",
+    "key": 1509
+  },
+  {
+    "CityCode": 8074,
+    "CityName": "מח.אסף",
+    "key": 1510
+  },
+  {
+    "CityCode": 8063,
+    "CityName": "מח.אפיק",
+    "key": 1511
+  },
+  {
+    "CityCode": 8007,
+    "CityName": "מח.אריה",
+    "key": 1512
+  },
+  {
+    "CityCode": 7029,
+    "CityName": "מח.בילו",
+    "key": 1515
+  },
+  {
+    "CityCode": 3578,
+    "CityName": "מח.ברוז",
+    "key": 1519
+  },
+  {
+    "CityCode": 8073,
+    "CityName": "מח.ג'יפטליק",
+    "key": 1520
+  },
+  {
+    "CityCode": 8032,
+    "CityName": "מח.גבור",
+    "key": 1521
+  },
+  {
+    "CityCode": 8066,
+    "CityName": "מח.גבע",
+    "key": 1522
+  },
+  {
+    "CityCode": 3580,
+    "CityName": "מח.גבעון",
+    "key": 1523
+  },
+  {
+    "CityCode": 8008,
+    "CityName": "מח.גדי",
+    "key": 1524
+  },
+  {
+    "CityCode": 8113,
+    "CityName": "מח.גוש-מגן",
+    "key": 1527
+  },
+  {
+    "CityCode": 8001,
+    "CityName": "מח.דרקון",
+    "key": 1530
+  },
+  {
+    "CityCode": 8034,
+    "CityName": "מח.הגדר-הטובה מטולה",
+    "key": 1531
+  },
+  {
+    "CityCode": 8097,
+    "CityName": "מח.הר-לבנים",
+    "key": 1533
+  },
+  {
+    "CityCode": 9980,
+    "CityName": "מח.הר-קרן/שני",
+    "key": 1534
+  },
+  {
+    "CityCode": 8089,
+    "CityName": "מח.ורד-יריחו",
+    "key": 1536
+  },
+  {
+    "CityCode": 8013,
+    "CityName": "מח.זיקים",
+    "key": 1537
+  },
+  {
+    "CityCode": 8003,
+    "CityName": "מח.חושניא",
+    "key": 1539
+  },
+  {
+    "CityCode": 8047,
+    "CityName": "מח.חיון",
+    "key": 1540
+  },
+  {
+    "CityCode": 8010,
+    "CityName": "מח.חנן",
+    "key": 1542
+  },
+  {
+    "CityCode": 8071,
+    "CityName": "מח.חסה",
+    "key": 1543
+  },
+  {
+    "CityCode": 8052,
+    "CityName": "מח.חצור",
+    "key": 1545
+  },
+  {
+    "CityCode": 8072,
+    "CityName": "מח.טבץ",
+    "key": 1547
+  },
+  {
+    "CityCode": 8022,
+    "CityName": "מח.יוסף",
+    "key": 1550
+  },
+  {
+    "CityCode": 8090,
+    "CityName": "מח.יפתח",
+    "key": 1552
+  },
+  {
+    "CityCode": 8035,
+    "CityName": "מח.יק\"ל",
+    "key": 1553
+  },
+  {
+    "CityCode": 8018,
+    "CityName": "מח.ירדן",
+    "key": 1554
+  },
+  {
+    "CityCode": 8039,
+    "CityName": "מח.ירקוני",
+    "key": 1555
+  },
+  {
+    "CityCode": 8009,
+    "CityName": "מח.ישי",
+    "key": 1556
+  },
+  {
+    "CityCode": 8006,
+    "CityName": "מח.כפיר",
+    "key": 1557
+  },
+  {
+    "CityCode": 8083,
+    "CityName": "מח.להב",
+    "key": 1559
+  },
+  {
+    "CityCode": 8061,
+    "CityName": "מח.לוז",
+    "key": 1560
+  },
+  {
+    "CityCode": 8021,
+    "CityName": "מח.מוטה גור",
+    "key": 1564
+  },
+  {
+    "CityCode": 1218,
+    "CityName": "מח.מחווה-אלון",
+    "key": 1569
+  },
+  {
+    "CityCode": 8057,
+    "CityName": "מח.מישר",
+    "key": 1570
+  },
+  {
+    "CityCode": 8082,
+    "CityName": "מח.מעבר-קרני",
+    "key": 1572
+  },
+  {
+    "CityCode": 8050,
+    "CityName": "מח.מפרשית",
+    "key": 1574
+  },
+  {
+    "CityCode": 8114,
+    "CityName": "מח.משאבים",
+    "key": 1577
+  },
+  {
+    "CityCode": 8025,
+    "CityName": "מח.נ.יעקב",
+    "key": 1578
+  },
+  {
+    "CityCode": 8029,
+    "CityName": "מח.נויעמה (נועם)",
+    "key": 1580
+  },
+  {
+    "CityCode": 8079,
+    "CityName": "מח.נחל-טוב",
+    "key": 1581
+  },
+  {
+    "CityCode": 8004,
+    "CityName": "מח.נטפים",
+    "key": 1584
+  },
+  {
+    "CityCode": 8065,
+    "CityName": "מח.ניצנים",
+    "key": 1586
+  },
+  {
+    "CityCode": 8033,
+    "CityName": "מח.נמרוד",
+    "key": 1587
+  },
+  {
+    "CityCode": 8154,
+    "CityName": "מח.נעורה",
+    "key": 1588
+  },
+  {
+    "CityCode": 8005,
+    "CityName": "מח.נפח",
+    "key": 1590
+  },
+  {
+    "CityCode": 8123,
+    "CityName": "מח.נתן",
+    "key": 1593
+  },
+  {
+    "CityCode": 8199,
+    "CityName": "מח.סוסיא",
+    "key": 1594
+  },
+  {
+    "CityCode": 8091,
+    "CityName": "מח.סערה",
+    "key": 1596
+  },
+  {
+    "CityCode": 8017,
+    "CityName": "מח.עדן",
+    "key": 1597
+  },
+  {
+    "CityCode": 8087,
+    "CityName": "מח.עובדה",
+    "key": 1598
+  },
+  {
+    "CityCode": 8043,
+    "CityName": "מח.עופר",
+    "key": 1599
+  },
+  {
+    "CityCode": 8044,
+    "CityName": "מח.עמוס",
+    "key": 1600
+  },
+  {
+    "CityCode": 8037,
+    "CityName": "מח.עמיעד",
+    "key": 1601
+  },
+  {
+    "CityCode": 8094,
+    "CityName": "מח.ענתות",
+    "key": 1603
+  },
+  {
+    "CityCode": 8058,
+    "CityName": "מח.פלוגות",
+    "key": 1605
+  },
+  {
+    "CityCode": 8024,
+    "CityName": "מח.פלמחים",
+    "key": 1606
+  },
+  {
+    "CityCode": 8002,
+    "CityName": "מח.פלס",
+    "key": 1607
+  },
+  {
+    "CityCode": 8080,
+    "CityName": "מח.פצן",
+    "key": 1608
+  },
+  {
+    "CityCode": 8048,
+    "CityName": "מח.צוקי-עובדה",
+    "key": 1611
+  },
+  {
+    "CityCode": 8067,
+    "CityName": "מח.צלמון",
+    "key": 1612
+  },
+  {
+    "CityCode": 8054,
+    "CityName": "מח.צנובר",
+    "key": 1613
+  },
+  {
+    "CityCode": 8086,
+    "CityName": "מח.קדום",
+    "key": 1614
+  },
+  {
+    "CityCode": 8053,
+    "CityName": "מח.קצביה",
+    "key": 1615
+  },
+  {
+    "CityCode": 8077,
+    "CityName": "מח.קרן",
+    "key": 1617
+  },
+  {
+    "CityCode": 8040,
+    "CityName": "מח.ר.דוד",
+    "key": 1618
+  },
+  {
+    "CityCode": 8055,
+    "CityName": "מח.רוויה",
+    "key": 1619
+  },
+  {
+    "CityCode": 8140,
+    "CityName": "מח.רמה",
+    "key": 1621
+  },
+  {
+    "CityCode": 8084,
+    "CityName": "מח.רמון",
+    "key": 1622
+  },
+  {
+    "CityCode": 7124,
+    "CityName": "מח.רמון-צומת",
+    "key": 1623
+  },
+  {
+    "CityCode": 8049,
+    "CityName": "מח.שבטה",
+    "key": 1624
+  },
+  {
+    "CityCode": 8056,
+    "CityName": "מח.שגב",
+    "key": 1625
+  },
+  {
+    "CityCode": 8130,
+    "CityName": "מח.שדה-תימן",
+    "key": 1626
+  },
+  {
+    "CityCode": 8085,
+    "CityName": "מח.שורה",
+    "key": 1627
+  },
+  {
+    "CityCode": 8012,
+    "CityName": "מח.שזפון",
+    "key": 1628
+  },
+  {
+    "CityCode": 8014,
+    "CityName": "מח.שיזף 144",
+    "key": 1629
+  },
+  {
+    "CityCode": 8081,
+    "CityName": "מח.שלח",
+    "key": 1630
+  },
+  {
+    "CityCode": 8041,
+    "CityName": "מח.שמונים",
+    "key": 1631
+  },
+  {
+    "CityCode": 8036,
+    "CityName": "מח.שמשון",
+    "key": 1632
+  },
+  {
+    "CityCode": 8038,
+    "CityName": "מח.שער-עגל",
+    "key": 1633
+  },
+  {
+    "CityCode": 8093,
+    "CityName": "מח.שקמה",
+    "key": 1635
+  },
+  {
+    "CityCode": 8160,
+    "CityName": "מח.תובלה",
+    "key": 1637
+  },
+  {
+    "CityCode": 8030,
+    "CityName": "מח.תקוע",
+    "key": 1638
+  },
+  {
+    "CityCode": 8059,
+    "CityName": "מח.תרצה",
+    "key": 1639
+  },
+  {
+    "CityCode": 3599,
+    "CityName": "מחולה",
+    "key": 1642
+  },
+  {
+    "CityCode": 3541,
+    "CityName": "מחים קלנדיה",
+    "key": 1643
+  },
+  {
+    "CityCode": 1049,
+    "CityName": "מחלף אלוף שדה",
+    "key": 1645
+  },
+  {
+    "CityCode": 7047,
+    "CityName": "מחלף הראל",
+    "key": 1648
+  },
+  {
+    "CityCode": 7189,
+    "CityName": "מחלף השבעה",
+    "key": 1649
+  },
+  {
+    "CityCode": 7129,
+    "CityName": "מחלף חוף-לידו/ים-המלח",
+    "key": 1652
+  },
+  {
+    "CityCode": 8102,
+    "CityName": "מחלף חמד",
+    "key": 1653
+  },
+  {
+    "CityCode": 7006,
+    "CityName": "מחלף ירקון",
+    "key": 1654
+  },
+  {
+    "CityCode": 7063,
+    "CityName": "מחלף מסובים",
+    "key": 1659
+  },
+  {
+    "CityCode": 7190,
+    "CityName": "מחלף שפירים",
+    "key": 1661
+  },
+  {
+    "CityCode": 7183,
+    "CityName": "מחלף-אשדוד",
+    "key": 1662
+  },
+  {
+    "CityCode": 7900,
+    "CityName": "מחלף-גהה",
+    "key": 1663
+  },
+  {
+    "CityCode": 7233,
+    "CityName": "מחלף-גהה.נת\"צ",
+    "key": 1664
+  },
+  {
+    "CityCode": 7188,
+    "CityName": "מחלף-זכרון",
+    "key": 1667
+  },
+  {
+    "CityCode": 7184,
+    "CityName": "מחלף-לוד",
+    "key": 1669
+  },
+  {
+    "CityCode": 7400,
+    "CityName": "מחלף-נתניה",
+    "key": 1670
+  },
+  {
+    "CityCode": 8169,
+    "CityName": "מחנה 906/אזור תעשיה דימונה",
+    "key": 1678
+  },
+  {
+    "CityCode": 8099,
+    "CityName": "מחנה הרעם",
+    "key": 1708
+  },
+  {
+    "CityCode": 8138,
+    "CityName": "מחנה חמוש-546",
+    "key": 1714
+  },
+  {
+    "CityCode": 9982,
+    "CityName": "מחנה יואב",
+    "key": 1722
+  },
+  {
+    "CityCode": 8101,
+    "CityName": "מחנה פילון",
+    "key": 1769
+  },
+  {
+    "CityCode": 9926,
+    "CityName": "מחנה שגור/הר ברך",
+    "key": 1792
+  },
+  {
+    "CityCode": 8104,
+    "CityName": "מחנה שרון",
+    "key": 1805
+  },
+  {
+    "CityCode": 8105,
+    "CityName": "מחנה תל נוף",
+    "key": 1807
+  },
+  {
+    "CityCode": 308,
+    "CityName": "מחניים",
+    "key": 1811
+  },
+  {
+    "CityCode": 9994,
+    "CityName": "מחסום ג'למה",
+    "key": 1812
+  },
+  {
+    "CityCode": 9952,
+    "CityName": "מחסום גבעא",
+    "key": 1813
+  },
+  {
+    "CityCode": 9891,
+    "CityName": "מחסום המנהרות",
+    "key": 1814
+  },
+  {
+    "CityCode": 644,
+    "CityName": "מחסום-סאלם",
+    "key": 1816
+  },
+  {
+    "CityCode": 776,
+    "CityName": "מחסיה",
+    "key": 1817
+  },
+  {
+    "CityCode": 9924,
+    "CityName": "מחצבה",
+    "key": 1818
+  },
+  {
+    "CityCode": 1855,
+    "CityName": "מטה אשר",
+    "key": 1819
+  },
+  {
+    "CityCode": 43,
+    "CityName": "מטולה",
+    "key": 1820
+  },
+  {
+    "CityCode": 822,
+    "CityName": "מטע",
+    "key": 1821
+  },
+  {
+    "CityCode": 1128,
+    "CityName": "מי עמי",
+    "key": 1822
+  },
+  {
+    "CityCode": 2054,
+    "CityName": "מיטב",
+    "key": 1824
+  },
+  {
+    "CityCode": 9901,
+    "CityName": "מיני ישראל",
+    "key": 1825
+  },
+  {
+    "CityCode": 649,
+    "CityName": "מיסר",
+    "key": 1826
+  },
+  {
+    "CityCode": 3754,
+    "CityName": "מיצד",
+    "key": 1827
+  },
+  {
+    "CityCode": 4019,
+    "CityName": "מיצר",
+    "key": 1828
+  },
+  {
+    "CityCode": 1282,
+    "CityName": "מירב",
+    "key": 1829
+  },
+  {
+    "CityCode": 607,
+    "CityName": "מירון",
+    "key": 1830
+  },
+  {
+    "CityCode": 3616,
+    "CityName": "מישור אדומים",
+    "key": 1831
+  },
+  {
+    "CityCode": 7075,
+    "CityName": "מישור רותם-צומת",
+    "key": 1833
+  },
+  {
+    "CityCode": 6007,
+    "CityName": "מישור-רותם",
+    "key": 1835
+  },
+  {
+    "CityCode": 731,
+    "CityName": "מישר",
+    "key": 1836
+  },
+  {
+    "CityCode": 2836,
+    "CityName": "מיתר",
+    "key": 1837
+  },
+  {
+    "CityCode": 1273,
+    "CityName": "מכבים/רעות",
+    "key": 1838
+  },
+  {
+    "CityCode": 9003,
+    "CityName": "מכון דוד",
+    "key": 1839
+  },
+  {
+    "CityCode": 3614,
+    "CityName": "מכורה",
+    "key": 1840
+  },
+  {
+    "CityCode": 1343,
+    "CityName": "מכחול",
+    "key": 1841
+  },
+  {
+    "CityCode": 382,
+    "CityName": "מכמורת",
+    "key": 1846
+  },
+  {
+    "CityCode": 1202,
+    "CityName": "מכמנים",
+    "key": 1847
+  },
+  {
+    "CityCode": 519,
+    "CityName": "מכר",
+    "key": 1849
+  },
+  {
+    "CityCode": 9920,
+    "CityName": "מכתש קטן",
+    "key": 1850
+  },
+  {
+    "CityCode": 6015,
+    "CityName": "מל\"מ",
+    "key": 1851
+  },
+  {
+    "CityCode": 164,
+    "CityName": "מלאה",
+    "key": 1852
+  },
+  {
+    "CityCode": 2044,
+    "CityName": "מלילות",
+    "key": 1854
+  },
+  {
+    "CityCode": 596,
+    "CityName": "מלכיה",
+    "key": 1856
+  },
+  {
+    "CityCode": 1154,
+    "CityName": "מלכישוע",
+    "key": 1857
+  },
+  {
+    "CityCode": 7082,
+    "CityName": "ממשית",
+    "key": 1858
+  },
+  {
+    "CityCode": 1174,
+    "CityName": "מנוף",
+    "key": 1860
+  },
+  {
+    "CityCode": 1179,
+    "CityName": "מנוף-צומת",
+    "key": 1861
+  },
+  {
+    "CityCode": 1205,
+    "CityName": "מנות",
+    "key": 1862
+  },
+  {
+    "CityCode": 48,
+    "CityName": "מנחמיה",
+    "key": 1863
+  },
+  {
+    "CityCode": 347,
+    "CityName": "מנרה",
+    "key": 1864
+  },
+  {
+    "CityCode": 1873,
+    "CityName": "מנשה",
+    "key": 1865
+  },
+  {
+    "CityCode": 994,
+    "CityName": "מנשיה א זבדה",
+    "key": 1866
+  },
+  {
+    "CityCode": 1258,
+    "CityName": "מסד",
+    "key": 1868
+  },
+  {
+    "CityCode": 263,
+    "CityName": "מסדה",
+    "key": 1869
+  },
+  {
+    "CityCode": 264,
+    "CityName": "מסדה-מסעף",
+    "key": 1870
+  },
+  {
+    "CityCode": 9947,
+    "CityName": "מסוף-אורנית",
+    "key": 1871
+  },
+  {
+    "CityCode": 2580,
+    "CityName": "מסוף-הערבה",
+    "key": 1872
+  },
+  {
+    "CityCode": 298,
+    "CityName": "מסילות",
+    "key": 1873
+  },
+  {
+    "CityCode": 742,
+    "CityName": "מסילת ציון",
+    "key": 1874
+  },
+  {
+    "CityCode": 748,
+    "CityName": "מסלול",
+    "key": 1876
+  },
+  {
+    "CityCode": 4203,
+    "CityName": "מסעדה",
+    "key": 1878
+  },
+  {
+    "CityCode": 939,
+    "CityName": "מסעודין-אל-עזאזמה",
+    "key": 1879
+  },
+  {
+    "CityCode": 643,
+    "CityName": "מעאויה",
+    "key": 1882
+  },
+  {
+    "CityCode": 9009,
+    "CityName": "מעבר-נהר-הירדן",
+    "key": 1887
+  },
+  {
+    "CityCode": 9015,
+    "CityName": "מעבר-תרקומיא",
+    "key": 1888
+  },
+  {
+    "CityCode": 197,
+    "CityName": "מעברות",
+    "key": 1889
+  },
+  {
+    "CityCode": 1082,
+    "CityName": "מעגלים",
+    "key": 1890
+  },
+  {
+    "CityCode": 678,
+    "CityName": "מעגן",
+    "key": 1892
+  },
+  {
+    "CityCode": 694,
+    "CityName": "מעגן מיכאל",
+    "key": 1893
+  },
+  {
+    "CityCode": 272,
+    "CityName": "מעוז חיים",
+    "key": 1895
+  },
+  {
+    "CityCode": 3657,
+    "CityName": "מעון",
+    "key": 1897
+  },
+  {
+    "CityCode": 570,
+    "CityName": "מעונה",
+    "key": 1898
+  },
+  {
+    "CityCode": 1250,
+    "CityName": "מעוף",
+    "key": 1899
+  },
+  {
+    "CityCode": 518,
+    "CityName": "מעיליא",
+    "key": 1901
+  },
+  {
+    "CityCode": 416,
+    "CityName": "מעין ברוך",
+    "key": 1902
+  },
+  {
+    "CityCode": 290,
+    "CityName": "מעין צבי",
+    "key": 1903
+  },
+  {
+    "CityCode": 3608,
+    "CityName": "מעלה אפרים",
+    "key": 1907
+  },
+  {
+    "CityCode": 1127,
+    "CityName": "מעלה גלבוע",
+    "key": 1908
+  },
+  {
+    "CityCode": 286,
+    "CityName": "מעלה החמישה",
+    "key": 1910
+  },
+  {
+    "CityCode": 3752,
+    "CityName": "מעלה לבונה",
+    "key": 1912
+  },
+  {
+    "CityCode": 3651,
+    "CityName": "מעלה מכמש",
+    "key": 1913
+  },
+  {
+    "CityCode": 3653,
+    "CityName": "מעלה עמוס",
+    "key": 1915
+  },
+  {
+    "CityCode": 3637,
+    "CityName": "מעלה שומרון",
+    "key": 1916
+  },
+  {
+    "CityCode": 3723,
+    "CityName": "מעלה-חבר",
+    "key": 1922
+  },
+  {
+    "CityCode": 1180,
+    "CityName": "מעלה-צביה",
+    "key": 1926
+  },
+  {
+    "CityCode": 1063,
+    "CityName": "מעלות תרשיחא",
+    "key": 1928
+  },
+  {
+    "CityCode": 344,
+    "CityName": "מענית",
+    "key": 1930
+  },
+  {
+    "CityCode": 3547,
+    "CityName": "מעסרה אל ערוב",
+    "key": 1931
+  },
+  {
+    "CityCode": 3548,
+    "CityName": "מעצרה",
+    "key": 1932
+  },
+  {
+    "CityCode": 2205,
+    "CityName": "מערת שורק",
+    "key": 1934
+  },
+  {
+    "CityCode": 7074,
+    "CityName": "מפגש הבקעה",
+    "key": 1935
+  },
+  {
+    "CityCode": 7195,
+    "CityName": "מפל סער",
+    "key": 1938
+  },
+  {
+    "CityCode": 668,
+    "CityName": "מפלסים",
+    "key": 1939
+  },
+  {
+    "CityCode": 6008,
+    "CityName": "מפעלי ים המלח",
+    "key": 1940
+  },
+  {
+    "CityCode": 7011,
+    "CityName": "מצדה",
+    "key": 1943
+  },
+  {
+    "CityCode": 325,
+    "CityName": "מצובה",
+    "key": 1945
+  },
+  {
+    "CityCode": 372,
+    "CityName": "מצודת ישע",
+    "key": 1947
+  },
+  {
+    "CityCode": 757,
+    "CityName": "מצליח",
+    "key": 1951
+  },
+  {
+    "CityCode": 58,
+    "CityName": "מצפה",
+    "key": 1952
+  },
+  {
+    "CityCode": 99,
+    "CityName": "מצפה",
+    "key": 1953
+  },
+  {
+    "CityCode": 1222,
+    "CityName": "מצפה אביב",
+    "key": 1954
+  },
+  {
+    "CityCode": 1370,
+    "CityName": "מצפה אילן",
+    "key": 1955
+  },
+  {
+    "CityCode": 9908,
+    "CityName": "מצפה אשתמוע",
+    "key": 1956
+  },
+  {
+    "CityCode": 7104,
+    "CityName": "מצפה גדות",
+    "key": 1957
+  },
+  {
+    "CityCode": 9029,
+    "CityName": "מצפה יאיר",
+    "key": 1958
+  },
+  {
+    "CityCode": 3576,
+    "CityName": "מצפה יריחו",
+    "key": 1959
+  },
+  {
+    "CityCode": 9915,
+    "CityName": "מצפה משואה",
+    "key": 1960
+  },
+  {
+    "CityCode": 1190,
+    "CityName": "מצפה נטופה",
+    "key": 1961
+  },
+  {
+    "CityCode": 9012,
+    "CityName": "מצפה-ראש-הנקרה",
+    "key": 1970
+  },
+  {
+    "CityCode": 648,
+    "CityName": "מצר",
+    "key": 1973
+  },
+  {
+    "CityCode": 22,
+    "CityName": "מקוה-ישראל",
+    "key": 1974
+  },
+  {
+    "CityCode": 635,
+    "CityName": "מקיבלה",
+    "key": 1975
+  },
+  {
+    "CityCode": 3549,
+    "CityName": "מראח אל בקר",
+    "key": 1976
+  },
+  {
+    "CityCode": 3550,
+    "CityName": "מראח רבאח",
+    "key": 1977
+  },
+  {
+    "CityCode": 641,
+    "CityName": "מרגה",
+    "key": 1979
+  },
+  {
+    "CityCode": 843,
+    "CityName": "מרגליות",
+    "key": 1980
+  },
+  {
+    "CityCode": 4101,
+    "CityName": "מרום גולן",
+    "key": 1981
+  },
+  {
+    "CityCode": 1811,
+    "CityName": "מרום הגליל",
+    "key": 1983
+  },
+  {
+    "CityCode": 1340,
+    "CityName": "מרחב עם",
+    "key": 1985
+  },
+  {
+    "CityCode": 97,
+    "CityName": "מרחביה(מושב)",
+    "key": 1986
+  },
+  {
+    "CityCode": 66,
+    "CityName": "מרחביה-קיבוץ",
+    "key": 1987
+  },
+  {
+    "CityCode": 1715,
+    "CityName": "מרכז מיר\"ב",
+    "key": 1988
+  },
+  {
+    "CityCode": 421,
+    "CityName": "משאבי שדה",
+    "key": 1991
+  },
+  {
+    "CityCode": 995,
+    "CityName": "משאיח-סעדיה",
+    "key": 1993
+  },
+  {
+    "CityCode": 765,
+    "CityName": "משגב דב",
+    "key": 1995
+  },
+  {
+    "CityCode": 378,
+    "CityName": "משגב עם",
+    "key": 1996
+  },
+  {
+    "CityCode": 520,
+    "CityName": "משהד",
+    "key": 1999
+  },
+  {
+    "CityCode": 620,
+    "CityName": "משואות יצחק",
+    "key": 2001
+  },
+  {
+    "CityCode": 3785,
+    "CityName": "משכיות",
+    "key": 2004
+  },
+  {
+    "CityCode": 670,
+    "CityName": "משמר איילון",
+    "key": 2005
+  },
+  {
+    "CityCode": 563,
+    "CityName": "משמר דוד",
+    "key": 2006
+  },
+  {
+    "CityCode": 732,
+    "CityName": "משמר הירדן",
+    "key": 2007
+  },
+  {
+    "CityCode": 395,
+    "CityName": "משמר הנגב",
+    "key": 2008
+  },
+  {
+    "CityCode": 130,
+    "CityName": "משמר העמק",
+    "key": 2009
+  },
+  {
+    "CityCode": 194,
+    "CityName": "משמר השרון",
+    "key": 2011
+  },
+  {
+    "CityCode": 213,
+    "CityName": "משמרות",
+    "key": 2020
+  },
+  {
+    "CityCode": 425,
+    "CityName": "משמרת",
+    "key": 2021
+  },
+  {
+    "CityCode": 791,
+    "CityName": "משען",
+    "key": 2022
+  },
+  {
+    "CityCode": 9017,
+    "CityName": "מתן",
+    "key": 2024
+  },
+  {
+    "CityCode": 9899,
+    "CityName": "מתקן-מישר (בדרום)",
+    "key": 2026
+  },
+  {
+    "CityCode": 9918,
+    "CityName": "מתקן-פארן",
+    "key": 2027
+  },
+  {
+    "CityCode": 1184,
+    "CityName": "מתת",
+    "key": 2028
+  },
+  {
+    "CityCode": 3648,
+    "CityName": "מתתיהו",
+    "key": 2029
+  },
+  {
+    "CityCode": 590,
+    "CityName": "נ.אור",
+    "key": 2030
+  },
+  {
+    "CityCode": 4303,
+    "CityName": "נ.אטיב",
+    "key": 2031
+  },
+  {
+    "CityCode": 405,
+    "CityName": "נ.אילן",
+    "key": 2032
+  },
+  {
+    "CityCode": 296,
+    "CityName": "נ.איתן",
+    "key": 2033
+  },
+  {
+    "CityCode": 4551,
+    "CityName": "נ.גולן",
+    "key": 2034
+  },
+  {
+    "CityCode": 3725,
+    "CityName": "נ.דניאל",
+    "key": 2035
+  },
+  {
+    "CityCode": 2225,
+    "CityName": "נ.הדסה",
+    "key": 2036
+  },
+  {
+    "CityCode": 287,
+    "CityName": "נ.הדסה (תל יצחק)",
+    "key": 2037
+  },
+  {
+    "CityCode": 1124,
+    "CityName": "נ.הככר",
+    "key": 2038
+  },
+  {
+    "CityCode": 7016,
+    "CityName": "נ.הרצוג ביס.",
+    "key": 2039
+  },
+  {
+    "CityCode": 1314,
+    "CityName": "נ.זיו",
+    "key": 2041
+  },
+  {
+    "CityCode": 1279,
+    "CityName": "נ.חריף",
+    "key": 2042
+  },
+  {
+    "CityCode": 1197,
+    "CityName": "נ.חריף-צומת",
+    "key": 2043
+  },
+  {
+    "CityCode": 312,
+    "CityName": "נ.ים",
+    "key": 2044
+  },
+  {
+    "CityCode": 686,
+    "CityName": "נ.ימין",
+    "key": 2045
+  },
+  {
+    "CityCode": 858,
+    "CityName": "נ.ירק",
+    "key": 2047
+  },
+  {
+    "CityCode": 827,
+    "CityName": "נ.מבטח",
+    "key": 2048
+  },
+  {
+    "CityCode": 9024,
+    "CityName": "נ.מדבר מרחצאות",
+    "key": 2049
+  },
+  {
+    "CityCode": 1071,
+    "CityName": "נ.מיכאל",
+    "key": 2050
+  },
+  {
+    "CityCode": 408,
+    "CityName": "נ.מרדכי",
+    "key": 2051
+  },
+  {
+    "CityCode": 142,
+    "CityName": "נ.עמיאל-מסעף",
+    "key": 2053
+  },
+  {
+    "CityCode": 1259,
+    "CityName": "נ.שלום",
+    "key": 2056
+  },
+  {
+    "CityCode": 524,
+    "CityName": "נאעורה",
+    "key": 2062
+  },
+  {
+    "CityCode": 396,
+    "CityName": "נבטים-מושב",
+    "key": 2063
+  },
+  {
+    "CityCode": 6002,
+    "CityName": "נבי מוסא",
+    "key": 2065
+  },
+  {
+    "CityCode": 3724,
+    "CityName": "נגוהות",
+    "key": 2068
+  },
+  {
+    "CityCode": 953,
+    "CityName": "נגידת",
+    "key": 2069
+  },
+  {
+    "CityCode": 80,
+    "CityName": "נהלל",
+    "key": 2071
+  },
+  {
+    "CityCode": 9100,
+    "CityName": "נהריה",
+    "key": 2072
+  },
+  {
+    "CityCode": 4304,
+    "CityName": "נוב",
+    "key": 2073
+  },
+  {
+    "CityCode": 55,
+    "CityName": "נוגה",
+    "key": 2074
+  },
+  {
+    "CityCode": 1062,
+    "CityName": "נוה אפרים",
+    "key": 2079
+  },
+  {
+    "CityCode": 1366,
+    "CityName": "נווה",
+    "key": 2094
+  },
+  {
+    "CityCode": 5427,
+    "CityName": "נווה דקלים",
+    "key": 2102
+  },
+  {
+    "CityCode": 1333,
+    "CityName": "נוף איילון",
+    "key": 2123
+  },
+  {
+    "CityCode": 1061,
+    "CityName": "נוף הגליל ",
+    "key": 2125
+  },
+  {
+    "CityCode": 9909,
+    "CityName": "נוף-גנוסר",
+    "key": 2126
+  },
+  {
+    "CityCode": 9942,
+    "CityName": "נופי פרת",
+    "key": 2127
+  },
+  {
+    "CityCode": 3790,
+    "CityName": "נופים",
+    "key": 2129
+  },
+  {
+    "CityCode": 1284,
+    "CityName": "נופית",
+    "key": 2130
+  },
+  {
+    "CityCode": 257,
+    "CityName": "נופך",
+    "key": 2131
+  },
+  {
+    "CityCode": 3726,
+    "CityName": "נוקדים",
+    "key": 2133
+  },
+  {
+    "CityCode": 447,
+    "CityName": "נורדיה",
+    "key": 2134
+  },
+  {
+    "CityCode": 833,
+    "CityName": "נורית",
+    "key": 2136
+  },
+  {
+    "CityCode": 3591,
+    "CityName": "נזלה א שרקיה",
+    "key": 2137
+  },
+  {
+    "CityCode": 3588,
+    "CityName": "נזלת אבו נאר",
+    "key": 2138
+  },
+  {
+    "CityCode": 3593,
+    "CityName": "נזלת עיסא",
+    "key": 2139
+  },
+  {
+    "CityCode": 1269,
+    "CityName": "נח\"ל יעלון",
+    "key": 2140
+  },
+  {
+    "CityCode": 3753,
+    "CityName": "נח\"ל ע.חגלה",
+    "key": 2141
+  },
+  {
+    "CityCode": 3755,
+    "CityName": "נח\"ל צורף",
+    "key": 2142
+  },
+  {
+    "CityCode": 3721,
+    "CityName": "נח\"ל-דורן",
+    "key": 2144
+  },
+  {
+    "CityCode": 59,
+    "CityName": "נחושה",
+    "key": 2145
+  },
+  {
+    "CityCode": 844,
+    "CityName": "נחל עוז",
+    "key": 2146
+  },
+  {
+    "CityCode": 7098,
+    "CityName": "נחל עמוד-צומת",
+    "key": 2147
+  },
+  {
+    "CityCode": 1159,
+    "CityName": "נחל צלמון-צומת",
+    "key": 2148
+  },
+  {
+    "CityCode": 1901,
+    "CityName": "נחל שורק",
+    "key": 2149
+  },
+  {
+    "CityCode": 9011,
+    "CityName": "נחל-סכר",
+    "key": 2150
+  },
+  {
+    "CityCode": 6011,
+    "CityName": "נחל-צין",
+    "key": 2152
+  },
+  {
+    "CityCode": 9966,
+    "CityName": "נחל-שורק",
+    "key": 2153
+  },
+  {
+    "CityCode": 2045,
+    "CityName": "נחלה",
+    "key": 2154
+  },
+  {
+    "CityCode": 3767,
+    "CityName": "נחליאל",
+    "key": 2156
+  },
+  {
+    "CityCode": 449,
+    "CityName": "נחלים",
+    "key": 2157
+  },
+  {
+    "CityCode": 522,
+    "CityName": "נחף",
+    "key": 2159
+  },
+  {
+    "CityCode": 433,
+    "CityName": "נחשולים",
+    "key": 2160
+  },
+  {
+    "CityCode": 777,
+    "CityName": "נחשון",
+    "key": 2162
+  },
+  {
+    "CityCode": 705,
+    "CityName": "נחשונים",
+    "key": 2163
+  },
+  {
+    "CityCode": 1147,
+    "CityName": "נטועה",
+    "key": 2164
+  },
+  {
+    "CityCode": 4014,
+    "CityName": "נטור",
+    "key": 2165
+  },
+  {
+    "CityCode": 1369,
+    "CityName": "נטע מרשם",
+    "key": 2166
+  },
+  {
+    "CityCode": 174,
+    "CityName": "נטעים",
+    "key": 2167
+  },
+  {
+    "CityCode": 1254,
+    "CityName": "נטף",
+    "key": 2168
+  },
+  {
+    "CityCode": 9930,
+    "CityName": "נטפים",
+    "key": 2169
+  },
+  {
+    "CityCode": 3655,
+    "CityName": "נילי",
+    "key": 2170
+  },
+  {
+    "CityCode": 523,
+    "CityName": "נין",
+    "key": 2171
+  },
+  {
+    "CityCode": 351,
+    "CityName": "ניצן",
+    "key": 2172
+  },
+  {
+    "CityCode": 359,
+    "CityName": "ניצן-צומת",
+    "key": 2173
+  },
+  {
+    "CityCode": 7122,
+    "CityName": "ניצן-צומת",
+    "key": 2174
+  },
+  {
+    "CityCode": 1195,
+    "CityName": "ניצנה",
+    "key": 2175
+  },
+  {
+    "CityCode": 808,
+    "CityName": "ניר אליהו",
+    "key": 2177
+  },
+  {
+    "CityCode": 553,
+    "CityName": "ניר בנים",
+    "key": 2178
+  },
+  {
+    "CityCode": 720,
+    "CityName": "ניר גלים",
+    "key": 2179
+  },
+  {
+    "CityCode": 256,
+    "CityName": "ניר דוד",
+    "key": 2180
+  },
+  {
+    "CityCode": 11,
+    "CityName": "ניר חן",
+    "key": 2181
+  },
+  {
+    "CityCode": 165,
+    "CityName": "ניר יפה",
+    "key": 2182
+  },
+  {
+    "CityCode": 402,
+    "CityName": "ניר יצחק",
+    "key": 2183
+  },
+  {
+    "CityCode": 2047,
+    "CityName": "ניר משה",
+    "key": 2185
+  },
+  {
+    "CityCode": 69,
+    "CityName": "ניר עוז",
+    "key": 2186
+  },
+  {
+    "CityCode": 348,
+    "CityName": "ניר עם",
+    "key": 2187
+  },
+  {
+    "CityCode": 2048,
+    "CityName": "ניר עקיבא",
+    "key": 2189
+  },
+  {
+    "CityCode": 331,
+    "CityName": "ניר צבי",
+    "key": 2190
+  },
+  {
+    "CityCode": 602,
+    "CityName": "נירים",
+    "key": 2206
+  },
+  {
+    "CityCode": 1236,
+    "CityName": "נירית",
+    "key": 2207
+  },
+  {
+    "CityCode": 3620,
+    "CityName": "נירן",
+    "key": 2208
+  },
+  {
+    "CityCode": 7015,
+    "CityName": "נמל תעופה בן גוריון",
+    "key": 2209
+  },
+  {
+    "CityCode": 9031,
+    "CityName": "נמל תעופה רמון",
+    "key": 2210
+  },
+  {
+    "CityCode": 4023,
+    "CityName": "נמרוד",
+    "key": 2211
+  },
+  {
+    "CityCode": 1143,
+    "CityName": "נס עמים",
+    "key": 2213
+  },
+  {
+    "CityCode": 7200,
+    "CityName": "נס ציונה",
+    "key": 2214
+  },
+  {
+    "CityCode": 2278,
+    "CityName": "נעורה",
+    "key": 2218
+  },
+  {
+    "CityCode": 9066,
+    "CityName": "נעורים-מעון",
+    "key": 2220
+  },
+  {
+    "CityCode": 3787,
+    "CityName": "נעלה",
+    "key": 2221
+  },
+  {
+    "CityCode": 15,
+    "CityName": "נעם",
+    "key": 2222
+  },
+  {
+    "CityCode": 3713,
+    "CityName": "נעמה",
+    "key": 2223
+  },
+  {
+    "CityCode": 7106,
+    "CityName": "נפח - צומת השריון",
+    "key": 2226
+  },
+  {
+    "CityCode": 3595,
+    "CityName": "נצאריה",
+    "key": 2229
+  },
+  {
+    "CityCode": 1280,
+    "CityName": "נצני סיני",
+    "key": 2230
+  },
+  {
+    "CityCode": 851,
+    "CityName": "נצני עוז",
+    "key": 2231
+  },
+  {
+    "CityCode": 435,
+    "CityName": "נצר סירני",
+    "key": 2234
+  },
+  {
+    "CityCode": 7300,
+    "CityName": "נצרת",
+    "key": 2237
+  },
+  {
+    "CityCode": 2500,
+    "CityName": "נשר",
+    "key": 2241
+  },
+  {
+    "CityCode": 3555,
+    "CityName": "נתיב הגדוד",
+    "key": 2244
+  },
+  {
+    "CityCode": 693,
+    "CityName": "נתיב הלה",
+    "key": 2245
+  },
+  {
+    "CityCode": 1242,
+    "CityName": "נתיב העשרה",
+    "key": 2246
+  },
+  {
+    "CityCode": 792,
+    "CityName": "נתיב השיירה",
+    "key": 2247
+  },
+  {
+    "CityCode": 246,
+    "CityName": "נתיבות",
+    "key": 2253
+  },
+  {
+    "CityCode": 525,
+    "CityName": "סאגור",
+    "key": 2255
+  },
+  {
+    "CityCode": 578,
+    "CityName": "סאסא",
+    "key": 2256
+  },
+  {
+    "CityCode": 587,
+    "CityName": "סביון",
+    "key": 2257
+  },
+  {
+    "CityCode": 3624,
+    "CityName": "סבסטיה",
+    "key": 2258
+  },
+  {
+    "CityCode": 2046,
+    "CityName": "סגולה",
+    "key": 2259
+  },
+  {
+    "CityCode": 12,
+    "CityName": "סדום",
+    "key": 2261
+  },
+  {
+    "CityCode": 3625,
+    "CityName": "סואחרה",
+    "key": 2262
+  },
+  {
+    "CityCode": 989,
+    "CityName": "סואעד(כמאנה)",
+    "key": 2263
+  },
+  {
+    "CityCode": 942,
+    "CityName": "סואעד(שויכי-חמריה)",
+    "key": 2264
+  },
+  {
+    "CityCode": 526,
+    "CityName": "סולם",
+    "key": 2265
+  },
+  {
+    "CityCode": 3626,
+    "CityName": "סולת א-זהר",
+    "key": 2266
+  },
+  {
+    "CityCode": 3756,
+    "CityName": "סוסיא",
+    "key": 2267
+  },
+  {
+    "CityCode": 1238,
+    "CityName": "סופה",
+    "key": 2269
+  },
+  {
+    "CityCode": 7500,
+    "CityName": "סחנין",
+    "key": 2271
+  },
+  {
+    "CityCode": 5501,
+    "CityName": "סיפה",
+    "key": 2274
+  },
+  {
+    "CityCode": 1245,
+    "CityName": "סלמה",
+    "key": 2278
+  },
+  {
+    "CityCode": 3567,
+    "CityName": "סלעית",
+    "key": 2279
+  },
+  {
+    "CityCode": 1156,
+    "CityName": "סמר",
+    "key": 2282
+  },
+  {
+    "CityCode": 636,
+    "CityName": "סנדלה",
+    "key": 2283
+  },
+  {
+    "CityCode": 1328,
+    "CityName": "סנסנה",
+    "key": 2284
+  },
+  {
+    "CityCode": 419,
+    "CityName": "סעד",
+    "key": 2285
+  },
+  {
+    "CityCode": 454,
+    "CityName": "סער",
+    "key": 2286
+  },
+  {
+    "CityCode": 609,
+    "CityName": "ספסופה",
+    "key": 2288
+  },
+  {
+    "CityCode": 610,
+    "CityName": "סתריה",
+    "key": 2289
+  },
+  {
+    "CityCode": 4501,
+    "CityName": "ע'ג'ר",
+    "key": 2290
+  },
+  {
+    "CityCode": 657,
+    "CityName": "ע.א-סהלה",
+    "key": 2291
+  },
+  {
+    "CityCode": 3679,
+    "CityName": "ע.איוב",
+    "key": 2292
+  },
+  {
+    "CityCode": 687,
+    "CityName": "ע.אילה",
+    "key": 2293
+  },
+  {
+    "CityCode": 546,
+    "CityName": "ע.אל-אסד",
+    "key": 2294
+  },
+  {
+    "CityCode": 3680,
+    "CityName": "ע.אל-בידא",
+    "key": 2295
+  },
+  {
+    "CityCode": 2042,
+    "CityName": "ע.גדי",
+    "key": 2298
+  },
+  {
+    "CityCode": 436,
+    "CityName": "ע.דור",
+    "key": 2299
+  },
+  {
+    "CityCode": 1240,
+    "CityName": "ע.הבשור",
+    "key": 2300
+  },
+  {
+    "CityCode": 2289,
+    "CityName": "ע.הוזים",
+    "key": 2302
+  },
+  {
+    "CityCode": 167,
+    "CityName": "ע.החורש",
+    "key": 2303
+  },
+  {
+    "CityCode": 289,
+    "CityName": "ע.המפרץ",
+    "key": 2304
+  },
+  {
+    "CityCode": 367,
+    "CityName": "ע.העמק",
+    "key": 2306
+  },
+  {
+    "CityCode": 676,
+    "CityName": "ע.השלושה",
+    "key": 2308
+  },
+  {
+    "CityCode": 157,
+    "CityName": "ע.ורד",
+    "key": 2309
+  },
+  {
+    "CityCode": 4503,
+    "CityName": "ע.זיוון",
+    "key": 2310
+  },
+  {
+    "CityCode": 1320,
+    "CityName": "ע.חוד",
+    "key": 2311
+  },
+  {
+    "CityCode": 1053,
+    "CityName": "ע.חצבה",
+    "key": 2314
+  },
+  {
+    "CityCode": 89,
+    "CityName": "ע.חרוד(אחוד)",
+    "key": 2315
+  },
+  {
+    "CityCode": 813,
+    "CityName": "ע.יעקב",
+    "key": 2318
+  },
+  {
+    "CityCode": 532,
+    "CityName": "ע.מאהל",
+    "key": 2320
+  },
+  {
+    "CityCode": 521,
+    "CityName": "ע.נקובא",
+    "key": 2321
+  },
+  {
+    "CityCode": 223,
+    "CityName": "ע.עירון",
+    "key": 2322
+  },
+  {
+    "CityCode": 9007,
+    "CityName": "ע.פשחה",
+    "key": 2323
+  },
+  {
+    "CityCode": 622,
+    "CityName": "ע.צורים",
+    "key": 2324
+  },
+  {
+    "CityCode": 4502,
+    "CityName": "ע.קניא",
+    "key": 2325
+  },
+  {
+    "CityCode": 139,
+    "CityName": "ע.שמר",
+    "key": 2326
+  },
+  {
+    "CityCode": 880,
+    "CityName": "ע.שריד",
+    "key": 2327
+  },
+  {
+    "CityCode": 1251,
+    "CityName": "ע.תמר",
+    "key": 2328
+  },
+  {
+    "CityCode": 646,
+    "CityName": "עארה",
+    "key": 2329
+  },
+  {
+    "CityCode": 3663,
+    "CityName": "עארורה",
+    "key": 2330
+  },
+  {
+    "CityCode": 892,
+    "CityName": "עבדון",
+    "key": 2331
+  },
+  {
+    "CityCode": 2286,
+    "CityName": "עבדת",
+    "key": 2332
+  },
+  {
+    "CityCode": 376,
+    "CityName": "עברון",
+    "key": 2333
+  },
+  {
+    "CityCode": 794,
+    "CityName": "עגור",
+    "key": 2334
+  },
+  {
+    "CityCode": 2035,
+    "CityName": "עדנים",
+    "key": 2336
+  },
+  {
+    "CityCode": 826,
+    "CityName": "עוזה",
+    "key": 2338
+  },
+  {
+    "CityCode": 997,
+    "CityName": "עוזייר-מסעף",
+    "key": 2339
+  },
+  {
+    "CityCode": 737,
+    "CityName": "עולש",
+    "key": 2340
+  },
+  {
+    "CityCode": 666,
+    "CityName": "עומר",
+    "key": 2341
+  },
+  {
+    "CityCode": 534,
+    "CityName": "עוספיא",
+    "key": 2343
+  },
+  {
+    "CityCode": 3617,
+    "CityName": "עופרה",
+    "key": 2346
+  },
+  {
+    "CityCode": 3792,
+    "CityName": "עופרים",
+    "key": 2347
+  },
+  {
+    "CityCode": 32,
+    "CityName": "עוצם",
+    "key": 2348
+  },
+  {
+    "CityCode": 9032,
+    "CityName": "עורתא",
+    "key": 2350
+  },
+  {
+    "CityCode": 328,
+    "CityName": "עזוז",
+    "key": 2352
+  },
+  {
+    "CityCode": 528,
+    "CityName": "עזיר",
+    "key": 2353
+  },
+  {
+    "CityCode": 1149,
+    "CityName": "עזר",
+    "key": 2354
+  },
+  {
+    "CityCode": 837,
+    "CityName": "עזריאל",
+    "key": 2355
+  },
+  {
+    "CityCode": 711,
+    "CityName": "עזריה",
+    "key": 2356
+  },
+  {
+    "CityCode": 817,
+    "CityName": "עזריקם",
+    "key": 2357
+  },
+  {
+    "CityCode": 969,
+    "CityName": "עטאונה",
+    "key": 2358
+  },
+  {
+    "CityCode": 3658,
+    "CityName": "עטרת",
+    "key": 2359
+  },
+  {
+    "CityCode": 1175,
+    "CityName": "עידן",
+    "key": 2360
+  },
+  {
+    "CityCode": 3677,
+    "CityName": "עיזריה",
+    "key": 2362
+  },
+  {
+    "CityCode": 530,
+    "CityName": "עילבון",
+    "key": 2364
+  },
+  {
+    "CityCode": 511,
+    "CityName": "עילוט",
+    "key": 2365
+  },
+  {
+    "CityCode": 3698,
+    "CityName": "עילת עלי",
+    "key": 2366
+  },
+  {
+    "CityCode": 74,
+    "CityName": "עין הוד",
+    "key": 2379
+  },
+  {
+    "CityCode": 9970,
+    "CityName": "עין חמד",
+    "key": 2391
+  },
+  {
+    "CityCode": 9919,
+    "CityName": "עין סהרונים",
+    "key": 2402
+  },
+  {
+    "CityCode": 514,
+    "CityName": "עין ראפא",
+    "key": 2407
+  },
+  {
+    "CityCode": 3712,
+    "CityName": "עינב",
+    "key": 2413
+  },
+  {
+    "CityCode": 600,
+    "CityName": "עינבר",
+    "key": 2414
+  },
+  {
+    "CityCode": 871,
+    "CityName": "עינת",
+    "key": 2416
+  },
+  {
+    "CityCode": 1187,
+    "CityName": "עיר-אובות",
+    "key": 2418
+  },
+  {
+    "CityCode": 7080,
+    "CityName": "עירון-משטרה",
+    "key": 2419
+  },
+  {
+    "CityCode": 9928,
+    "CityName": "עכברה",
+    "key": 2420
+  },
+  {
+    "CityCode": 7600,
+    "CityName": "עכו",
+    "key": 2421
+  },
+  {
+    "CityCode": 1146,
+    "CityName": "עלומים",
+    "key": 2423
+  },
+  {
+    "CityCode": 3765,
+    "CityName": "עלי",
+    "key": 2424
+  },
+  {
+    "CityCode": 7048,
+    "CityName": "עלי זהב",
+    "key": 2425
+  },
+  {
+    "CityCode": 688,
+    "CityName": "עלמה",
+    "key": 2427
+  },
+  {
+    "CityCode": 3715,
+    "CityName": "עלמון",
+    "key": 2428
+  },
+  {
+    "CityCode": 3687,
+    "CityName": "עלקה",
+    "key": 2429
+  },
+  {
+    "CityCode": 1212,
+    "CityName": "עמוקה",
+    "key": 2430
+  },
+  {
+    "CityCode": 1193,
+    "CityName": "עמור",
+    "key": 2431
+  },
+  {
+    "CityCode": 779,
+    "CityName": "עמינדב",
+    "key": 2432
+  },
+  {
+    "CityCode": 385,
+    "CityName": "עמיעד",
+    "key": 2433
+  },
+  {
+    "CityCode": 318,
+    "CityName": "עמיעוז",
+    "key": 2434
+  },
+  {
+    "CityCode": 773,
+    "CityName": "עמיקם",
+    "key": 2435
+  },
+  {
+    "CityCode": 319,
+    "CityName": "עמיר",
+    "key": 2436
+  },
+  {
+    "CityCode": 3660,
+    "CityName": "עמנואל",
+    "key": 2437
+  },
+  {
+    "CityCode": 1839,
+    "CityName": "עמק יזראל",
+    "key": 2440
+  },
+  {
+    "CityCode": 1817,
+    "CityName": "עמק-הירדן מכללה",
+    "key": 2441
+  },
+  {
+    "CityCode": 1879,
+    "CityName": "עמק-חפר-פארק תעשיות",
+    "key": 2442
+  },
+  {
+    "CityCode": 708,
+    "CityName": "עמקה/אשרת",
+    "key": 2443
+  },
+  {
+    "CityCode": 3689,
+    "CityName": "ענאבא צגיר",
+    "key": 2445
+  },
+  {
+    "CityCode": 3708,
+    "CityName": "עסאכיו",
+    "key": 2447
+  },
+  {
+    "CityCode": 3693,
+    "CityName": "עסכר",
+    "key": 2448
+  },
+  {
+    "CityCode": 7700,
+    "CityName": "עפולה",
+    "key": 2449
+  },
+  {
+    "CityCode": 3778,
+    "CityName": "עץ-אפרים",
+    "key": 2451
+  },
+  {
+    "CityCode": 5425,
+    "CityName": "עצמונה",
+    "key": 2452
+  },
+  {
+    "CityCode": 957,
+    "CityName": "עקבי(בני-עקבה)",
+    "key": 2453
+  },
+  {
+    "CityCode": 531,
+    "CityName": "עראבה בגליל",
+    "key": 2454
+  },
+  {
+    "CityCode": 1246,
+    "CityName": "עראמשה",
+    "key": 2455
+  },
+  {
+    "CityCode": 952,
+    "CityName": "עראמשה(שבט)",
+    "key": 2456
+  },
+  {
+    "CityCode": 2560,
+    "CityName": "ערד",
+    "key": 2457
+  },
+  {
+    "CityCode": 593,
+    "CityName": "ערוגות",
+    "key": 2458
+  },
+  {
+    "CityCode": 637,
+    "CityName": "ערערה",
+    "key": 2459
+  },
+  {
+    "CityCode": 1192,
+    "CityName": "ערערה בנגב",
+    "key": 2460
+  },
+  {
+    "CityCode": 591,
+    "CityName": "עשרת",
+    "key": 2461
+  },
+  {
+    "CityCode": 926,
+    "CityName": "פ.חנה(נ.אבות)",
+    "key": 2464
+  },
+  {
+    "CityCode": 1151,
+    "CityName": "פארן",
+    "key": 2466
+  },
+  {
+    "CityCode": 9892,
+    "CityName": "פארק אריאל שרון",
+    "key": 2467
+  },
+  {
+    "CityCode": 7194,
+    "CityName": "פארק הירדן",
+    "key": 2468
+  },
+  {
+    "CityCode": 1996,
+    "CityName": "פארק תעשיות שגיא 2000",
+    "key": 2470
+  },
+  {
+    "CityCode": 6010,
+    "CityName": "פארק-תמד.",
+    "key": 2472
+  },
+  {
+    "CityCode": 3768,
+    "CityName": "פדואל",
+    "key": 2473
+  },
+  {
+    "CityCode": 750,
+    "CityName": "פדויים",
+    "key": 2474
+  },
+  {
+    "CityCode": 838,
+    "CityName": "פדיה",
+    "key": 2475
+  },
+  {
+    "CityCode": 7014,
+    "CityName": "פונדק 101",
+    "key": 2476
+  },
+  {
+    "CityCode": 1105,
+    "CityName": "פוריה",
+    "key": 2478
+  },
+  {
+    "CityCode": 767,
+    "CityName": "פורת",
+    "key": 2479
+  },
+  {
+    "CityCode": 749,
+    "CityName": "פטיש",
+    "key": 2480
+  },
+  {
+    "CityCode": 7040,
+    "CityName": "פלוג'ה",
+    "key": 2481
+  },
+  {
+    "CityCode": 1185,
+    "CityName": "פלך",
+    "key": 2482
+  },
+  {
+    "CityCode": 597,
+    "CityName": "פלמחים",
+    "key": 2483
+  },
+  {
+    "CityCode": 3736,
+    "CityName": "פנדקומיה",
+    "key": 2484
+  },
+  {
+    "CityCode": 9956,
+    "CityName": "פני קדם",
+    "key": 2486
+  },
+  {
+    "CityCode": 535,
+    "CityName": "פסוטה",
+    "key": 2489
+  },
+  {
+    "CityCode": 2059,
+    "CityName": "פעמי תשז",
+    "key": 2490
+  },
+  {
+    "CityCode": 3615,
+    "CityName": "פצאל",
+    "key": 2492
+  },
+  {
+    "CityCode": 536,
+    "CityName": "פקיעין(בקיעה)",
+    "key": 2493
+  },
+  {
+    "CityCode": 281,
+    "CityName": "פקיעין(חדשה)",
+    "key": 2494
+  },
+  {
+    "CityCode": 537,
+    "CityName": "פרדיס",
+    "key": 2495
+  },
+  {
+    "CityCode": 7800,
+    "CityName": "פרדס חנה כרכור",
+    "key": 2496
+  },
+  {
+    "CityCode": 171,
+    "CityName": "פרדסיה",
+    "key": 2498
+  },
+  {
+    "CityCode": 599,
+    "CityName": "פרוד",
+    "key": 2499
+  },
+  {
+    "CityCode": 3731,
+    "CityName": "פרוש ב.דג'ן",
+    "key": 2500
+  },
+  {
+    "CityCode": 2053,
+    "CityName": "פרזון",
+    "key": 2501
+  },
+  {
+    "CityCode": 1231,
+    "CityName": "פריגן",
+    "key": 2502
+  },
+  {
+    "CityCode": 6006,
+    "CityName": "פריקלס",
+    "key": 2503
+  },
+  {
+    "CityCode": 3740,
+    "CityName": "פרעה אל גיפטליק",
+    "key": 2504
+  },
+  {
+    "CityCode": 2307,
+    "CityName": "פרק-קנדה",
+    "key": 2505
+  },
+  {
+    "CityCode": 9953,
+    "CityName": "פתח-תקוה.יד לבנים",
+    "key": 2509
+  },
+  {
+    "CityCode": 839,
+    "CityName": "פתחיה",
+    "key": 2510
+  },
+  {
+    "CityCode": 7086,
+    "CityName": "צ.אבשלום",
+    "key": 2511
+  },
+  {
+    "CityCode": 7003,
+    "CityName": "צ.אדם",
+    "key": 2512
+  },
+  {
+    "CityCode": 2860,
+    "CityName": "צ.אורון",
+    "key": 2513
+  },
+  {
+    "CityCode": 7037,
+    "CityName": "צ.אלון",
+    "key": 2517
+  },
+  {
+    "CityCode": 7042,
+    "CityName": "צ.אלכסנדר",
+    "key": 2519
+  },
+  {
+    "CityCode": 9500,
+    "CityName": "צ.אפק",
+    "key": 2520
+  },
+  {
+    "CityCode": 7038,
+    "CityName": "צ.אשל הנשיא",
+    "key": 2522
+  },
+  {
+    "CityCode": 7193,
+    "CityName": "צ.ב.צידה",
+    "key": 2525
+  },
+  {
+    "CityCode": 7051,
+    "CityName": "צ.בצת",
+    "key": 2528
+  },
+  {
+    "CityCode": 7069,
+    "CityName": "צ.גבעונים",
+    "key": 2530
+  },
+  {
+    "CityCode": 7034,
+    "CityName": "צ.גבעתי",
+    "key": 2531
+  },
+  {
+    "CityCode": 7067,
+    "CityName": "צ.גולני",
+    "key": 2532
+  },
+  {
+    "CityCode": 7088,
+    "CityName": "צ.גוש-עציון",
+    "key": 2533
+  },
+  {
+    "CityCode": 7023,
+    "CityName": "צ.גמא",
+    "key": 2535
+  },
+  {
+    "CityCode": 7123,
+    "CityName": "צ.גמה(דרום)",
+    "key": 2536
+  },
+  {
+    "CityCode": 7192,
+    "CityName": "צ.דליות",
+    "key": 2538
+  },
+  {
+    "CityCode": 7059,
+    "CityName": "צ.דמון",
+    "key": 2539
+  },
+  {
+    "CityCode": 7008,
+    "CityName": "צ.האלה",
+    "key": 2541
+  },
+  {
+    "CityCode": 7032,
+    "CityName": "צ.הגדי",
+    "key": 2543
+  },
+  {
+    "CityCode": 7025,
+    "CityName": "צ.המוביל",
+    "key": 2546
+  },
+  {
+    "CityCode": 7191,
+    "CityName": "צ.המפלים",
+    "key": 2547
+  },
+  {
+    "CityCode": 7004,
+    "CityName": "צ.הנגב",
+    "key": 2548
+  },
+  {
+    "CityCode": 7021,
+    "CityName": "צ.הסרגל",
+    "key": 2551
+  },
+  {
+    "CityCode": 7160,
+    "CityName": "צ.העוגן",
+    "key": 2552
+  },
+  {
+    "CityCode": 7058,
+    "CityName": "צ.הערבה",
+    "key": 2554
+  },
+  {
+    "CityCode": 7133,
+    "CityName": "צ.הפירות",
+    "key": 2555
+  },
+  {
+    "CityCode": 9900,
+    "CityName": "צ.הצריף",
+    "key": 2556
+  },
+  {
+    "CityCode": 7085,
+    "CityName": "צ.הרוחות",
+    "key": 2558
+  },
+  {
+    "CityCode": 7089,
+    "CityName": "צ.השומרים",
+    "key": 2559
+  },
+  {
+    "CityCode": 7121,
+    "CityName": "צ.השיטה",
+    "key": 2561
+  },
+  {
+    "CityCode": 7126,
+    "CityName": "צ.התשבי",
+    "key": 2565
+  },
+  {
+    "CityCode": 7107,
+    "CityName": "צ.ווסט",
+    "key": 2566
+  },
+  {
+    "CityCode": 7050,
+    "CityName": "צ.חירם",
+    "key": 2568
+  },
+  {
+    "CityCode": 7096,
+    "CityName": "צ.חלוקים",
+    "key": 2569
+  },
+  {
+    "CityCode": 7112,
+    "CityName": "צ.חלפתא",
+    "key": 2570
+  },
+  {
+    "CityCode": 7065,
+    "CityName": "צ.חנניה",
+    "key": 2572
+  },
+  {
+    "CityCode": 7110,
+    "CityName": "צ.חצור",
+    "key": 2574
+  },
+  {
+    "CityCode": 7097,
+    "CityName": "צ.חתרורים",
+    "key": 2575
+  },
+  {
+    "CityCode": 7113,
+    "CityName": "צ.ישי",
+    "key": 2580
+  },
+  {
+    "CityCode": 7055,
+    "CityName": "צ.ישע",
+    "key": 2581
+  },
+  {
+    "CityCode": 7109,
+    "CityName": "צ.יששכר",
+    "key": 2582
+  },
+  {
+    "CityCode": 7079,
+    "CityName": "צ.יתיר",
+    "key": 2583
+  },
+  {
+    "CityCode": 7136,
+    "CityName": "צ.מחצבות ורד",
+    "key": 2588
+  },
+  {
+    "CityCode": 7028,
+    "CityName": "צ.מלאכי/קסטינה",
+    "key": 2589
+  },
+  {
+    "CityCode": 7139,
+    "CityName": "צ.מנזר איטלקי",
+    "key": 2591
+  },
+  {
+    "CityCode": 7056,
+    "CityName": "צ.מעון",
+    "key": 2593
+  },
+  {
+    "CityCode": 7143,
+    "CityName": "צ.מצבת כביש הערבה",
+    "key": 2594
+  },
+  {
+    "CityCode": 7147,
+    "CityName": "צ.מצד תמר",
+    "key": 2595
+  },
+  {
+    "CityCode": 7060,
+    "CityName": "צ.מרדכי",
+    "key": 2597
+  },
+  {
+    "CityCode": 7114,
+    "CityName": "צ.נבות",
+    "key": 2601
+  },
+  {
+    "CityCode": 7095,
+    "CityName": "צ.נטופה",
+    "key": 2604
+  },
+  {
+    "CityCode": 7035,
+    "CityName": "צ.נרבתה",
+    "key": 2606
+  },
+  {
+    "CityCode": 4100,
+    "CityName": "צ.נשוט",
+    "key": 2607
+  },
+  {
+    "CityCode": 7127,
+    "CityName": "צ.סומך",
+    "key": 2610
+  },
+  {
+    "CityCode": 7116,
+    "CityName": "צ.ע.הקורא",
+    "key": 2612
+  },
+  {
+    "CityCode": 7102,
+    "CityName": "צ.עד-הלום",
+    "key": 2613
+  },
+  {
+    "CityCode": 7031,
+    "CityName": "צ.עדולם",
+    "key": 2615
+  },
+  {
+    "CityCode": 8051,
+    "CityName": "צ.עין אלעלק",
+    "key": 2617
+  },
+  {
+    "CityCode": 7022,
+    "CityName": "צ.עציונה",
+    "key": 2619
+  },
+  {
+    "CityCode": 7108,
+    "CityName": "צ.פורן",
+    "key": 2620
+  },
+  {
+    "CityCode": 7007,
+    "CityName": "צ.פל-ים",
+    "key": 2622
+  },
+  {
+    "CityCode": 8200,
+    "CityName": "צ.צבר",
+    "key": 2625
+  },
+  {
+    "CityCode": 7012,
+    "CityName": "צ.ציחור",
+    "key": 2626
+  },
+  {
+    "CityCode": 7105,
+    "CityName": "צ.צנובר",
+    "key": 2629
+  },
+  {
+    "CityCode": 7118,
+    "CityName": "צ.קישון",
+    "key": 2633
+  },
+  {
+    "CityCode": 7119,
+    "CityName": "צ.קליל",
+    "key": 2634
+  },
+  {
+    "CityCode": 7076,
+    "CityName": "צ.קסם",
+    "key": 2637
+  },
+  {
+    "CityCode": 7128,
+    "CityName": "צ.רימונים",
+    "key": 2641
+  },
+  {
+    "CityCode": 7005,
+    "CityName": "צ.שוקת",
+    "key": 2644
+  },
+  {
+    "CityCode": 7117,
+    "CityName": "צ.שילת",
+    "key": 2646
+  },
+  {
+    "CityCode": 7046,
+    "CityName": "צ.שמשון",
+    "key": 2647
+  },
+  {
+    "CityCode": 7013,
+    "CityName": "צ.שער-הגיא",
+    "key": 2648
+  },
+  {
+    "CityCode": 27,
+    "CityName": "צ.תל-עזקה",
+    "key": 2653
+  },
+  {
+    "CityCode": 7002,
+    "CityName": "צ.תרצה",
+    "key": 2654
+  },
+  {
+    "CityCode": 413,
+    "CityName": "צאלים-קיבוץ",
+    "key": 2656
+  },
+  {
+    "CityCode": 451,
+    "CityName": "צבאים",
+    "key": 2657
+  },
+  {
+    "CityCode": 1213,
+    "CityName": "צבעון",
+    "key": 2659
+  },
+  {
+    "CityCode": 465,
+    "CityName": "צובה",
+    "key": 2660
+  },
+  {
+    "CityCode": 1136,
+    "CityName": "צוחר",
+    "key": 2661
+  },
+  {
+    "CityCode": 9983,
+    "CityName": "צומת גוב געש",
+    "key": 2680
+  },
+  {
+    "CityCode": 7149,
+    "CityName": "צומת עין אלעלק",
+    "key": 2772
+  },
+  {
+    "CityCode": 1111,
+    "CityName": "צופיה",
+    "key": 2809
+  },
+  {
+    "CityCode": 3791,
+    "CityName": "צופים",
+    "key": 2810
+  },
+  {
+    "CityCode": 198,
+    "CityName": "צופית",
+    "key": 2811
+  },
+  {
+    "CityCode": 1150,
+    "CityName": "צופר",
+    "key": 2812
+  },
+  {
+    "CityCode": 1102,
+    "CityName": "צוקי-ים ",
+    "key": 2814
+  },
+  {
+    "CityCode": 1262,
+    "CityName": "צוקים",
+    "key": 2815
+  },
+  {
+    "CityCode": 1113,
+    "CityName": "צור הדסה",
+    "key": 2816
+  },
+  {
+    "CityCode": 1306,
+    "CityName": "צור יגאל",
+    "key": 2817
+  },
+  {
+    "CityCode": 1345,
+    "CityName": "צור יצחק",
+    "key": 2818
+  },
+  {
+    "CityCode": 1148,
+    "CityName": "צור נתן",
+    "key": 2819
+  },
+  {
+    "CityCode": 276,
+    "CityName": "צור-משה",
+    "key": 2822
+  },
+  {
+    "CityCode": 774,
+    "CityName": "צוריאל",
+    "key": 2825
+  },
+  {
+    "CityCode": 1308,
+    "CityName": "צורן",
+    "key": 2827
+  },
+  {
+    "CityCode": 613,
+    "CityName": "ציפורי",
+    "key": 2828
+  },
+  {
+    "CityCode": 2941,
+    "CityName": "צלמון (האחזות נחל)",
+    "key": 2831
+  },
+  {
+    "CityCode": 9998,
+    "CityName": "צמת תל עזקה",
+    "key": 2834
+  },
+  {
+    "CityCode": 594,
+    "CityName": "צפריה",
+    "key": 2837
+  },
+  {
+    "CityCode": 1079,
+    "CityName": "צפרירים",
+    "key": 2838
+  },
+  {
+    "CityCode": 8000,
+    "CityName": "צפת",
+    "key": 2839
+  },
+  {
+    "CityCode": 612,
+    "CityName": "צרופה",
+    "key": 2840
+  },
+  {
+    "CityCode": 567,
+    "CityName": "צרעה",
+    "key": 2841
+  },
+  {
+    "CityCode": 9897,
+    "CityName": "קאונטרי רעננה",
+    "key": 2846
+  },
+  {
+    "CityCode": 5640,
+    "CityName": "קבה",
+    "key": 2847
+  },
+  {
+    "CityCode": 5786,
+    "CityName": "קבר אמיר",
+    "key": 2849
+  },
+  {
+    "CityCode": 9912,
+    "CityName": "קבר רחל",
+    "key": 2850
+  },
+  {
+    "CityCode": 3557,
+    "CityName": "קדומים",
+    "key": 2851
+  },
+  {
+    "CityCode": 964,
+    "CityName": "קדיראת א צאנע",
+    "key": 2853
+  },
+  {
+    "CityCode": 1338,
+    "CityName": "קדיתא",
+    "key": 2854
+  },
+  {
+    "CityCode": 392,
+    "CityName": "קדמה",
+    "key": 2855
+  },
+  {
+    "CityCode": 4025,
+    "CityName": "קדמת צבי",
+    "key": 2856
+  },
+  {
+    "CityCode": 9021,
+    "CityName": "קדמת-כנרת",
+    "key": 2857
+  },
+  {
+    "CityCode": 3781,
+    "CityName": "קדר",
+    "key": 2859
+  },
+  {
+    "CityCode": 615,
+    "CityName": "קדרון",
+    "key": 2860
+  },
+  {
+    "CityCode": 1211,
+    "CityName": "קדרים",
+    "key": 2861
+  },
+  {
+    "CityCode": 972,
+    "CityName": "קואעין",
+    "key": 2864
+  },
+  {
+    "CityCode": 3601,
+    "CityName": "קומראן-מסעף",
+    "key": 2866
+  },
+  {
+    "CityCode": 1160,
+    "CityName": "קורנית-מסעף",
+    "key": 2868
+  },
+  {
+    "CityCode": 3807,
+    "CityName": "קילא",
+    "key": 2870
+  },
+  {
+    "CityCode": 1167,
+    "CityName": "קיסריה",
+    "key": 2871
+  },
+  {
+    "CityCode": 414,
+    "CityName": "קלחים",
+    "key": 2872
+  },
+  {
+    "CityCode": 638,
+    "CityName": "קלנסוה",
+    "key": 2874
+  },
+  {
+    "CityCode": 4024,
+    "CityName": "קלע/אלון",
+    "key": 2875
+  },
+  {
+    "CityCode": 6005,
+    "CityName": "קמג",
+    "key": 2876
+  },
+  {
+    "CityCode": 3810,
+    "CityName": "קפין",
+    "key": 2882
+  },
+  {
+    "CityCode": 1243,
+    "CityName": "קציר",
+    "key": 2883
+  },
+  {
+    "CityCode": 2620,
+    "CityName": "קריית אונו",
+    "key": 2887
+  },
+  {
+    "CityCode": 3611,
+    "CityName": "קריית ארבע",
+    "key": 2888
+  },
+  {
+    "CityCode": 6800,
+    "CityName": "קריית אתא",
+    "key": 2889
+  },
+  {
+    "CityCode": 2630,
+    "CityName": "קריית גת",
+    "key": 2891
+  },
+  {
+    "CityCode": 2300,
+    "CityName": "קריית טבעון",
+    "key": 2893
+  },
+  {
+    "CityCode": 9600,
+    "CityName": "קריית ים",
+    "key": 2894
+  },
+  {
+    "CityCode": 1034,
+    "CityName": "קריית מלאכי",
+    "key": 2897
+  },
+  {
+    "CityCode": 3746,
+    "CityName": "קריית נטפים",
+    "key": 2898
+  },
+  {
+    "CityCode": 78,
+    "CityName": "קריית ענבים",
+    "key": 2900
+  },
+  {
+    "CityCode": 2800,
+    "CityName": "קריית שמונה",
+    "key": 2903
+  },
+  {
+    "CityCode": 8096,
+    "CityName": "קרית רותם",
+    "key": 2920
+  },
+  {
+    "CityCode": 412,
+    "CityName": "קרית שלמה",
+    "key": 2922
+  },
+  {
+    "CityCode": 9923,
+    "CityName": "ר.בקע",
+    "key": 2928
+  },
+  {
+    "CityCode": 184,
+    "CityName": "ר.הכובש",
+    "key": 2931
+  },
+  {
+    "CityCode": 1189,
+    "CityName": "ר.הנגב",
+    "key": 2932
+  },
+  {
+    "CityCode": 206,
+    "CityName": "ר.השבים",
+    "key": 2933
+  },
+  {
+    "CityCode": 335,
+    "CityName": "ר.השופט",
+    "key": 2934
+  },
+  {
+    "CityCode": 9922,
+    "CityName": "ר.חובב",
+    "key": 2936
+  },
+  {
+    "CityCode": 178,
+    "CityName": "ר.יוחנן",
+    "key": 2938
+  },
+  {
+    "CityCode": 9938,
+    "CityName": "ר.יותם",
+    "key": 2939
+  },
+  {
+    "CityCode": 122,
+    "CityName": "ר.ישי",
+    "key": 2940
+  },
+  {
+    "CityCode": 735,
+    "CityName": "ר.מאיר",
+    "key": 2941
+  },
+  {
+    "CityCode": 4701,
+    "CityName": "ר.מגשימים",
+    "key": 2942
+  },
+  {
+    "CityCode": 445,
+    "CityName": "ר.מנשה",
+    "key": 2943
+  },
+  {
+    "CityCode": 883,
+    "CityName": "ר.פנקס",
+    "key": 2944
+  },
+  {
+    "CityCode": 339,
+    "CityName": "ר.צבי",
+    "key": 2945
+  },
+  {
+    "CityCode": 460,
+    "CityName": "ר.רזיאל",
+    "key": 2946
+  },
+  {
+    "CityCode": 543,
+    "CityName": "ראמה",
+    "key": 2948
+  },
+  {
+    "CityCode": 3848,
+    "CityName": "ראס סינסל",
+    "key": 2949
+  },
+  {
+    "CityCode": 2640,
+    "CityName": "ראש העין",
+    "key": 2951
+  },
+  {
+    "CityCode": 26,
+    "CityName": "ראש פינה",
+    "key": 2952
+  },
+  {
+    "CityCode": 3602,
+    "CityName": "ראש צורים",
+    "key": 2953
+  },
+  {
+    "CityCode": 8300,
+    "CityName": "ראשון לציון",
+    "key": 2957
+  },
+  {
+    "CityCode": 3795,
+    "CityName": "רבבה",
+    "key": 2959
+  },
+  {
+    "CityCode": 564,
+    "CityName": "רבדים",
+    "key": 2960
+  },
+  {
+    "CityCode": 354,
+    "CityName": "רביבים",
+    "key": 2961
+  },
+  {
+    "CityCode": 1225,
+    "CityName": "רביד",
+    "key": 2962
+  },
+  {
+    "CityCode": 390,
+    "CityName": "רגבה",
+    "key": 2964
+  },
+  {
+    "CityCode": 444,
+    "CityName": "רגבים",
+    "key": 2966
+  },
+  {
+    "CityCode": 1161,
+    "CityName": "רהט",
+    "key": 2967
+  },
+  {
+    "CityCode": 2051,
+    "CityName": "רווחה",
+    "key": 2969
+  },
+  {
+    "CityCode": 1341,
+    "CityName": "רוח במדבר",
+    "key": 2970
+  },
+  {
+    "CityCode": 362,
+    "CityName": "רוחמה",
+    "key": 2972
+  },
+  {
+    "CityCode": 2016,
+    "CityName": "רויה",
+    "key": 2974
+  },
+  {
+    "CityCode": 3619,
+    "CityName": "רועי",
+    "key": 2977
+  },
+  {
+    "CityCode": 854,
+    "CityName": "רחוב",
+    "key": 2980
+  },
+  {
+    "CityCode": 8400,
+    "CityName": "רחובות",
+    "key": 2981
+  },
+  {
+    "CityCode": 9020,
+    "CityName": "רחלים",
+    "key": 2982
+  },
+  {
+    "CityCode": 3853,
+    "CityName": "רחמה",
+    "key": 2983
+  },
+  {
+    "CityCode": 540,
+    "CityName": "ריחאניה",
+    "key": 2984
+  },
+  {
+    "CityCode": 3568,
+    "CityName": "ריחן",
+    "key": 2985
+  },
+  {
+    "CityCode": 542,
+    "CityName": "ריינה",
+    "key": 2986
+  },
+  {
+    "CityCode": 3565,
+    "CityName": "רימונים",
+    "key": 2987
+  },
+  {
+    "CityCode": 9894,
+    "CityName": "רכבת הרצליה",
+    "key": 2989
+  },
+  {
+    "CityCode": 9802,
+    "CityName": "רכבת רחובות",
+    "key": 2990
+  },
+  {
+    "CityCode": 9948,
+    "CityName": "רכס-חלילים",
+    "key": 2991
+  },
+  {
+    "CityCode": 922,
+    "CityName": "רכסים",
+    "key": 2992
+  },
+  {
+    "CityCode": 1069,
+    "CityName": "רם-און",
+    "key": 2993
+  },
+  {
+    "CityCode": 539,
+    "CityName": "רמאנה",
+    "key": 2995
+  },
+  {
+    "CityCode": 8500,
+    "CityName": "רמלה",
+    "key": 3002
+  },
+  {
+    "CityCode": 9896,
+    "CityName": "רמת אביב",
+    "key": 3003
+  },
+  {
+    "CityCode": 135,
+    "CityName": "רמת דוד(קבוץ",
+    "key": 3007
+  },
+  {
+    "CityCode": 3860,
+    "CityName": "רמת רזיאל",
+    "key": 3028
+  },
+  {
+    "CityCode": 789,
+    "CityName": "רנן",
+    "key": 3030
+  },
+  {
+    "CityCode": 3857,
+    "CityName": "רנתיס",
+    "key": 3032
+  },
+  {
+    "CityCode": 713,
+    "CityName": "רעים",
+    "key": 3034
+  },
+  {
+    "CityCode": 8700,
+    "CityName": "רעננה",
+    "key": 3035
+  },
+  {
+    "CityCode": 3859,
+    "CityName": "רפידיה",
+    "key": 3037
+  },
+  {
+    "CityCode": 5800,
+    "CityName": "רפיח",
+    "key": 3038
+  },
+  {
+    "CityCode": 1228,
+    "CityName": "רקפת",
+    "key": 3039
+  },
+  {
+    "CityCode": 247,
+    "CityName": "רשפון",
+    "key": 3041
+  },
+  {
+    "CityCode": 437,
+    "CityName": "רשפים",
+    "key": 3042
+  },
+  {
+    "CityCode": 1260,
+    "CityName": "רתמים",
+    "key": 3043
+  },
+  {
+    "CityCode": 324,
+    "CityName": "שאר ישוב",
+    "key": 3044
+  },
+  {
+    "CityCode": 3761,
+    "CityName": "שבות רחל",
+    "key": 3047
+  },
+  {
+    "CityCode": 3571,
+    "CityName": "שבי שומרון",
+    "key": 3051
+  },
+  {
+    "CityCode": 917,
+    "CityName": "שגב",
+    "key": 3055
+  },
+  {
+    "CityCode": 2848,
+    "CityName": "שגב",
+    "key": 3056
+  },
+  {
+    "CityCode": 1286,
+    "CityName": "שגב שלום",
+    "key": 3057
+  },
+  {
+    "CityCode": 721,
+    "CityName": "שדה אילן",
+    "key": 3059
+  },
+  {
+    "CityCode": 885,
+    "CityName": "שדה בוקר",
+    "key": 3063
+  },
+  {
+    "CityCode": 9967,
+    "CityName": "שדה בר",
+    "key": 3064
+  },
+  {
+    "CityCode": 36,
+    "CityName": "שדה דוד",
+    "key": 3065
+  },
+  {
+    "CityCode": 284,
+    "CityName": "שדה ורבורג",
+    "key": 3066
+  },
+  {
+    "CityCode": 2008,
+    "CityName": "שדה יצחק",
+    "key": 3069
+  },
+  {
+    "CityCode": 18,
+    "CityName": "שדה משה",
+    "key": 3070
+  },
+  {
+    "CityCode": 259,
+    "CityName": "שדה נחום",
+    "key": 3071
+  },
+  {
+    "CityCode": 329,
+    "CityName": "שדה נחמיה",
+    "key": 3072
+  },
+  {
+    "CityCode": 1058,
+    "CityName": "שדה ניצן",
+    "key": 3073
+  },
+  {
+    "CityCode": 739,
+    "CityName": "שדה עוזיהו",
+    "key": 3074
+  },
+  {
+    "CityCode": 2049,
+    "CityName": "שדה צבי",
+    "key": 3075
+  },
+  {
+    "CityCode": 9992,
+    "CityName": "שדה תעופה עובדה",
+    "key": 3077
+  },
+  {
+    "CityCode": 1223,
+    "CityName": "שדה-אברהם",
+    "key": 3079
+  },
+  {
+    "CityCode": 304,
+    "CityName": "שדה-אליהו",
+    "key": 3082
+  },
+  {
+    "CityCode": 861,
+    "CityName": "שדה-אליעזר",
+    "key": 3083
+  },
+  {
+    "CityCode": 327,
+    "CityName": "שדות ים",
+    "key": 3099
+  },
+  {
+    "CityCode": 2015,
+    "CityName": "שדי חמד",
+    "key": 3104
+  },
+  {
+    "CityCode": 2057,
+    "CityName": "שדי תרומות",
+    "key": 3105
+  },
+  {
+    "CityCode": 555,
+    "CityName": "שדמה",
+    "key": 3108
+  },
+  {
+    "CityCode": 306,
+    "CityName": "שדמות דבורה",
+    "key": 3109
+  },
+  {
+    "CityCode": 1304,
+    "CityName": "שהם",
+    "key": 3114
+  },
+  {
+    "CityCode": 741,
+    "CityName": "שואבה",
+    "key": 3115
+  },
+  {
+    "CityCode": 761,
+    "CityName": "שובה",
+    "key": 3116
+  },
+  {
+    "CityCode": 394,
+    "CityName": "שובל",
+    "key": 3117
+  },
+  {
+    "CityCode": 614,
+    "CityName": "שומרה",
+    "key": 3119
+  },
+  {
+    "CityCode": 1265,
+    "CityName": "שומריה",
+    "key": 3120
+  },
+  {
+    "CityCode": 432,
+    "CityName": "שומרת",
+    "key": 3121
+  },
+  {
+    "CityCode": 415,
+    "CityName": "שוקדה",
+    "key": 3122
+  },
+  {
+    "CityCode": 456,
+    "CityName": "שורש",
+    "key": 3124
+  },
+  {
+    "CityCode": 2862,
+    "CityName": "שורשים",
+    "key": 3125
+  },
+  {
+    "CityCode": 224,
+    "CityName": "שושנת-העמקים(רסקו)",
+    "key": 3126
+  },
+  {
+    "CityCode": 527,
+    "CityName": "שזור",
+    "key": 3127
+  },
+  {
+    "CityCode": 7,
+    "CityName": "שחר",
+    "key": 3129
+  },
+  {
+    "CityCode": 1266,
+    "CityName": "שחרות",
+    "key": 3131
+  },
+  {
+    "CityCode": 913,
+    "CityName": "שיבלי",
+    "key": 3134
+  },
+  {
+    "CityCode": 5702,
+    "CityName": "שיח אחמד",
+    "key": 3135
+  },
+  {
+    "CityCode": 3885,
+    "CityName": "שיח אחמד אל עמר",
+    "key": 3136
+  },
+  {
+    "CityCode": 658,
+    "CityName": "שיח דנאן",
+    "key": 3137
+  },
+  {
+    "CityCode": 3886,
+    "CityName": "שיח סעיד",
+    "key": 3139
+  },
+  {
+    "CityCode": 5701,
+    "CityName": "שיח עגלון",
+    "key": 3140
+  },
+  {
+    "CityCode": 2037,
+    "CityName": "שיח-בריכ",
+    "key": 3141
+  },
+  {
+    "CityCode": 7010,
+    "CityName": "שיטים",
+    "key": 3142
+  },
+  {
+    "CityCode": 3641,
+    "CityName": "שילה",
+    "key": 3143
+  },
+  {
+    "CityCode": 1165,
+    "CityName": "שילת",
+    "key": 3144
+  },
+  {
+    "CityCode": 873,
+    "CityName": "שלוה",
+    "key": 3149
+  },
+  {
+    "CityCode": 1373,
+    "CityName": "שלווה במדבר",
+    "key": 3151
+  },
+  {
+    "CityCode": 439,
+    "CityName": "שלוחות",
+    "key": 3152
+  },
+  {
+    "CityCode": 812,
+    "CityName": "שלומי",
+    "key": 3153
+  },
+  {
+    "CityCode": 1364,
+    "CityName": "שלומית",
+    "key": 3154
+  },
+  {
+    "CityCode": 366,
+    "CityName": "שמיר",
+    "key": 3157
+  },
+  {
+    "CityCode": 3784,
+    "CityName": "שמעה",
+    "key": 3158
+  },
+  {
+    "CityCode": 1287,
+    "CityName": "שני/ליבנה",
+    "key": 3162
+  },
+  {
+    "CityCode": 1132,
+    "CityName": "שניר",
+    "key": 3163
+  },
+  {
+    "CityCode": 538,
+    "CityName": "שעב",
+    "key": 3164
+  },
+  {
+    "CityCode": 4009,
+    "CityName": "שעל",
+    "key": 3165
+  },
+  {
+    "CityCode": 856,
+    "CityName": "שעלבים",
+    "key": 3166
+  },
+  {
+    "CityCode": 661,
+    "CityName": "שער אפרים",
+    "key": 3168
+  },
+  {
+    "CityCode": 9028,
+    "CityName": "שער בנימין",
+    "key": 3169
+  },
+  {
+    "CityCode": 237,
+    "CityName": "שער העמקים",
+    "key": 3171
+  },
+  {
+    "CityCode": 921,
+    "CityName": "שער מנשה",
+    "key": 3172
+  },
+  {
+    "CityCode": 6060,
+    "CityName": "שערי אברהם",
+    "key": 3178
+  },
+  {
+    "CityCode": 3720,
+    "CityName": "שערי-תקוה",
+    "key": 3180
+  },
+  {
+    "CityCode": 846,
+    "CityName": "שפר",
+    "key": 3186
+  },
+  {
+    "CityCode": 8800,
+    "CityName": "שפרעם",
+    "key": 3188
+  },
+  {
+    "CityCode": 3649,
+    "CityName": "שקד",
+    "key": 3189
+  },
+  {
+    "CityCode": 1233,
+    "CityName": "שקף",
+    "key": 3190
+  },
+  {
+    "CityCode": 292,
+    "CityName": "שרונה",
+    "key": 3191
+  },
+  {
+    "CityCode": 126,
+    "CityName": "שריד",
+    "key": 3193
+  },
+  {
+    "CityCode": 398,
+    "CityName": "שרשרת",
+    "key": 3194
+  },
+  {
+    "CityCode": 1045,
+    "CityName": "שתולה",
+    "key": 3195
+  },
+  {
+    "CityCode": 763,
+    "CityName": "שתולים",
+    "key": 3196
+  },
+  {
+    "CityCode": 5000,
+    "CityName": "ת\"א",
+    "key": 3197
+  },
+  {
+    "CityCode": 2062,
+    "CityName": "תאשור",
+    "key": 3198
+  },
+  {
+    "CityCode": 2061,
+    "CityName": "תדהר",
+    "key": 3199
+  },
+  {
+    "CityCode": 1172,
+    "CityName": "תובל",
+    "key": 3200
+  },
+  {
+    "CityCode": 3558,
+    "CityName": "תומר",
+    "key": 3201
+  },
+  {
+    "CityCode": 1083,
+    "CityName": "תושיה",
+    "key": 3202
+  },
+  {
+    "CityCode": 163,
+    "CityName": "תימורים",
+    "key": 3204
+  },
+  {
+    "CityCode": 10,
+    "CityName": "תירוש",
+    "key": 3205
+  },
+  {
+    "CityCode": 2337,
+    "CityName": "תל חי",
+    "key": 3208
+  },
+  {
+    "CityCode": 103,
+    "CityName": "תל עדשים",
+    "key": 3212
+  },
+  {
+    "CityCode": 9979,
+    "CityName": "תל ציון",
+    "key": 3214
+  },
+  {
+    "CityCode": 719,
+    "CityName": "תל קציר",
+    "key": 3215
+  },
+  {
+    "CityCode": 1054,
+    "CityName": "תל שבע",
+    "key": 3217
+  },
+  {
+    "CityCode": 84,
+    "CityName": "תל-יוסף",
+    "key": 3222
+  },
+  {
+    "CityCode": 1283,
+    "CityName": "תל-תאומים",
+    "key": 3231
+  },
+  {
+    "CityCode": 3719,
+    "CityName": "תלם",
+    "key": 3233
+  },
+  {
+    "CityCode": 1051,
+    "CityName": "תלמי אליהו",
+    "key": 3234
+  },
+  {
+    "CityCode": 2003,
+    "CityName": "תלמי אלעזר",
+    "key": 3235
+  },
+  {
+    "CityCode": 2050,
+    "CityName": "תלמי בילו",
+    "key": 3236
+  },
+  {
+    "CityCode": 1237,
+    "CityName": "תלמי יוסף",
+    "key": 3237
+  },
+  {
+    "CityCode": 744,
+    "CityName": "תלמי יפה",
+    "key": 3238
+  },
+  {
+    "CityCode": 2355,
+    "CityName": "תלמי מנשה",
+    "key": 3240
+  },
+  {
+    "CityCode": 727,
+    "CityName": "תלמי-יחיאל",
+    "key": 3245
+  },
+  {
+    "CityCode": 814,
+    "CityName": "תלמים",
+    "key": 3249
+  },
+  {
+    "CityCode": 6009,
+    "CityName": "תמנע",
+    "key": 3250
+  },
+  {
+    "CityCode": 1938,
+    "CityName": "תמר",
+    "key": 3251
+  },
+  {
+    "CityCode": 1244,
+    "CityName": "תמרת",
+    "key": 3252
+  },
+  {
+    "CityCode": 752,
+    "CityName": "תעוז",
+    "key": 3254
+  },
+  {
+    "CityCode": 6014,
+    "CityName": "תעשיה-אוירית ",
+    "key": 3255
+  },
+  {
+    "CityCode": 709,
+    "CityName": "תפרח",
+    "key": 3259
+  },
+  {
+    "CityCode": 665,
+    "CityName": "תקומה",
+    "key": 3260
+  },
+  {
+    "CityCode": 3563,
+    "CityName": "תקוע",
+    "key": 3261
+  },
+  {
+    "CityCode": 970,
+    "CityName": "תראבין א צאנע",
+    "key": 3262
+  },
+  {
+    "CityCode": 778,
+    "CityName": "תרום",
+    "key": 3264
+  },
+  {
+    "CityCode":5000,
+    "CityName":"תל אביב יפו",
+    "key":3265
+  },
+  {
+    "CityCode":7900,
+    "CityName":"פתח תקווה",
+    "key":3266
+  },
+  {
+    "CityCode":7400,
+    "CityName":"נתניה",
+    "key":3267
+  },
+  {
+    "CityCode":8600,
+    "CityName":"רמת גן",
+    "key":3268
+  },{
+    "CityCode":6500,
+    "CityName":"חדרה",
+    "key":3269
+  },{
+    "CityCode":9700,
+    "CityName":"הוד השרון",
+    "key":3270
+  },{
+    "CityCode":2650,
+    "CityName":"רמת השרון",
+    "key":3271
+  },{
+    "CityCode":8200,
+    "CityName":"קריית מוצקין",
+    "key":3272
+  },{
+    "CityCode":9500,
+    "CityName":"קריית ביאליק",
+    "key":3273
+  },{
+    "CityCode":3616,
+    "CityName":"מעלה אדומים",
+    "key":3274
+  },{
+    "CityCode":1031,
+    "CityName":"שדרות",
+    "key":3275
+  },{
+    "CityCode":168,
+    "CityName":"כפר יונה",
+    "key":3276
+  },
+  {
+    "CityCode":240,
+    "CityName":"יקנעם עלית",
+    "key":3277
+  },{
+    "CityCode":3640,
+    "CityName":"קרני שומרון",
+    "key":3278
+  }
+]
