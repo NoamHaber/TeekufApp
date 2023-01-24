@@ -23,7 +23,7 @@ a{
     }
     #home-element{
       position: relative;
-      top: 8vh !important;
+      top: 6.5vh !important;
     }
     .stage-text-container{
       position: relative !important;
@@ -47,7 +47,7 @@ a{
       height: 60px !important;
       width: 120px !important;
       position: relative !important;
-      bottom: 3.5vh !important;
+      bottom: 4.5vh !important;
     }
     #qr-title{
       font-size: 62px !important;
