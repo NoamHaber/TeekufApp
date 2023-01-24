@@ -19,11 +19,11 @@ a{
     .stage-text-container{
       position: relative !important;
       font-size: 18px !important;
-      top: 80px!important;
+      top: 40px!important;
     }
     .connecting-line-flow{
       position: relative !important;
-      top: 55px!important;
+      top: 30px!important;
     }
     #footer-flow{
       height: 10vh !important;
