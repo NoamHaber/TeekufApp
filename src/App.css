@@ -12,7 +12,6 @@ a{
     }
     #teekuf-form{
       position: relative;
-      bottom: 30px !important;
       justify-content: space-around!important;
     }
     .body-element{
@@ -28,11 +27,11 @@ a{
     .stage-text-container{
       position: relative !important;
       font-size: 18px !important;
-      top: 46px!important;
+      top: 7vh!important;
     }
     .connecting-line-flow{
       position: relative !important;
-      top: 36px!important;
+      top: 6vh!important;
     }
     #footer-flow{
       position: absolute !important;
@@ -40,7 +39,7 @@ a{
       text-align: center !important;
     }
     #data-list-container{
-      top: 28.5vh !important;
+      top: 30vh !important;
     }
     #generate-qr{
       font-size: 24px !important;
