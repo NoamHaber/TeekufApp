@@ -469,8 +469,8 @@ body{
   text-align: right;
 }
 #footer-linkedin{
-  top: calc(0.5*var(--footerHeight))
+  top: calc(0.3*var(--footerHeight))
 }
 #footer-github{
-  top: calc(0.5*var(--footerHeight))
+  top: calc(0.3*var(--footerHeight))
 }
