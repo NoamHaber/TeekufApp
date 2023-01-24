@@ -1,465 +1,63 @@
-@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@400;600;700&display=swap');
-a{
-  text-decoration: none;
-}
-@media screen and (max-width: 480px) {
-    .form-input{
-      top:0px !important;
+import { useEffect, useState } from "react";
+import CityDataList from "./CityDataList";
+import LineDataList from "./LineDataList";
+import StageElement from "./StageElement";
+
+function FormInput({FormTitle,FormPayLoad,FormActionName,FormAction})
+{
+    const [inputValue,setInputValue] = useState('');
+
+    const validityCheck = () => {
+        if(FormTitle == 'שם יישוב/עיר')
+        {
+            return FormPayLoad.map((item)=>{return item['CityName']});
+        }
+        if(FormTitle == 'מספר קו')
+        {
+            return FormPayLoad.map((item)=>{return item['NAME']})
+        }
     }
-    .nav-item{
-      position: relative !important;
-      right: 6px!important;
-      border:1px solid yellow !important;
+
+    const validityArray = validityCheck();
+
+    const updateInput = (update) =>{
+        setInputValue(update);
     }
-    #teekuf-form{
-      position: relative;
-      bottom: 22px !important;
-      justify-content: space-around!important;
+
+    const inputHandle = (e) => {
+        setInputValue(e.target.value);
+    }    
+
+    const formSubmit = (e) => {
+        e.preventDefault();
+        FormAction(inputValue);
+        setInputValue('');
     }
-    .body-element{
-      height: 74vh !important;
-    }
-    #text-container{
-      border-bottom: 2px solid var(--backGroundTheme);
-    }
-    #home-element{
-      position: relative;
-      top: 5vh !important;
-    }
-    .stage-text-container{
-      position: relative !important;
-      font-size: 18px !important;
-      top: 46px!important;
-    }
-    .connecting-line-flow{
-      position: relative !important;
-      top: 36px!important;
-    }
-    #footer-flow{
-      position: sticky !important;
-      bottom: 0px !important;
-      height: 10vh !important;
-      text-align: center !important;
-    }
-    #data-list-container{
-      top: 27vh !important;
-    }
-    #generate-qr{
-      font-size: 24px !important;
-      height: 60px !important;
-      width: 120px !important;
-      position: relative !important;
-      bottom: 4.5vh !important;
-    }
-    #qr-title{
-      font-size: 62px !important;
-      position: relative !important;
-      top: 3vh !important;
-    }
-    .qr-action-text{
-      font-size: 24px !important;
-    }
-    :root {
-      --navHeight: 78px !important;
-    }
-    #head-container{
-      border: 2px solid var(--navigatorTheme);
-      height: 120px !important;
-    }
-    #head-logo{
-      margin-top:10px !important;
-    }
-    .nav-item{
-      top: 9px !important;
-    }
+
+    return(
+        <>
+            <div id="form-input-container">
+                <form id="teekuf-form" onSubmit={formSubmit}>
+                    <div className="form-input">
+                        <div className="form-text">{FormTitle}</div>
+                        <input list="form-data" className="form-input-element" onChange={inputHandle} value={inputValue}/>
+                    </div>
+                    {(FormTitle=='שם יישוב/עיר') 
+                        ? (
+                            <CityDataList InputCity={inputValue} updateInput={updateInput}/>
+                        )
+                        : (                                                                                            
+                            <LineDataList InputLine={inputValue} linePayLoad={FormPayLoad} updateInput={updateInput}/>
+                        )
+                    }
+                    <button id="generate-qr" style={{backgroundColor: (validityArray.includes(inputValue)) ? 'purple':'black',color:(validityArray.includes(inputValue)) ? 'white':'black'}}>
+                        {FormActionName}
+                    </button>
+                </form>
+            </div>
+        </>
+    )
 }
 
-:root {
-  --backGroundTheme: #121212;
-  --navigatorTheme: #3b3b3d;
-  --navHeight: 70px;
-  --footerHeight:47px;
-}
-body{
-  margin: 0px;
-  font-family: 'Heebo';
-}
-.page-links{
-  text-decoration: none;
-}
-.body-element{
-  background-color: var(--backGroundTheme);
-  height: 80vh;
-  width: 100%;
-}
-#head-flow{
-  display: flex;
-  height: var(--navHeight);
-  width: 100%;
-}
-#head-container{
-  background-color: var(--navigatorTheme);
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
-}
-#head-logo{
-  border: 2px solid white;
-  border-radius: 15px;
-  margin: 8px 12px;
-  font-size: 18px;
-  font-weight: bold;
-  padding: 12px;
-  color: white;
-  text-align: center;
-}
 
-#text-logo{
-  position: relative;
-  bottom: 3.5px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  margin: 0px 6px;
-}
-
-#head-menu{
-  display: flex;
-  justify-content: start;
-}
-.nav-item{
-  position: relative;
-  top: 8px;
-  font-size: 18px;
-  font-weight: bold;
-  padding: 12px;
-  color: white;
-  text-align: center;
-}
-.nav-item:hover{
-  background-color: white;
-  color: var(--navigatorTheme);
-}
-#home-flow{
-  display: flex;
-  justify-content: center;
-  overflow: hidden;
-}
-#home-container{
-  background-color: var(--backGroundTheme);
-  display: flex;
-  justify-content: center;
-}
-#home-element{
-  display: flex;
-  flex-direction: column;
-  width: 280px;
-  padding: 16vh 0vh;
-}
-#home-text{
-  text-align: center;
-  color: white;
-  font-weight: bold;
-  font-size: 54px;
-}
-#home-icons{
-  margin-top: 18px;
-  color: purple;
-  display: flex;
-  justify-content: space-evenly;
-}
-.home-icon{
-  height: 64px;
-  width: 64px;
-}
-#stage-layout{
-  display: flex;
-  flex-direction: column;
-}
-#text-container{
-  background-color: var(--backGroundTheme);
-  display: flex;
-  justify-content: center;
-}
-.connecting-line{
-  position: relative;
-  top: 20px;
-  width: 14vw;
-  height: 3px;
-  background-color: grey;
-}
-.connecting-line-flow{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-.stage-stance{
-  height: 10px;
-  width: 10px;
-  border-radius: 100%;
-}
-.stage-stance-flow{
-  display: flex;
-  justify-content: center;
-}
-.stage-text-container{
-  position: relative;
-  top: 20px;
-  display: flex;
-  flex-direction: column;
-  width: 80px;
-
-  font-weight: bold;
-}
-.stage-text-flow{
-  display: flex;
-  justify-content: center;
-}
-
-#form-container{
-  padding-top: 10vh;
-  background-color: var(--backGroundTheme);
-  height: 68vh;
-  display: flex;
-  justify-content: center;
-}
-#teekuf-form{
-  width: 84%;
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-}
-#form-input-container{
-  display: flex;
-  justify-content: space-evenly;
-  color: white;
-}
-.form-text{
-  position: relative;
-  bottom: 6px;
-  font-size: 36px;
-  font-weight: bold;
-}
-.loading-svg{
-  position: relative;
-  top: 60px;
-  height: 100px;
-  width: 100px;
-}
-.form-input{
-  position: relative;
-  right: 26px;
-  bottom: 8px;
-  height: 180px;
-  width: 300px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-evenly;
-  margin: 12px 0px;
-  padding: 16px;
-  border: 2px solid purple;
-  border-radius: 15px;
-}
-.form-input-element{
-  font-size: 16px;
-  padding: 4px;
-  direction: rtl;
-  font-family: inherit;
-  text-align: center;
-}
-#generate-qr{
-  border: none;
-  font: inherit;
-  font-weight: bold;
-  border-top-right-radius: 15px;
-  border-bottom-left-radius: 15px;
-  background-color: purple;
-  padding: 12px;
-  color: white;
-  width: 110px;
-  margin-top: 12px;
-  margin-left: auto;
-  margin-right: auto;
-}
-#generate-qr:hover{
-  font-weight: bold;
-  background-color: white;
-  color: purple;
-  cursor:pointer;
-}
-#qr-layout{
-  display: flex;
-  justify-content: center;  
-  background-color: var(--backGroundTheme);
-}
-#qr-container{  
-  height: 80vh;
-  width: 400px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-evenly;
-}
-#new-code-action{
-  display: flex;
-  justify-content: center;
-}
-#new-code-action:hover{
-  color: purple;
-}
-#new-form-container{
-  display: flex;
-  justify-content: right;
-}
-#new-form{
-  color: white;
-}
-#data-list-container{
-  display: none;
-  flex-direction: column;
-  justify-content: end;
-  position: absolute;
-  left:auto;
-  margin-left: 11px;
-  top: 62vh;
-  border-radius: 10px;
-  overflow: hidden;
-}
-.city-item{
-  width: 260px;
-  height: 26px;
-  padding: 3px 0px;
-  text-align: center;
-  color: black;
-  font-weight: bold;
-  background-color: white;
-  border: 1px solid black;
-}
-.city-item:hover{
-  background-color: yellow;
-  cursor: pointer;
-}
-#qr-title{
-    text-align: center;
-    color: white;
-    font-size: 40px;
-}
-#qr-symbol{
-  margin: 0 auto;
-  border: 5px solid purple;
-  width:200px;
-  height:200px;
-  position: relative;
-  bottom: 20px;
-}
-#qr-actions{
-  position: relative;
-  bottom: 26px;
-  padding: 4px 0px;
-  font-size: 20px;
-  color: white;
-  display: flex;
-  justify-content: center;
-}
-.qr-action{
-  margin: 0px 28px;
-  color: white;
-}
-#download-action{
-  color: white;
-  display: flex;
-  justify-content: center;
-}
-#download-action:hover{
-  cursor: pointer !important;
-  color: purple !important;
-}
-#print-action{
-  display: flex;
-  justify-content: center;
-}
-#print-action:hover{
-  cursor: pointer;
-  color: purple;
-}
-.qr-action-text{
-  color: white;
-  position: relative;
-  right:3px;
-  bottom: 3px;
-}
-#footer-flow{
-  width: 100%;
-  height: var(--footerHeight);
-  color: white;
-  background-color: var(--navigatorTheme);
-  position: absolute;
-  bottom: 0px;
-  display: flex;
-  justify-content: center;
-}
-#unsupported-flow{
-  display: flex;
-  flex-direction: column;
-  justify-content: right;
-  color: white;
-  padding: 6vh 16px;
-}
-#unsupported-header{
-  font-size: 32px;
-  font-weight: bold;
-  text-align: center;
-}
-#unsupported-paragraph{
-  padding: 6px 0px;
-  font-size: 16px;
-  text-align: right;
-}
-#footer-text{
-  margin-top: 2vh;
-}
-#printPage{
-  margin: 12px;
-}
-#print-img{
-  height: 200px;
-  width: 200px;
-}
-#about-layout{
-  display: flex;
-  justify-content: center;
-}
-#about-flow{
-  margin-top: 16px;
-  display: flex;
-  flex-direction: column;
-  width: 600px;
-  color: white;
-  padding: 12px;
-}
-.about-item{
-  text-align: right;
-  margin: 10px 0px;
-  font-size: 14px;
-}
-.about-header{
-  text-align: right;
-  font-weight: bold;
-  font-size: 24px;
-}
-#not-found-layout{
-  display: flex;
-  justify-content: center;
-}
-#not-found-flow{
-  margin:22px;
-  width: 600px;
-  color: white;
-  display: flex;
-  flex-direction: column;
-}
-#not-found-header{
-  text-align: right;
-  font-size: 32px;
-}
-#not-found-text{
-  margin-top: 12px;
-  text-align: right;
-}
+export default FormInput
