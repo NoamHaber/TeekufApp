@@ -23,7 +23,7 @@ a{
     }
     #home-element{
       position: relative;
-      top: 8vh;
+      top: 5vh !important;
     }
     .stage-text-container{
       position: relative !important;
