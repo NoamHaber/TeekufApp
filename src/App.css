@@ -58,7 +58,6 @@ a{
     }
     #qr-container{
       position:relative !important;
-      bottom:4vh !important;
     }
     :root {
       --navHeight: 78px !important;
