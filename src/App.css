@@ -11,6 +11,7 @@ a{
       right: 6px!important;
     }
     #teekuf-form{
+      bottom:2vh !important
       position: relative;
       justify-content: space-around!important;
     }
@@ -39,7 +40,7 @@ a{
       text-align: center !important;
     }
     #data-list-container{
-      top: 30vh !important;
+      top: 28vh !important;
     }
     #generate-qr{
       font-size: 24px !important;
