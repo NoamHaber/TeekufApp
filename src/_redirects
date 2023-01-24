@@ -1,6 +1,2 @@
 # Redirects from what the browser requests to what we serve
-/		         /
-/home              	         /
-/About           	         /About
-/CreateQrCode          /CreateQrCode
-/NotFound	        /NotFound
+*             /index.html
