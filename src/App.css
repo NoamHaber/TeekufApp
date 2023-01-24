@@ -4,10 +4,17 @@ a{
 }
 @media screen and (max-width: 480px) {
     .form-input{
-      top:9vh !important;
+      top:0px !important;
+    }
+    .nav-item{
+      position: relative !important;
+      right: 6px!important;
+    }
+    #teekuf-form{
+      justify-content: space-around!important;
     }
     .body-element{
-      height: 85vh !important;
+      height: 74vh !important;
     }
     #text-container{
       border-bottom: 2px solid var(--backGroundTheme);
@@ -19,25 +26,25 @@ a{
     .stage-text-container{
       position: relative !important;
       font-size: 18px !important;
-      top: 40px!important;
+      top: 65px!important;
     }
     .connecting-line-flow{
       position: relative !important;
-      top: 30px!important;
+      top: 55px!important;
     }
     #footer-flow{
       height: 10vh !important;
       text-align: center !important;
     }
     #data-list-container{
-      top: 57vh !important;
+      top: 51.8vh !important;
     }
     #generate-qr{
       font-size: 24px !important;
       height: 60px !important;
       width: 120px !important;
       position: relative !important;
-      top: 24vh !important;
+      bottom: 3vh !important;
     }
     #qr-title{
       font-size: 62px !important;
@@ -52,7 +59,7 @@ a{
     }
     #head-container{
       border: 2px solid var(--navigatorTheme);
-      height: var(--navHeight) !important;
+      height: 120px !important;
     }
     #head-logo{
       margin-top:10px !important;
