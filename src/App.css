@@ -11,7 +11,7 @@ a{
       right: 6px!important;
     }
     #teekuf-form{
-      bottom:2vh !important
+      bottom:3vh !important
       position: relative;
       justify-content: space-around!important;
     }
@@ -28,11 +28,11 @@ a{
     .stage-text-container{
       position: relative !important;
       font-size: 18px !important;
-      top: 7vh!important;
+      top: 6vh!important;
     }
     .connecting-line-flow{
       position: relative !important;
-      top: 6vh!important;
+      top: 5vh!important;
     }
     #footer-flow{
       position: absolute !important;
@@ -58,6 +58,7 @@ a{
       font-size: 24px !important;
     }
     #qr-container{
+      bottom:2vh !important;
       position:relative !important;
     }
     :root {
