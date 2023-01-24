@@ -8,9 +8,9 @@ function TeekufFooter(){
 
     return(    
         <div id="footer-flow" style={{'display' : (!print_mode) ? 'flex' : 'none','justifyContent':'space-between'}}>
-            <a href="https://www.linkedin.com/in/noam-haber-a101521a3/" target="_blank" style={{'color':'blue','marginLeft':'4px'}} ><FaLinkedin style={{'position':'relative','height':'40px','width':'40px'}}/></a>    
+            <a href="https://www.linkedin.com/in/noam-haber-a101521a3/" target="_blank" style={{'color':'blue','marginLeft':'6px'}} ><FaLinkedin style={{'position':'relative','height':'28px','width':'28px'}}/></a>    
             <span id="footer-text" style={{'text-align':'center'}}>השימוש הוא על דעת המשתמש בלבד ועל פי נהלי משרד התחבורה</span>
-            <a href="https://github.com/NoamHaber/" target="_blank" style={{'color':'red','marginRight':'4px'}} ><FaGithub style={{'position':'relative','height':'40px','width':'40px'}}/></a>    
+            <a href="https://github.com/NoamHaber/" target="_blank" style={{'color':'red','marginRight':'6px'}} ><FaGithub style={{'position':'relative','height':'28px','width':'28px'}}/></a>    
         </div>
     )
 }
