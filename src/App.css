@@ -12,7 +12,7 @@ a{
     }
     #teekuf-form{
       position: relative;
-      bottom: 76px !important;
+      bottom: 46px !important;
       justify-content: space-around!important;
     }
     .body-element{
@@ -57,6 +57,10 @@ a{
     }
     .qr-action-text{
       font-size: 24px !important;
+    }
+    #qr-container{
+      position:relative !important;
+      bottom:4vh !important;
     }
     :root {
       --navHeight: 78px !important;
