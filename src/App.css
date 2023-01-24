@@ -3,6 +3,9 @@ a{
   text-decoration: none;
 }
 @media screen and (max-width: 480px) {
+    #print-action{
+     display:none !important  
+    }
     .form-input{
       top:0px !important;
     }
