@@ -12,7 +12,7 @@ a{
     }
     #teekuf-form{
       position: relative;
-      bottom: 10px !important;
+      bottom: 22px !important;
       justify-content: space-around!important;
     }
     .body-element{
@@ -28,11 +28,11 @@ a{
     .stage-text-container{
       position: relative !important;
       font-size: 18px !important;
-      top: 58px!important;
+      top: 46px!important;
     }
     .connecting-line-flow{
       position: relative !important;
-      top: 48px!important;
+      top: 36px!important;
     }
     #footer-flow{
       position: sticky !important;
@@ -41,14 +41,14 @@ a{
       text-align: center !important;
     }
     #data-list-container{
-      top: 29vh !important;
+      top: 27vh !important;
     }
     #generate-qr{
       font-size: 24px !important;
       height: 60px !important;
       width: 120px !important;
       position: relative !important;
-      bottom: 3vh !important;
+      bottom: 4.5vh !important;
     }
     #qr-title{
       font-size: 62px !important;
