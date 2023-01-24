@@ -26,8 +26,8 @@ function About()
                         <div className="about-item about-header">
                             !אהבתי 
                         </div>
-                        אהבתם? איזה כיף! אשמח אם תשלחו לי הודעה או סתם תיצרו קשר בעמוד הלינקדאין שלי <a style={{"color":"white","fontWeight":"bold"}} href="https://www.linkedin.com/in/noam-haber-a101521a3/" target="_blank"><FaLinkedin style={{'position':'relative','top':'2.5px','left':'1.5px'}}/><i style={{'position':'relative','right':'1.5px'}}>פה</i></a>. 
-                        יתפרסמו שם כמה פוסטים שמסבירים עוד על המחקר שקדם לאפליקציה ולמה בעצם יצרתי אותה. בנוסף מוזמנים לעקוב בעמוד הגיטהאב שלי <a style={{"color":"white","fontWeight":"bold"}} href="https://github.com/NoamHaber/" target="_blank"><FaGithub style={{'position':'relative','top':'2.5px','left':'1.5px'}}/><i style={{'position':'relative','right':'1.5px'}}>פה</i></a>
+                        אהבתם? איזה כיף! אשמח אם תשלחו לי הודעה או סתם תיצרו קשר בעמוד הלינקדאין שלי <a style={{"color":"white","fontWeight":"bold"}} href="https://www.linkedin.com/in/noam-haber-a101521a3/" target="_blank"><FaLinkedin style={{'position':'relative','top':'2.5px','left':'1.5px','color':'blue'}}/><i style={{'position':'relative','right':'1.5px'}}>פה</i></a>. 
+                        יתפרסמו שם כמה פוסטים שמסבירים עוד על המחקר שקדם לאפליקציה ולמה בעצם יצרתי אותה. בנוסף מוזמנים לעקוב בעמוד הגיטהאב שלי <a style={{"color":"white","fontWeight":"bold"}} href="https://github.com/NoamHaber/" target="_blank"><FaGithub style={{'position':'relative','top':'2.5px','left':'1.5px','color':'black'}}/><i style={{'position':'relative','right':'1.5px'}}>פה</i></a>
                         <br />
                         <div className="about-item about-header">
                             !נסיעה נעימה
