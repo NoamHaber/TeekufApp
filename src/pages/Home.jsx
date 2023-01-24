@@ -5,7 +5,7 @@ function Home(){
         <div id="home-container" className="body-element">
             <div id="home-flow">
                 <div id="home-element">
-                    <span id="home-text">ליסוע איך שמתאים לך</span>
+                    <span id="home-text">לנסוע איך שמתאים לך</span>
                     <div id="home-icons">
                         <FaQrcode className="home-icon" />
                         <FaBus className="home-icon" />
