@@ -37,7 +37,6 @@ a{
     #footer-flow{
       position: sticky !important;
       bottom: 0px !important;
-      height: 10vh !important;
       text-align: center !important;
     }
     #data-list-container{
@@ -64,6 +63,7 @@ a{
     }
     :root {
       --navHeight: 78px !important;
+      --footerHeight: 10vh !important;
     }
     #head-container{
       border: 2px solid var(--navigatorTheme);
@@ -467,4 +467,10 @@ body{
 #not-found-text{
   margin-top: 12px;
   text-align: right;
+}
+#footer-linkedin{
+  top: calc(0.5*var(--footerHeight))
+}
+#footer-github{
+  top: calc(0.5*var(--footerHeight))
 }
