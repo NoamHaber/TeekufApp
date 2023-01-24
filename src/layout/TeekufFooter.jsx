@@ -1,4 +1,5 @@
 import { useContext } from "react";
+import { FaGithub, FaLinkedin } from "react-icons/fa";
 import BusContext from "../Context/BusContext";
 
 function TeekufFooter(){
@@ -9,6 +10,8 @@ function TeekufFooter(){
         <div id="footer-flow" style={{'display' : (!print_mode) ? 'flex' : 'none'}}>
             <span id="footer-text">
             השימוש הוא על דעת המשתמש בלבד ועל פי נהלי משרד התחבורה
+            <FaGithub style={{'margin':'2.5px 2px'}}/>
+            <FaLinkedin style={{'margin':'2.5px 2px'}}/>
             </span>
         </div>
     )
