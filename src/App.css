@@ -75,6 +75,12 @@ a{
     .nav-item{
       top: 9px !important;
     }
+    #footer-linkedin{
+      top: 1.3vh;
+    }
+    #footer-github{
+      top: 1.3vh;
+    }
 }
 
 :root {
