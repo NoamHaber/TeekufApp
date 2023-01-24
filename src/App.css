@@ -41,6 +41,7 @@ a{
     }
     #data-list-container{
       top: 31vh !important;
+      z-index:0 !important;
     }
     #generate-qr{
       font-size: 24px !important;
@@ -48,6 +49,7 @@ a{
       width: 120px !important;
       position: relative !important;
       bottom: 4.5vh !important;
+      z-index:1 !important;
     }
     #qr-title{
       font-size: 62px !important;
