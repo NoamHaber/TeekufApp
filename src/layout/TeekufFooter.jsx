@@ -11,7 +11,7 @@ function TeekufFooter(){
             <span id="footer-text">
             השימוש הוא על דעת המשתמש בלבד ועל פי נהלי משרד התחבורה
             <a href="https://www.linkedin.com/in/noam-haber-a101521a3/" target="_blank" style={{'color':'red'}} ><FaGithub href="https://github.com/NoamHaber/" target="_blank" style={{'position':'relative','top':'2px','left':'4px'}}/></a>
-            <a href="https://www.linkedin.com/in/noam-haber-a101521a3/" target="_blank" style={{'color':'blue'}} ><FaLinkedin style={{'position':'relative','top':'2px','left':'4px'}}/></a>
+            <a href="https://www.linkedin.com/in/noam-haber-a101521a3/" target="_blank" style={{'color':'blue'}} ><FaLinkedin style={{'position':'relative','top':'2px','left':'6px'}}/></a>
             </span>
         </div>
     )
