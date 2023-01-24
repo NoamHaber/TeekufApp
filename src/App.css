@@ -35,7 +35,7 @@ a{
       top: 36px!important;
     }
     #footer-flow{
-      position: sticky !important;
+      position: absolute !important;
       bottom: 0px !important;
       text-align: center !important;
     }
