@@ -11,6 +11,8 @@ a{
       right: 6px!important;
     }
     #teekuf-form{
+      position: relative;
+      bottom: 10px !important;
       justify-content: space-around!important;
     }
     .body-element{
@@ -21,23 +23,25 @@ a{
     }
     #home-element{
       position: relative;
-      top: 8vh;
+      top: 5vh !important;
     }
     .stage-text-container{
       position: relative !important;
       font-size: 18px !important;
-      top: 65px!important;
+      top: 58px!important;
     }
     .connecting-line-flow{
       position: relative !important;
-      top: 55px!important;
+      top: 48px!important;
     }
     #footer-flow{
+      position: sticky !important;
+      bottom: 0px !important;
       height: 10vh !important;
       text-align: center !important;
     }
     #data-list-container{
-      top: 51.8vh !important;
+      top: 29vh !important;
     }
     #generate-qr{
       font-size: 24px !important;
