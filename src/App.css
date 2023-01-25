@@ -163,7 +163,7 @@ body{
   display: flex;
   flex-direction: column;
   width: 280px;
-  padding: 16vh 0vh;
+  padding: 9vh 0vh;
 }
 #home-text{
   text-align: center;
