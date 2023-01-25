@@ -41,14 +41,14 @@ a{
     }
     #data-list-container{
       top: 30vh !important;
-      z-index:0 !important;
+      z-index:2 !important;
     }
     #generate-qr{
       font-size: 24px !important;
       height: 60px !important;
       width: 120px !important;
       position: relative !important;
-      bottom: 1.5vh !important;
+      bottom: 3vh !important;
       z-index:1 !important;
     }
     #qr-title{
