@@ -10,6 +10,11 @@ function Home(){
                         <FaQrcode className="home-icon" />
                         <FaBus className="home-icon" />
                     </div>
+                    <Link to="/CreateQrCode" style={{'display':'flex','justifyContent':'center'}}>
+                        <button id="start-form">
+                                    QR צור קוד
+                        </button>
+                    </Link>
                 </div>
             </div>
         </div>
