@@ -11,7 +11,7 @@ a{
       right: 6px!important;
     }
     #teekuf-form{
-      bottom:5vh !important;
+      bottom:6.5vh !important;
       position: relative;
       justify-content: space-around!important;
     }
@@ -40,7 +40,7 @@ a{
       text-align: center !important;
     }
     #data-list-container{
-      top: 30vh !important;
+      top: 28.5vh !important;
       z-index:2 !important;
     }
     #generate-qr{
@@ -48,7 +48,7 @@ a{
       height: 60px !important;
       width: 120px !important;
       position: relative !important;
-      bottom: 3vh !important;
+      bottom: 4.5vh !important;
       z-index:1 !important;
     }
     #qr-title{
