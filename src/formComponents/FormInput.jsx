@@ -30,8 +30,10 @@ function FormInput({FormTitle,FormPayLoad,FormActionName,FormAction})
 
     const formSubmit = (e) => {
         e.preventDefault();
-        FormAction(inputValue);
-        setInputValue('');
+        if (validityArray.includes(inputValue)){
+            FormAction(inputValue);
+            setInputValue('');
+        }
     }
 
     return(
