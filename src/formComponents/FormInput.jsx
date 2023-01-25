@@ -50,7 +50,7 @@ function FormInput({FormTitle,FormPayLoad,FormActionName,FormAction})
                             <LineDataList InputLine={inputValue} linePayLoad={FormPayLoad} updateInput={updateInput}/>
                         )
                     }
-                    <button id="generate-qr" style={{backgroundColor: (validityArray.includes(inputValue)) ? 'purple':'black',color:(validityArray.includes(inputValue)) ? 'white':'black'}}>
+                    <button id="generate-qr" style={{backgroundColor: (validityArray.includes(inputValue)) ? 'purple':'#121212',color:(validityArray.includes(inputValue)) ? 'white':'#121212'}}>
                         {FormActionName}
                     </button>
                 </form>
