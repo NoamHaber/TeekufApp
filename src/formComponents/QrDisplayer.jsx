@@ -12,7 +12,7 @@ function QrDisplayer({FormPayLoad,LineCompany})
     const navigate = useNavigate();
 
     const restartForm = () => {
-        dispatch({type:'CLEAR_INFORMATION'});
+        window.location.reload();
     }
 
     useEffect(()=>{
@@ -40,7 +40,7 @@ function QrDisplayer({FormPayLoad,LineCompany})
                             <FaDownload />
                         </div>
                         <div id="new-code-action" className='qr-action'>
-                        <Link to="/" id="new-form" onClick={restartForm} className="qr-action-text">חדש</Link>
+                        <div to="/" id="new-form" onClick={restartForm} className="qr-action-text">חדש</div>
                             <FaRedo />
                         </div>
                         
